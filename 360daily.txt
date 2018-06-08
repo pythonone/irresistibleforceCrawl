@@ -1,0 +1,1484 @@
+2018-03-30
+CVE-2018-0171:Cisco Smart Install远程命令执行漏洞预警,https://cert.360.cn/warning/detail?id=f7d09fffded750e131cda824ef356514
+CVE-2018-7600:Drupal核心远程代码执行漏洞预警,https://cert.360.cn/warning/detail?id=3d862f150b642421c087b0493645b745
+近期发现的一系列Linux文件系统漏洞以及对应CVE编号,http://seclists.org/oss-sec/2018/q1/284?utm_source=dlvr.it
+在IOS应用上阻止SSL证书绑定绕过,https://www.guardsquare.com/en/blog/ios-ssl-certificate-pinning-bypassing
+使用EPT监视和控制内核API调用,https://github.com/tandasat/ddimon
+IDA协作逆向,https://github.com/idaconnect/idaconnect
+逆向MacOS 内核模块,https://lightbulbone.com/posts/2016/10/dsmos-kext/
+卡巴斯基实验室开源了它的威胁捕猎工具,https://www.darkreading.com/perimeter/kaspersky-lab-open-sources-its-threat-hunting-tool/d/d-id/1331388
+Formbook 恶意软件深入分析,https://thisissecurity.stormshield.com/2018/03/29/in-depth-formbook-malware-analysis-obfuscation-and-process-injection/
+Adhrit——Android APK逆向与分析工具,https://www.kitploit.com/2018/03/adhrit-android-apk-reversing-and.html?m=1
+魔兽争霸官方对战平台等其他平台包含有远程代码执行漏洞(内含EXP),https://www.52pojie.cn/thread-718808-1-1.html
+大学校园中加密货币挖掘惊人激增,https://blog.vectra.ai/blog/the-alarming-surge-in-cryptocurrency-mining-on-college-campuses
+央视曝光偷密码的“万能钥匙”，9亿人个人信息存风险,http://www.freebuf.com/news/166791.html
+CNCERT 2018年2月我国DDoS攻击资源分析报告,http://www.freebuf.com/articles/paper/166601.html
+Lizard Squad 成员由于提供 DDos-for-hire 攻击服务被判入狱,https://www.welivesecurity.com/2018/03/29/lizard-squad-member-jailed/
+根据西雅图时报的报道。波音公司的一个生产工厂感染了WannaCry 勒索软件,https://securityaffairs.co/wordpress/70768/malware/wannacry-boeing-production-plant.html
+Amazon 的AWS错误配置，导致任意文件上传,https://rhinosecuritylabs.com/aws/amazon-aws-misconfiguration-amazon-go/
+印度电力公司账单数据被窃取,https://www.bleepingcomputer.com/news/security/power-company-in-india-hacked-and-billing-data-ransomed-for-10-million-rupees/
+苹果发布多个安全更新,https://www.us-cert.gov/ncas/current-activity/2018/03/29/apple-releases-multiple-security-updates
+2018-03-31
+五个三星手机漏洞及对应CVE编号,https://mailclark.ai/email/original/9732192/593541/BOl8I3YVEEsUlNs6CmR2G1_7TBg?from_name=flanker017&from_address=flankerhqd017%40gmail.com
+CVE-2018-5955:GitStack未经验证的远程代码执行漏洞exp,https://cxsecurity.com/issue/WLB-2018030250
+CVE-2018-1038: 微软TotalMeltdown漏洞分析预警,https://cert.360.cn/warning/detail?id=b58c185c339521ee4e31674d36cd36e3
+七款安卓应用被广告软件感染，下载超过50万次,https://securingtomorrow.mcafee.com/consumer/consumer-threat-notices/android-apps-infected-with-adware/
+使用windows事件日志关联来检测密码破解攻击,https://www.ziemba.ninja/?p=66
+PS4越狱的BPF内核洞 Writeup,https://github.com/Cryptogenic/Exploit-Writeups/blob/master/FreeBSD/PS4%204.55%20BPF%20Race%20Condition%20Kernel%20Exploit%20Writeup.md
+docker容器镜像安全概述,http://blog.nsfocus.net/docker-mirror-security/
+Malwarebytes:关于近年来主要的攻击工具集报告,https://blog.malwarebytes.com/threat-analysis/2018/03/exploit-kits-winter-2018-review/
+微步:关于APT组织白象的报告,https://m.threatbook.cn/detail/440?from=groupmessage&isappinstalled=0
+摩诃草APT组织网络攻击活动分析报告,https://mp.weixin.qq.com/s/hJvDqIuBZgd2_xua4suy0w
+Under Armour的数据泄露事件影响了1.5亿MyFitnessPal用户,https://securityaffairs.co/wordpress/70814/data-breach/under-armour-hack.html
+2018-04-01
+1.数以万计的Django应用程序由于开发人员忘记禁用调试模式而泄露敏感数据,https://securityaffairs.co/wordpress/70869/hacking/django-apps-misconfigured.html
+1.监控macOS Part1：通过MACF监控进程,https://www.fortinet.com/blog/threat-research/monitoring-macos--part-i--monitoring-process-execution-via-macf.html
+2.监控macOS Part2：通过MACF监控文件系统事件和Dylib加载,https://www.fortinet.com/blog/threat-research/monitor-file-system-events-and-dylib-loading-via-macf-on-macos.html
+3.监控macOS Part3：使用套接字监控网络活动,https://www.fortinet.com/blog/threat-research/monitoring-macos--part-iii--monitoring-network-activities-using-.html
+4.探索Cobalt Strike的ExternalC2框架,https://blog.xpnsec.com/exploring-cobalt-strikes-externalc2-framework/
+1.Cyber Defense Magazine三月刊,http://www.cyberdefensemagazine.com/newsletters/march-2018/CDM-CYBER-DEFENSE-eMAGAZINE-March-2018.pdf
+2.趋势科技本周威胁报告,https://blog.trendmicro.com/tippingpoint-threat-intelligence-and-zero-day-coverage-week-of-march-26-2018/
+3.俄罗斯黑客Yevgeni Nikulin被引渡到美国,https://securityaffairs.co/wordpress/70879/cyber-crime/yevgeni-nikulin.html
+4.Cambridge Analytica文件阐述了SCL公司如何影响选举,http://www.bbc.com/news/technology-43581892
+5.趋势科技关于如何拦截高风险电子邮件威胁报告,https://blog.trendmicro.com.tw/?p=55091#more-55091
+6.美国某市政府遭勒索软件袭击，重回纸质办公时代,https://mp.weixin.qq.com/s/oC44PqtE8HFW0fW-7ck9zQ
+7.今日头条会被植入木马？风险有，但普通黑客做不到 ,https://www.leiphone.com/news/201803/G0chbrxMYa733Qka.html
+1.用fileless 技术挖矿的恶意软件GhostMiner ,https://mp.weixin.qq.com/s?__biz=MzI4ODA4MTcxMA==&mid=2649551422&idx=1&sn=792cb38ea78e65b0311ed94e470caa30&chksm=f3db807fc4ac0969ca1a028472661f78713f64a843f88c18b07f4057cbda43cbfbeeb31fa346&mpshare=1&scene=1&srcid=03315l3YZQ2y2tZClq8fdSzG&pass_ticket=lvGkiE84nHrzqQXW0nuQWNjfSCKow2iFzUR1vkZvY5larziYCM8RIoTNhLZEcJmc#rd
+2.恶意软件Fauxpersky伪装成卡巴斯基杀毒，并通过USB驱动传播,https://securityaffairs.co/wordpress/70840/malware/fauxpersky-keylogger.html
+3.新勒索病毒（GandCrab 2）变本加厉 北上广等多地受害 ,https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247484235&idx=1&sn=f3b7227f45b44a5a5d111da633a382b3&pass_ticket=lvGkiE84nHrzqQXW0nuQWNjfSCKow2iFzUR1vkZvY5larziYCM8RIoTNhLZEcJmc
+2018-04-02
+1.Viscom Software Movie Player Pro SDK ActiveX缓冲区溢出漏洞（CVE-2010-0356）,https://www.checkpoint.com/defense/advisories/public/2018/cpai-2017-1010.html
+1.PE文件的内存映射,https://www.youtube.com/watch?v=cc1tX1t_bLg
+2.MIPS的奇妙世界,https://www.ringzerolabs.com/2018/03/the-wonderful-world-of-mips.html
+3.Windows特权升级基础,None
+1.SandiFlux：黑客使用Fast Flux进行攻击,https://gbhackers.com/sandiflux-hackers-malware-distribution/amp/
+1.WannaCry恐怖故事还在继续上演：波音之后，下一个是谁？,https://www.secrss.com/articles/1770
+1.在SWIFT黑客袭击马来西亚央行后，菲律宾央行向本国发出警告,https://securityaffairs.co/wordpress/70930/hacking/malaysia-central-swift-hack.html
+2.发达国家应用互联网与大数据推进政府治理的主要做法与借鉴,https://www.secrss.com/articles/1768
+3.俄罗斯如何对西方跨大西洋纽带发动信息污染战？,https://www.secrss.com/articles/1760
+4.深圳市公安局：IDC、云平台信息安全等级保护不得低于三级，否则从严处罚,https://mp.weixin.qq.com/s/hlPHPyJSDEwxYMO8GRXS-g
+5.cloudflare发布地址为1.1.1.1的DNS服务,https://blog.cloudflare.com/announcing-1111/
+2018-04-03
+Apache Ignite中存在任意代码执行漏洞,http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1295
+DedeCMS 5.7允许远程攻击者通过egroup参数执行任意PHP代码,https://xz.aliyun.com/t/2237
+WampServer 3.1.2 CSRF远程添加或删除任何虚拟主机,https://cxsecurity.com/issue/WLB-2018040015
+Apple macOS的install.log以明文形式存储APFS密码,https://securityaffairs.co/wordpress/70904/breaking-news/apfs-flaws.html
+WampServer 3.1.1XSS通过CSRF跨站点脚本可远程利用,https://cxsecurity.com/issue/WLB-2018040014
+Talos发现了一个命名为KevDroid新的Android假冒防病毒恶意软件,http://blog.talosintelligence.com/2018/04/fake-av-investigation-unearths-kevdroid.html
+趋势科技的研究人员最近发现了一款名为ANDROIDOS HIDDENMINER的Android矿工新品种,https://securityaffairs.co/wordpress/70968/malware/hiddenminer-android-miner.html
+Google禁止网上商店中挖掘加密货币的Chrome扩展程序,https://www.bleepingcomputer.com/news/google/google-bans-chrome-extensions-that-mine-cryptocurrencies-from-the-web-store/
+重庆警方突袭某公司抓捕数十人，该公司技术支持犯罪团伙,https://www.secrss.com/articles/1793
+Tor今天宣布计划停止Tor Messenger项目,https://www.bleepingcomputer.com/news/software/tor-project-discontinues-tor-messenger-after-only-25-years/
+美国国防部希望利用Bug赏金计划来消除威胁,https://threatpost.com/u-s-dod-hopes-to-stamp-out-threats-with-bug-bounty-program/130908/
+剑桥Analytica丑闻曝光后Facebook宣布安全改进措施，以防止未来干扰选举,https://securityaffairs.co/wordpress/70956/social-networks/facebook-election-improvements.html
+百度发布信息安全报告，称去年打击虚假医疗广告6000万条,https://www.secrss.com/articles/1794
+利用逻辑漏洞构建开发链,https://cansecwest.com/slides/2018/Chainspotting%20Building%20Exploit%20Chains%20with%20Logic%20Bugs%20-%20Georgi%20Geshev%20and%20Rob%20Miller,%20MWR%20InfoSecurity.pptx
+PHPGGC：PHP通用gadget,https://github.com/ambionics/phpggc
+使用PowerShell诊断脚本执行命令并绕过AppLocker,https://bohops.com/2018/01/07/executing-commands-and-bypassing-applocker-with-powershell-diagnostic-scripts/
+Apple MacOS1day的分析,https://github.com/theori-io/zer0con2018_singi/blob/master/slide/singi_zer0con_2018_slide.pdf
+Exim Off-by-one(CVE-2018-6789)漏洞复现分析,https://paper.seebug.org/557/
+2018-04-04
+流行一时的Festi Rootkit再度现身,https://research.checkpoint.com/return-festi-rootkit/
+魔鬼撒旦(Satan)勒索病毒携永恒之蓝卷土重来,主攻数据库,http://t.cn/Rm7EX81
+新的android病毒从流行的IM软件中窃取信息,https://blog.trustlook.com/2018/04/02/a-trojan-with-hidden-malicious-code-steals-users-messenger-app-information/
+AhnLab发布Magniber勒索软件解密工具,http://asec.ahnlab.com/1125
+对基于SYLK文件传播Orcus远控木马样本分析,http://www.freebuf.com/articles/system/167141.html
+引导儿童安装的恶意游戏扩展程序,https://blog.malwarebytes.com/cybercrime/2018/04/malicious-gaming-extensions-a-childs-play-to-infection/
+银行提款机惊现病毒：绕过杀毒软件达到牟利目的,http://www.freebuf.com/articles/terminal/166910.html
+Drupal 8 – CVE-2017-6926漏洞详解,http://blog.nsfocus.net/drupal8-cve-2017-6926/
+一种新型SQL时间盲注攻击探索,https://zhuanlan.zhihu.com/p/35245598
+70%的chrome VPN扩展程序泄露DNS,https://thebestvpn.com/chrome-extension-vpn-dns-leaks/
+Talos披露Moxa AWK-3131A工业无线接入点中发现的命令注入漏洞(CVE-2017-14459),http://blog.talosintelligence.com/2018/04/vulnerability-spotlight-moxa-awk-3131a.html
+用一张GIF图片挂起网站,http://mp.weixin.qq.com/s/2dXfB6p7dMKIte9UOHfPjA
+URL发现数据清洗,http://mp.weixin.qq.com/s/VhU02sDU7lmOc06UnkZyjQ
+2017年网络安全(云安全)态势报告,http://www.freebuf.com/articles/paper/166756.html
+虽然并不打算为PE文件分析工具PE-bear增加新的功能,但是作者还是发布了0.3.8版本以修复一些bug,http://t.cn/Rm78foB
+百度安全实验室开源内存安全并兼容OpenSSL的TLS协议栈MesaLink,https://github.com/mesalock-linux/mesalink
+YSRC开源的驭龙主机入侵检测系统Linux执行命令监控驱动的实现方式,https://xz.aliyun.com/t/2242
+CanSecWest 2018的slide公开了,https://cansecwest.com/csw18archive.html
+工信部要求对WiFi万能钥匙等蹭网类程序开展调查,http://news.ifeng.com/a/20180403/57277597_0.shtml
+全国最大利用抢号软件倒卖车牌案破获,在读研究生黑客三年买下上海两套房,http://t.cn/RmPxO71
+默克尔所在政党承认从德国邮政购买选民数据,http://news.163.com/18/0403/10/DEF9A6UD0001899N.html
+APT组织FIN7窃取了Saks Fifth Avenue和Lord＆Taylor的500万张支付卡的数据,https://geminiadvisory.io/fin7-syndicate-hacks-saks-fifth-avenue-and-lord-taylor
+全球最大同性社交软件Grindr前几天被爆出存在漏洞会泄露用户信息及位置,又被爆出与另外两家公司分享其用户的HIV感染状况,http://t.cn/Rm7RReB
+Intel CPU漏洞风波之后苹果计划在2020年之前在MAC上使用自己的芯片,https://securityaffairs.co/wordpress/71015/breaking-news/project-kalamata-apple.html
+美国政府首次公开承认华盛顿存在外国间谍和罪犯可能用来追踪个人手机并拦截电话和信息的设备,https://apnews.com/d716aac4ad744b4cae3c6b13dce12d7e
+2018-04-05
+CVE-2018-0986 | Microsoft恶意软件保护引擎远程执行代码漏洞,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-0986
+Intel发布公告远程键盘程序存在高危提权漏洞，建议用户尽快将其卸载,http://urlqh.cn/lO41D
+Ubuntu发布安全通知:修复了一些Linux内核漏洞,https://usn.ubuntu.com/
+Talos在Natus NeuroWorks软件中发现了多个漏洞,http://blog.talosintelligence.com/2018/04/vulnerability-spotlight-natus.html
+勒索软件“假面”系列——代刷软件,https://www.anquanke.com/post/id/103608
+2017智能网联汽车信息安全年度报告,https://www.anquanke.com/post/id/103543
+fireeye发布年度威胁报告（M-Trends 2018）,https://www.fireeye.com/current-threats/annual-threat-report/mtrends.html
+一直在各大地下论坛上销售的挖矿木马“Rarog”,https://researchcenter.paloaltonetworks.com/2018/04/unit42-smoking-rarog-mining-trojan/?utm_source=feedburner
+关于隐藏挖矿移动应用程序的调查,https://securelist.com/pocket-cryptofarms/85137/
+超过1,000个Magento商店被入侵，被植入恶意脚本并窃取了用户的支付卡信息,http://t.cn/RmwYVfH
+四家美国输气管道公司遭网络攻击，电子通讯系统被关闭数天,https://www.secrss.com/articles/1821
+美国最大面包连锁店Panerabread泄露数百万顾客隐私长达八个月,https://www.secrss.com/articles/1817
+Intel 宣称：不会为旧芯片中的 Spectre 漏洞打补丁 ！,http://mp.weixin.qq.com/s/2Hpnq8NG8R_8vqNrWpEzxQ
+“剑桥分析”究竟如何通过“点赞”来影响投票倾向,https://www.secrss.com/articles/1828
+公安部发布《公安机关互联网安全监督检查规定（征求意见稿）》,http://www.mps.gov.cn/n2254536/n4904355/c6090144/content.html
+黑产仍在利用Struts2漏洞挖矿，但目标已转向Windows设备,http://mp.weixin.qq.com/s/BLNhPbUZVgAIqHzaAb_A5A
+Facebook隐私泄露人数上升至8700万，用户主要集中在美国,https://www.secrss.com/articles/1831
+医疗行业：网络入侵途径与全球安全现状,http://www.freebuf.com/articles/es/165993.html
+用java创建你的第一个区块链（第一部分）,https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
+用java创建你的第一个区块链（第二部分）交易,https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce
+CVE-2018-0797 UAF漏洞根本原因分析,https://www.fortinet.com/blog/threat-research/a-root-cause-analysis-of-cve-2018-0797---rich-text-format-styles.html
+CVE-2017-11882新动态：利用AutoIT脚本释放DarkComet后门,http://www.freebuf.com/vuls/166744.html
+使用Windows内置程序（CertUtil.exe）下载恶意软件可能会绕过安全软件检查,https://www.bleepingcomputer.com/news/security/certutilexe-could-allow-attackers-to-download-malware-while-bypassing-av/
+LockCrypt勒索软件：代码中存在疏忽，使数据有被恢复的可能,https://blog.malwarebytes.com/threat-analysis/2018/04/lockcrypt-ransomware/
+路由器漏洞分析第五弹：CVE-2018-5767路由器远程代码执行,http://www.freebuf.com/articles/wireless/166869.html
+2018-04-06
+多个jenkins插件的漏洞,https://mailclark.ai/email/original/9886555/593541/jkOrn_w_T8YoRTVkYgeQ2i2y0bk?from_name=Daniel Beck
+多个WebKitGTK+漏洞,https://mailclark.ai/email/original/9869734/593541/3dQP-GJPmLjb1wg4Y-EO_ecsf0U?from_name=Michael Catanzaro
+Android系统序列化、反序列化不匹配漏洞,https://www.anquanke.com/post/id/103570
+OSX_OCEANLOTUS.D:趋势科技发现一款新的与APT32组织有关的macOS后门,https://securityaffairs.co/wordpress/71096/apt/apt-32-group-backdoor.html
+njRAT木马变种新增勒索软件和比特币钱包窃取功能,https://www.secrss.com/articles/1840
+趋势科技对恶意软件的代码签名滥用的研究报告,https://blog.trendmicro.com/trendlabs-security-intelligence/understanding-code-signing-abuse-in-malware-campaigns/
+Gartner报告:全球网络安全产业规模发展情况及趋势预测,https://mp.weixin.qq.com/s/_jOALqJB4aVpaM25rjN5Yg
+扎尔伯格承认FaceBook扫描用户的私人消息,https://www.hackread.com/mark-zuckerberg-admits-facebook-scans-user-private-messages/
+谷歌将图像识别技术运用于军用无人机引起轩然大波,https://arstechnica.com/gadgets/2018/04/google-should-not-be-in-the-business-of-war-googlers-decry-pentagon-project/
+iphone可轻易转移公交卡账户金额造成安全隐患,https://www.secrss.com/articles/1837
+LiveChat和TouchCommerce实时聊天工具泄露知名公司的员工隐私,https://www.bleepingcomputer.com/news/security/live-chat-widgets-leak-employee-details-from-high-profile-companies/
+CloudFront上错误配置的可导致域名劫持研究,https://disloops.com/cloudfront-hijacking/
+DLL劫持漏洞概述,https://blogs.technet.microsoft.com/srd/2018/04/04/triaging-a-dll-planting-vulnerability/
+使用不可见的零宽度字符来追溯泄密者,https://www.tripwire.com/state-of-security/featured/secrets-invisible-zero-width-characters/
+Inspeckage:安卓动态评估分析工具,https://0x11sec.blogspot.in/2018/04/inspeckage-dynamic-assessment-tool-for.html
+linux内核安全防护,https://github.com/a13xp0p0v/linux-kernel-defence-map
+使用 ESI 注入滥用缓存服务可造成SSRF 和 XSS,http://gosecure.net/2018/04/03/beyond-xss-edge-side-include-injection/
+2018-04-07
+1.Apache JMeter RMI代码执行Poc（CVE-2018-1297）,http://pentestit.com/apache-jmeter-rmi-remote-code-execution-vulnerability-poc-cve-2018-1297/
+2.Mozilla Firefox在Pwn2Own 2018上被披露并快速修补的一个漏洞详情,https://www.zerodayinitiative.com/blog/2018/4/5/quickly-pwned-quickly-patched-details-of-the-mozilla-pwn2own-exploit
+3.Microsoft Windows jscript Use-After-Free Poc（CVE-2018-0935）,https://cxsecurity.com/issue/WLB-2018040042
+4.Spring框架中存在三个漏洞，其中一个可远程代码执行（CVE-2018-1270）,https://securityaffairs.co/wordpress/71117/hacking/spring-framework-hack.html
+5.Beep(CVE-2018-0492)补丁中存在任意代码执行漏洞（CVE-2018-1000156）,http://seclists.org/oss-sec/2018/q2/16
+6.Microsoft Edge CSS类型混淆导致信息泄露漏洞（CVE-2018-0763）,https://www.zerodayinitiative.com/advisories/ZDI-18-249/
+1.Google搜索引擎存在漏洞，可影响搜索结果,http://www.tomanthony.co.uk/blog/google-xml-sitemap-auth-bypass-black-hat-seo-bug-bounty/
+2.深入研究数据库攻击(第四部分)：通过SQL命令执行恶意代码(MySQL),https://www.imperva.com/blog/2018/04/deep-dive-database-attacks-part-iv-delivery-and-execution-of-malicious-executables-mysql/
+3.Linux文件系统预读的情景分析,http://mp.weixin.qq.com/s/avykSJR-5zsVqqJ3rUvb4A
+4.Fox-IT调查了关于Citrix ShareFile的设置，并发现了多个漏洞,https://www.fox-it.com/en/insights/blogs/blog/compromising-sharefile-premise-via-7-chained-vulnerabilities/
+5.Auth0认证平台身份认证绕过的相关漏洞细节,https://medium.com/@cintainfinita/knocking-down-the-big-door-8e2177f76ea5
+1.Digital Shadows 公司在亚马逊S3，rsync，SMB和FTP服务器上发现1.5亿个敏感文件被泄露,https://www.theregister.co.uk/2018/04/05/billions_files_exposed_aws_ftp_wide_open/
+1.7.ai支付卡违规行为影响包括Best Buy，控股后的Delta Air Lines和Sears等大公司,https://securityaffairs.co/wordpress/71109/data-breach/247-ai-security-breach.html
+2.和朝鲜相关的APT组织Lazarus涉嫌攻击网上赌场,https://securityaffairs.co/wordpress/71074/apt/lazarus-online-casino.html
+3.经过信息泄露事件后，微软为Office 365加入了反勒索功能,https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-anti-ransomware-features-in-office-365/
+4.勒索软件LockCryp加密算法存在缺陷，可恢复受害者数据,https://www.bleepingcomputer.com/news/security/lockcrypt-ransomware-cracked-due-to-bad-crypto/
+5.Mirai变种僵尸网络瞄准金融行业,http://mp.weixin.qq.com/s/Bs2Jx-WkYKnhpmD3a9P5Wg
+6.思科智能安装协议存在漏洞（CVE-2018-0171）,https://www.securityweek.com/unprotected-switches-expose-critical-infrastructure-attacks-cisco
+7.研究人员发现安卓后门KevDroid可能和朝鲜黑客组织APT37相关,https://www.securityweek.com/researchers-link-new-android-backdoor-north-korean-hackers
+8.Intel发现其远程键盘app存在安全问题后建议用户删除它,https://threatpost.com/intel-tells-remote-keyboard-users-to-delete-app-after-critical-bug-found/130974/
+9.VirusTotal推出'Droidy'沙箱来检测恶意Android应用程序,https://thehackernews.com/2018/04/virustotal-droidy-android-sandbox.html
+1.银行木马IcedID通过恶意软件Rovnix进行分发下载,https://blogs.cisco.com/security/icedid-banking-trojan-teams-up-with-rovnix-for-distribution
+2.虚假的软件更新正在滥用远程访问工具NetSupport Manager,https://www.fireeye.com/blog/threat-research/2018/04/fake-software-update-abuses-netsupport-remote-access-tool.html
+1.Arpag - Automatic Exploit Tool,https://www.kitploit.com/2018/04/arpag-automatic-exploit-tool.html
+2.DiskShadow使用大全 基于IOCs的防御,http://mp.weixin.qq.com/s/1EDQuEASUjdKX3EnK_IVKA
+2018-04-08
+1.Deep Exploit：结合机器学习的全自动渗透测试工具,https://securityonline.info/deep-exploit/
+1.spring-messaging远程代码执行漏洞(CVE-2018-1270)分析,https://xz.aliyun.com/t/2252
+2.Ruby的FTP实现中的漏洞(CVE-2017-17405),https://blog.heroku.com/identifying-ruby-ftp-cve
+1.思科底层网络设备爆严重漏洞,互联网上或再掀血雨腥风,http://t.cn/RmqAsWm
+2.JHT黑客组织使用思科CVE-2018-0171漏洞对俄罗斯和伊朗发动攻击,https://www.bleepingcomputer.com/news/security/iranian-and-russian-networks-attacked-using-ciscos-cve-2018-0171-vulnerability/
+1.黑客入侵远程桌面服务安装新的Matrix Matrix Ransomware变体,https://www.bleepingcomputer.com/news/security/new-matrix-ransomware-variants-installed-via-hacked-remote-desktop-services/
+2.新的ATMJackpot恶意软件盗取ATM机现金,https://www.hackread.com/atmjackpot-malware-stealing-cash-from-atms/
+1.因窃取了Sun和Oracle固件补丁，某团队CEO、COO被判刑,https://www.secrss.com/articles/1871
+2.芬兰数据泄露影响13万群众,https://securityaffairs.co/wordpress/71136/data-breach/finnish-user-data-breach.html
+2018-04-09
+CVE-2018-1308：通过Apache Solr的DIH的dataConfig请求参数进行XXE攻击,https://issues.apache.org/jira/browse/SOLR-11971
+CVE-2018-2767：MySQL＆MariaDB：BACKRONYM漏洞允许SSL/TLS通讯降级,http://backronym.fail/
+Debian信息泄漏和未经授权的访问设备漏洞,https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=895115
+Auth0是最大的身份即服务平台之一，受到严重身份验证绕过漏洞的影响,https://securityaffairs.co/wordpress/71175/hacking/auth0-authentication-bypass.html
+在4.3.4之前的Iptanus WordPress文件上传插件不适用于WordPress错误处理设置属性，导致XSS。,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-9844
+特斯拉间谍软件的新变种被Fortinet的专家发现，恶意软件已经通过武器化的微软Word文档传播开来。,https://securityaffairs.co/wordpress/71154/breaking-news/agent-tesla-campaign.html
+思科Talos表示关键基础设施遭攻击和Smart Install protocol Misuse漏洞有关,http://blog.talosintelligence.com/2018/04/critical-infrastructure-at-risk.html
+Bing Chrome下载广告推广Adware/PUP安装程序,https://www.bleepingcomputer.com/news/security/beware-of-bing-chrome-download-ads-pushing-adware-pup-installers/
+新型macOS后门程序浮出水面，被指与黑客组织“海莲花”有关联,https://www.secrss.com/articles/1874
+CVE-2018-1270:spring-messaging 远程代码执行漏洞分析,https://paper.seebug.org/562/
+AutoSploit是一款以Python编码的自动化大规模开发工具,http://pentestit.com/autosploit-shodan-censys-zoomeye-metasploit/?PageSpeed=noscript
+goGetBucket - 一种渗透测试工具,https://www.kitploit.com/2018/04/gogetbucket-penetration-testing-tool-to.html
+结构化文本工具,https://github.com/dbohdan/structured-text-tools
+2018-04-10
+CVE-2018-0492：linux beep命令中的条件竞争漏洞允许攻击者探测计算机上的文件(POC公布),https://gist.github.com/fkt/5f8f9560ef54e11ff7df8bec09dc8f9a
+思科昨日表示近期受到攻击，主要是因为Cisco Smart Install Protocol Misuse问题，不是3月份的CVE-2018-0171漏洞。建议不使用Smart Install Protocol的用户用no vstack禁用，使用Smart Install Protocol的用户在保证补丁的基础上增加下ACL限制,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180409-smi
+寄生灵手机病毒卷土重来，数十万用户遭殃,https://www.anquanke.com/post/id/104052
+Gh0st/大灰狼RAT家族通讯协议分析,https://www.anquanke.com/post/id/103831
+伪造汇丰美国SWIFT转账(103)37B2308302投递Pony-Fareit木马,https://myonlinesecurity.co.uk/fake-hsbc-usa-swift-transfer-103-37b2308302-delivers-pony-fareit-trojan/
+C0594黑客组织大肆利用网页挖矿木马牟利，已黑掉数千网站,https://mp.weixin.qq.com/s/s2TuzAAafOpVlcasSzWtGA
+物联网安全成熟度模型：描述和预期用途,http://www.iiconsortium.org/pdf/SMM_Description_and_Intended_Use_2018-04-09.pdf
+等保2.0通用要求VS等保1.0(三级)管理部分要求详细对比,http://mp.weixin.qq.com/s/nTfIzoy4AOr9AbYDxLsM8w
+个人金融信息使用不当，支付宝被央行罚款18万元,http://money.people.com.cn/n1/2018/0409/c42877-29913881.html
+虚拟货币Verge(XVG)遭受攻击，黑客获利百万美金,https://securityaffairs.co/wordpress/71203/hacking/verge-hacked.html
+扎克伯格北京时间4月10日晚间将出席国会听证会，首次公开就数据保护政策作出解释,http://tech.qq.com/a/20180410/005770.htm
+RSA 2018前瞻：CISO必须关注的四大网络安全事项,http://mp.weixin.qq.com/s/c9Tmp0F9QgUMn3SBOrbFaA
+即将开幕，RSA 2018主题演讲嘉宾阵容大曝光,http://mp.weixin.qq.com/s/FA8Au-IswnlIzzoUl4nPaA
+CVE-2018-1270：spring-messaging远程代码执行漏洞分析预警,https://cert.360.cn/warning/detail?id=3efa573a1116c8e6eed3b47f78723f12
+识别错误配置的CloudFront域名的工具,https://github.com/MindPointGroup/cloudfrunt
+如何分析虚拟机系列之一：新手篇VMProtect 1.81 Demo,https://bbs.pediy.com/thread-225262.htm
+如何分析虚拟机系列之二：进阶篇 VMProtect 2.13.8,https://bbs.pediy.com/thread-225803.htm
+在VPS上配置Burp Collaborator服务器,https://blog.fabiopires.pt/running-your-instance-of-burp-collaborator-server/
+检测Android虚拟机的方法和代码实现	,https://bbs.pediy.com/thread-225717.htm
+Threat Hunting平台HELK介绍,https://posts.specterops.io/welcome-to-helk-enabling-advanced-analytics-capabilities-f0805d0bb3e8
+IceSword Lab在2018补天白帽大会上的PPT：基于硬件辅助的内核漏洞挖掘框架,http://www.iceswordlab.com/2018/04/09/A-Kernel-Vulnerability-Detection-Framework-based-on-Hardware/
+ WhatsApp Web 逆向工程,https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md
+2018-04-11
+微软发布2018年4月安全公告，修复了60多个安全问题,http://blog.talosintelligence.com/2018/03/ms-tuesday.html
+Adobe发布安全更新，修复了多个安全漏洞,https://helpx.adobe.com/security.html
+CyberArk企业密码管理器中存在严重的RCE漏洞(CVE-2018-9843),https://cxsecurity.com/issue/WLB-2018040075
+CVE-2018-1275: spring 4.3.x远程代码执行漏洞（CVE-2018-1270）补丁修正,https://pivotal.io/security/cve-2018-1275
+Apache Hive xpath UDF信息泄露漏洞(CVE-2018-1284),https://tools.cisco.com/security/center/viewAlert.x?alertId=57431
+Apache Hive Java数据库连接驱动程序绕过漏洞(CVE-2018-1282),https://tools.cisco.com/security/center/viewAlert.x?alertId=57432
+H2数据库任意代码执行漏洞,https://cxsecurity.com/issue/WLB-2018040079
+安全客2018季刊第一季 | 区块链时代下的黑产攻防,https://www.anquanke.com/post/id/103935
+Loki：一款简单强大的IOC和事件响应扫描器,http://www.freebuf.com/sectool/166610.html
+警惕！新型RDP爆破蠕虫Morto来袭,http://www.freebuf.com/news/167365.html
+Cisco:发现银行木马“IcedID”与“Rovnix”恶意软件一起被投递,http://blog.talosintelligence.com/2018/04/icedid-banking-trojan.html?utm_source=feedburner
+挖矿木马藏身“装修视频”,http://www.freebuf.com/articles/paper/167615.html
+全球最受欢迎的YouTube视频遭到黑客入侵,https://www.welivesecurity.com/2018/04/10/worlds-popular-youtube-video-hacked/
+生活服务巨头 Sodexo 遭数据泄露，提醒用户注销支付卡,https://securityaffairs.co/wordpress/71211/data-breach/sodexo-filmology-data-breach.html
+加勒比岛屿圣马丁岛的公共服务因网络攻击而关闭,https://securityaffairs.co/wordpress/71236/hacking/sint-maarten-cyber-attack.html
+远控软件NetSupport Manager已遭黑客滥用于开展网络间谍活动,http://mp.weixin.qq.com/s/fEActrQSgL9ViLgXTXLo5Q
+Adobe Flash漏洞CVE-2018-4878 野外利用被发现,https://www.theregister.co.uk/2018/04/09/office_file_attack_reloaded_in_exploit_builder/
+施耐德电气修复自动化构建软件中的 16 个缺陷,http://codesafe.cn/index.php?r=news/detail
+谷歌申请新专利，利用区块链技术保护用户数据安全,http://www.freebuf.com/news/168150.html
+谷歌/微软/Mozilla浏览器厂商将支持新的WebAuthn API,https://www.bleepingcomputer.com/news/security/google-microsoft-and-mozilla-put-their-backing-behind-new-webauthn-api/
+使用SirenJack攻击可以让黑客控制紧急警报器,https://www.bleepingcomputer.com/news/security/sirenjack-attack-lets-hackers-take-control-over-emergency-alert-sirens/
+一个点引发的Google Gmail邮箱潜在钓鱼风险,https://www.secrss.com/articles/1937
+近年来APT组织主要使用的10大类安全漏洞,https://mp.weixin.qq.com/s/9vmyFql871eJlYzezZjEsg
+新型ATM恶意软件ATMJackpot分析,https://mp.weixin.qq.com/s/FFFS6RcUCZy5haBqga0sOw
+CVE-2018-4878案例：针对香港某电信公司网站被入侵攻击的调查,http://www.freebuf.com/vuls/167159.html
+使用Nmap进行大规模的分布式漏洞检测,http://www.freebuf.com/articles/network/167596.html
+Oblivious DNS：堵住互联网最大的隐私漏洞,https://www.secrss.com/articles/1940
+利用.MF后缀文件猥琐绕过火绒杀毒测试,http://www.freebuf.com/articles/system/167901.html
+2018-04-12
+1.Spring CVE-2018-1273,CVE-2018-1274和CVE-2018-1275漏洞预警,http://t.cn/RmXXDfm
+2.Holey Beep: Linux 提权漏洞分析与利用(CVE-2018-0492),https://sigint.sh/
+ 3.深圳TVT数码科技有限公司产品固件存在多个漏洞，可导致RCE,http://seclists.org/fulldisclosure/2018/Apr/25
+4.Computerinsel PhotoLine PSD多个代码执行漏洞,http://blog.talosintelligence.com/2018/04/PhotoLine-PSD-Code-Execution.html
+1.多个网站平台被注入重定向URL代码进行“FakeUpdates”攻击,https://blog.malwarebytes.com/threat-analysis/2018/04/fakeupdates-campaign-leverages-multiple-website-platforms/
+1.从中国检测到类似Mirai的针对巴西的扫描活动,https://blog.trendmicro.com/trendlabs-security-intelligence/mirai-like-scanning-activity-detected-from-china-targets-in-brazil/
+1.AMD关于缓解Spectre v2问题的技术白皮书 ,https://developer.amd.com/wp-content/resources/Architecture_Guidelines_Update_Indirect_Branch_Control.pdf
+2.2017金融科技安全分析报告,http://www.4hou.com/info/industry/11039.html
+1.扎克伯格｜在美国国会"数据门"听证会上的证词-中英文全文,https://mp.weixin.qq.com/s?__biz=MzIzMTU2MzU3NQ==&mid=2247484865&idx=1&sn=2a744a85f754b5a5bbe07e100fa02fa8&chksm=e8a30d99dfd4848f7bafb34af096c18ff22029c3dc5d139e4d81d6fbe866c888e76d2b3e9d50&mpshare=1&scene=1&srcid=0411fojtQtpCDcjYFi1um8ha&pass_ticket=fuObGccTq%2FkaOnDBfooSa9cszldwcWliFvxD0Z3SD5EKgCvzDl8ZLveDXs0T2NXP#rd
+2.AMD和微软发布针对Spectre漏洞的微代码和系统更新,https://securityaffairs.co/wordpress/71282/security/spectre-amd-microsoft.html
+3.Apple3月29日更新涉及CVE内容一览表,https://static1.squarespace.com/static/5894c269e4fcb5e65a1ed623/t/5accf4b5f950b74252726226/1523381431654/ApplePatches.jpg
+4.浅谈企业虚拟化环境的安全风险与渗透测试方法 ,https://www.secrss.com/articles/1955
+5.勒索病毒搞恶作剧：要解密先玩“吃鸡”游戏再说，实际中招玩家不多 ,https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247484361&idx=1&sn=5a134319f62cbd0b8f4443558ff9be02&chksm=ec9cdabadbeb53ac1dc3bd358524880cd2841b033490a575dd67e92632b0b96fa00b0236536b&mpshare=1&scene=1&srcid=0412oU8fuqOraFVpkGlbkz9B&pass_ticket=iTHoWM07uek19Coyxwiex5BI5Pz07BH%2B52jBDFW0Wv2OxzHkDlTT4YzDgM77sTu1#rd
+6.思科交换机Smart Install Client高危漏洞正在被大范围利用,https://m.threatbook.cn/detail/463
+1.通过修改主机安全描述符实现远程提取机器上的本地用户哈希,http://www.harmj0y.net/blog/activedirectory/remote-hash-extraction-on-demand-via-host-security-descriptor-modification/
+2.使用Microsoft Outlook和OLE自动窃取密码哈希,https://insights.sei.cmu.edu/cert/2018/04/automatically-stealing-password-hashes-with-microsoft-outlook-and-ole.html
+ 3.用IDA中的Hex-Rays API解决特定问题,https://www.fireeye.com/blog/threat-research/2018/04/solving-ad-hoc-problems-with-hex-rays-api.html
+4.Windows内核调试简介,https://www.endgame.com/blog/technical-blog/introduction-windows-kernel-debugging
+5.通过MANGER’S ATTACK来破坏RSA OAEP,https://research.kudelskisecurity.com/2018/04/05/breaking-rsa-oaep-with-mangers-attack/
+6.使用COOP技术开发旧漏洞，来绕过CFI检测,https://perception-point.io/2018/04/11/breaking-cfi-cve-2015-5122-coop/
+2018-04-13
+checkpoint CVE-2018-7600 Drupal 远程命令执行漏洞研究分析(PoC已公开),https://research.checkpoint.com/uncovering-drupalgeddon-2/
+Simple DirectMedia Layer 多个漏洞可造成代码执行,http://blog.talosintelligence.com/2018/04/simple-direct-media-layer-vulnerabilities.html
+CVE-2018-0950：微软outlook漏洞可能会被用于盗取windows账号,https://securityaffairs.co/wordpress/71302/hacking/microsoft-outlook-cve-2018-0950.html
+CVE-2018-9205：Drupal avatar_uploader v7.x-1.0-beta8模块任意文件下载,http://seclists.org/oss-sec/2018/q2/35?utm_source=dlvr.it
+thinkphp更新安全补丁,https://github.com/top-think/framework/releases/tag/v5.1.9
+CVE-2018-1000168：空指针导致nghttp2拒绝服务攻击,https://mailclark.ai/email/original/10084459/593541/4TFmB7HvoSlieOO8FG7gEzQeH8U?from_name=Tatsuhiro%20Tsujikawa&from_address=tatsuhiro.t%40gmail.com
+CVE-2018-1273 Spring Data Commons组件远程代码执行PoC,https://gist.github.com/matthiaskaiser/bfb274222c009b3570ab26436dc8799e
+使用机器学习来生成可读的潜在威胁情报,https://blog.trendmicro.com/trendlabs-security-intelligence/uncovering-unknown-threats-with-human-readable-machine-learning/
+Git-All-Secrets：通过利用多个开源Git搜索工具来捕获所有Git Secrets的工具,https://www.kitploit.com/2018/04/git-all-secrets-tool-to-capture-all-git.html
+Mythril：一个用于以太坊智能合约的安全分析工具,https://medium.com/@muellerberndt/hitb2018ams-smashing-smart-contracts-for-fun-and-real-profit-720f5e3ac777
+使用新的early bird技术绕过安全检测,https://www.cyberbit.com/blog/endpoint-security/new-early-bird-code-injection-technique-discovered/
+使用光子和量子力学定律的保证随机数安全,https://www.nature.com/articles/s41586-018-0019-0
+攻击者利用rtorrent来挖矿,https://www.darkreading.com/partner-perspectives/f5/how-attackers-can-exploit-rtorrent-with-monero-cryptocurrency-miner/a/d-id/1331422
+UPnProxy攻击：400款家用路由机型受影响，逾6万台设备已遭僵尸网络滥用,https://www.bleepingcomputer.com/news/security/over-65-000-home-routers-are-proxying-bad-traffic-for-botnets-apts/
+卡巴斯基2018第一季度APT趋势报告,https://securelist.com/apt-trends-report-q1-2018/85280/
+英特尔第40版 x86/x64 体系架构优化手册,https://software.intel.com/sites/default/files/managed/9e/bc/64-ia-32-architectures-optimization-manual.pdf
+研究员发现了多款西门子设备漏洞（SIPROTEC 4，SIPROTEC Compact和Reyrolle）可导致变电站遭受攻击,https://securityaffairs.co/wordpress/71295/hacking/electrical-substations-flaws.html
+英国疑似已经对伊斯兰国家组织进行了“重大进攻性网络行动”。,http://www.bbc.com/news/technology-43738953
+2018-04-14
+漏洞聚焦：TALOS-2018-0529-531 - NASA CFITSIO库中的多个漏洞,https://blog.talosintelligence.com/2018/04/vulnerability-spotlight-talos-2018-0529-531.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29
+Moxa EDR-810工业安全路由器中的多个漏洞,https://blog.talosintelligence.com/2018/04/vuln-moxa-edr-810.html
+开源问卷工具LimeSurvey爆严重漏洞，或致使服务器被远程控制,https://www.secrss.com/articles/1996
+3月份最受欢迎的恶意软件：恶意软件即使在网络浏览器之外也能正常运行,https://blog.checkpoint.com/2018/04/13/marchs-wanted-malware-cryptomining-malware-works-even-outside-web-browser-rise/
+4月6 - 13日恶意软件威胁总结,https://blog.talosintelligence.com/2018/04/threat-round-up-0406-0413.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos%E2%84%A2+Blog%29
+Coinsecure比特币交易所被窃价值35亿美元比特币的内幕,https://www.tripwire.com/state-of-security/latest-security-news/inside-job-behind-theft-3b-bitcoin-exchange-says-ceo/
+英国已对伊斯兰国（IS）集团发起重大网络攻击，严重扰乱其业务,https://www.securityweek.com/uk-launched-major-cyberattack-islamic-state-spy-chief
+安卓厂商隐藏的事实：安全补丁的更新部署并不真实完整 ,https://threatpost.com/dont-trust-android-oem-patching-claims-researcher/131183/
+专家发现一个代理僵尸网络由超过65,000个通过UPnP协议暴露的路由器组成,http://t.cn/RmNbNA5
+VMware已发布安全更新以解决vRealize Automation中的漏洞,https://www.us-cert.gov/ncas/current-activity/2018/04/13/VMware-Releases-Security-Updates
+Invoke-Adversary是一款PowerShell脚本，可帮助您根据检测高级持续性威胁的能力来评估安全产品和监控解决方案,https://blogs.technet.microsoft.com/motiba/2018/04/09/invoke-adversary-simulating-adversary-operations/
+CVE-2018-0886：针对MS RDP发布的RCE PoC漏洞利用,https://github.com/preempt/credssp
+Spectrum：一种新的Cloudflare功能，可为任何基于TCP的协议带来DDoS保护，负载平衡和内容加速。,https://blog.cloudflare.com/how-we-built-spectrum/
+CVE-2018-7600: Drupal核心远程代码执行漏洞分析报告,https://cert.360.cn/report/detail?id=c92cfff2634a44c8b1d6bd5e64c07f3d
+2018-04-15
+使用PyREBox进行病毒分析,https://blog.talosintelligence.com/2018/04/malware-monitor-pyrebox-for-analysis.html
+Cisco ios shellcode: all-in-one译文,https://paper.seebug.org/569/
+SysGauge Server 3.6.18 栈溢出漏洞分析及利用,https://paper.seebug.org/568/
+爬虫 JavaScript 篇[Web漏洞扫描器],https://paper.seebug.org/570/
+分析CVE-2017-0263并研究菜单管理组件,https://xiaodaozhi.com/exploit/117.html
+金融黑客的惯用手段MITB,https://mp.weixin.qq.com/s/36KGZkzuyR6WI1lhhYh-mQ
+2017金融科技安全分析报告,http://www.freebuf.com/articles/paper/167847.html
+HITB的PPT已经放出,https://conference.hitb.org/hitbsecconf2018ams/materials/
+RSA 2018专题报道：议题亮点抢先揭秘(含112份PPT),https://www.anquanke.com/post/id/104656
+中央网信办和中国证监会联合发布《关于推动资本市场服务网络强国建设的指导意见》,https://mp.weixin.qq.com/s/6-m6lL9l-ILC3cXcunAnaw
+2018-04-16
+SecureRandom()函数不安全性导致比特币钱包的存在安全漏洞,http://seclists.org/fulldisclosure/2018/Apr/30
+CVE-2018-1273: RCE with Spring Data Commons 分析和利用,https://mp.weixin.qq.com/s?__biz=MzU0NzYzMzU0Mw==&mid=2247483666&idx=1&sn=91e3b2aab354c55e0677895c02fb068c&from=1084195010&wm=20005_0002&weiboauthoruid=5458358938
+网站安全公司Sucuri受到大规模DDoS攻击，导致西欧，南美和美国东部部分地区的服务中断。,https://www.hackread.com/website-security-firm-sucuri-hit-by-ddos-attacks/
+纽约网络安全条例：首开先河的企业安全监管法规,https://www.rsaconference.com/blogs/new-york-cybersecurity-regulations-an-important-step-but-still-a-long-way-from-the-gdpr
+rp++ 一款查找PE/Elf/Mach-O x86/x64二进制文件中的ROP链工具,https://www.kitploit.com/2018/04/rp-tool-that-aims-to-find-rop-sequences.html
+reconcat 一款获取网页快照的工具,https://www.kitploit.com/2018/04/reconcat-tool-to-fetch-archive-url.html
+mimic 一款Linux进程隐藏工具,https://www.kitploit.com/2018/04/mimic-tool-for-covert-execution-in-linux.html
+使用深度学习来检测恶意powershell命令,https://arxiv.org/pdf/1804.04177.pdf
+IoT 设备的行为指纹研究,https://arxiv.org/pdf/1804.03852.pdf
+A list of awesome decompilation资源和项目,https://github.com/nforest/awesome-decompilation
+创新沙盒初探 (1) - RSAC2018之一,http://mp.weixin.qq.com/s/aiVCRboVeWXwope4zcho5A
+创新沙盒初探 (2) - RSAC2018之二,http://mp.weixin.qq.com/s/KEF458q-88jzrpRq6JpCUA
+通过计算机的功耗传递数据,https://www.helpnetsecurity.com/2018/04/13/data-exfiltration-via-power-lines/
+来自苹果应用商店的恶意挖矿软件Calendar 2分析,https://objective-see.com/blog/blog_0x2B.html
+2018-04-17
+英特尔SPI Flash中存在缺陷，攻击者能更改或删除BIOS/UEFI固件,https://www.bleepingcomputer.com/news/security/intel-spi-flash-flaw-lets-attackers-alter-or-delete-bios-uefi-firmware/
+Thinkphp3.2.3最新版update注入漏洞,https://www.anquanke.com/post/id/104847
+CVE-2018-0737 OpenSSL：密钥生成过程中恢复RSA私钥,http://seclists.org/oss-sec/2018/q2/50
+Veil-Evasion+PyJoiner捆绑两个EXE免杀思路分享,http://www.freebuf.com/sectool/164382.html
+How to kill a (Fire)fox,http://blogs.360.cn/blog/how-to-kill-a-firefox/
+赛门铁克回顾2017移动威胁态势：恶意软件变种数量增长了54%,http://mp.weixin.qq.com/s/kK1pkQImQFGo5Ml2WhN5qQ
+Apple Safari - Wasm 部分 Exploit,https://labs.mwrinfosecurity.com/publications/apple-safari-wasm-section-exploit/
+微软编译器（如VS) 在生成pdb文件时（透过mspdbcore.dll)，会把一些未初始化内存保存到pdb文件中，导致编译者进程数据泄漏,https://bugs.chromium.org/p/project-zero/issues/detail?id=1500
+虚拟文件系统编辑器,https://github.com/extremecoders-re/Virtual-File-System-Editor
+恶意软件使用DNS劫持感染Android智能手机,https://securelist.com/roaming-mantis-uses-dns-hijacking-to-infect-android-smartphones/85178/
+Check Point 2018年安全报告,https://research.checkpoint.com/check-points-2018-security-report/
+泰国最大的4G移动运营商TrueMove H遭遇数据泄露,https://securityaffairs.co/wordpress/71406/data-breach/truemove-h-data-leak.html
+暴风等知名软件广告页遭挂马攻击，十多万用户被病毒感染,http://www.freebuf.com/news/168636.html
+安全违规调查：2017年全球“丢失”数据26亿条,https://www.secrss.com/articles/2044
+黑客利用IIS漏洞来攻击Windows服务器挖矿,https://www.bleepingcomputer.com/news/security/windows-servers-targeted-for-cryptocurrency-mining-via-iis-flaw/
+施耐德U.motion Builder多个漏洞,http://mp.weixin.qq.com/s/yC7TDAT4UaB5HhqAG5pSLw
+三位安全研究员联手，拿下逾5万台服务器的僵尸网络EITest,https://www.secrss.com/articles/2040
+微软工程师被指控与Reveton勒索软件有关,https://securityaffairs.co/wordpress/71425/cyber-crime/reveton-ransomware-suspect.html
+软银等四家电信公司联合组建“全球电信安全联盟”,https://www.secrss.com/articles/2046
+黑客通过大堂鱼缸里的温度计偷走了赌场的数据,https://securityaffairs.co/wordpress/71433/hacking/fish-tank-hack.html
+支付宝“扫码领红包”遭滥用，有人两天赚近百万元,https://www.secrss.com/articles/2037
+BigID斩获RSAC2018创新沙盒冠军,https://www.secrss.com/articles/2055
+微软发布Windows 10 Insider Build 17134（RS4）包含修复KB4100375漏洞的安全更新,https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-insider-build-17134-rs4-to-include-security-updates/
+美国，英国指控俄罗斯黑客入侵路由器和ISP进行MitM攻击,https://www.bleepingcomputer.com/news/government/us-uk-accuse-russia-of-hacking-home-routers-and-isps-to-conduct-mitm-attacks/
+2018-04-18
+1.Weblogic 反序列化远程代码执行漏洞 (CVE-2018-2628),https://tw.saowen.com/a/af577540d0fd65af0c6f77848fcdb3f7f02b765f82864c795a405431d88fc176
+2.SecureRandom()类中存在多个漏洞，影响众多加密货币产品,http://seclists.org/fulldisclosure/2018/Apr/30
+3.Chrome 插件Strong Password Generator生成的密码部分字符出现概率过大,http://seclists.org/fulldisclosure/2018/Apr/32
+4.Drupalgeddon2 RCE exp (Metasploit),https://www.exploit-db.com/exploits/44482/
+5.Foscam IP 摄像头固件存在身份验证漏洞，可替换固件,https://blog.talosintelligence.com/2018/04/foscam-unsigned-image-vuln.html
+1.RSAC 2018权威解读|创新沙盒决赛产品戳中了谁的痛点？,https://www.anquanke.com/post/id/105130?from=timeline
+2.Oracle 2018年4月重要补丁更新,https://erpscan.com/press-center/blog/analyzing-oracle-security-critical-patch-update-for-april-2018/
+3.OWASP TOP 10：XXE漏洞简介,https://blog.detectify.com/2018/04/17/owasp-top-10-xxe/
+4.英国NCSC, DHS 和 FBI 对俄罗斯的黑客活动提出警告,http://t.cn/RmmFFbZ
+5.云基础设施容易受到攻击,https://securingtomorrow.mcafee.com/mcafee-labs/cloud-clustering-vulnerable-to-attacks/
+6.Intel允许反病毒引擎使用GPU进行恶意软件扫描,https://www.bleepingcomputer.com/news/security/intel-to-allow-antivirus-engines-to-use-integrated-gpus-for-malware-scanning/
+7.英国实施新安全分类法案：定义六级安全事件,https://www.secrss.com/articles/2083
+8.黑客通过窃取的数据获利的8种方式,https://www.darkreading.com/attacks-breaches/8-ways-hackers-monetize-stolen-data-----------/d/d-id/1331560
+9.趋势科技关于RSA 2018会议的一些议题跟进,https://threatpost.com/category/rsac/
+10.Microsoft发布管理工具来模拟网络攻击,https://www.lifehacker.com.au/2018/04/microsoft-release-admin-tools-to-simulate-cyberattacks/
+1.最近有关密码学的一些paper更新,https://eprint.iacr.org/eprint-bin/search.pl?last=7
+1.GPG Reaper：一款可以从Gpg-Agent 缓存/内存中窃取或恢复GPG 私钥的工具,https://www.kitploit.com/2018/04/gpg-reaper-obtainstealrestore-gpg.html
+2.Polymorph：一种实时网络数据包的操作框架,https://www.exploit-db.com/docs/english/44457-polymorph-a-real-time-network-packet-manipulation-framework.pdf?rss
+1.如何执行放进Alternate数据流中的数据（Part 2）,https://oddvar.moe/2018/04/11/putting-data-in-alternate-data-streams-and-how-to-execute-it-part-2/
+2.IoT设备中存在的OWASP TOP-10漏洞,https://embedi.com/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/
+3.通过逆向Soundcloud API 绕过其下载限制,https://pythontips.com/2018/04/15/reverse-engineering-soundcloud-api/
+4.逆向工程-Part1（基本编程概念）,https://medium.com/@danielabloom/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7
+5.WMIC.EXE白名单绕过，使用样式表进行攻击,https://subt0x11.blogspot.ca/2018/04/wmicexe-whitelisting-bypass-hacking.html?m=1
+1.巴西黑客组织通过恶意软件感染物联网设备，来构建僵尸网络,https://blog.trendmicro.com/trendlabs-security-intelligence/not-only-botnets-hacking-group-in-brazil-targets-iot-devices-with-malware/
+2. Magnitude利用工具包被用于GandCrab勒索软件,https://blog.malwarebytes.com/threat-analysis/2018/04/magnitude-exploit-kit-switches-gandcrab-ransomware/
+3.超过2000万的Chrome用户安装了假的恶意广告拦截器,https://www.hackread.com/20-million-chrome-users-have-installed-fake-malicious-ad-blockers/
+4.Early Bird代码注入可绕过杀毒软件检测,http://www.4hou.com/technology/11109.html
+5.海莲花APT团伙利用CVE-2017-8570漏洞的新样本及关联分析,http://mp.weixin.qq.com/s/dvRmfn41pzQ96OTlb6x6uA
+6.勒索软件XIAOBA被重新利用于恶意挖矿,https://blog.trendmicro.com/trendlabs-security-intelligence/ransomware-xiaoba-repurposed-as-file-infector-and-cryptocurrency-miner/
+2018-04-19
+1.Cisco WebEx客户端远程执行代码漏洞,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-wbs
+2.Cisco ASA设备 VPN SSL客户端证书绕过漏洞,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asa1
+3.Apple iOS中的iTunes Wi-Fi同步功能可能会被利用,https://www.bleepingcomputer.com/news/security/ios-trustjacking-attack-exposes-iphones-to-remote-hacking/
+4.LG网络存储设备存在远程命令注入漏洞,https://securityaffairs.co/wordpress/71499/hacking/lg-network-attached-storage-devices-hack.html
+5.谷歌浏览器磁盘高速缓存UAF漏洞（CVE-2018-6085及CVE-2018-6086）,https://access.redhat.com/security/cve/cve-2018-6086
+6.Microsoft Edge通过OpenProcess() 绕过ACG,https://bugs.chromium.org/p/project-zero/issues/detail?id=1552
+7.WebLogic远程代码执行漏洞(CVE-2018-2628),https://cert.360.cn/warning/detail?id=afd38d89f2774f16c039f12141ef109f
+1.区块链恶意基础设施的网络罪犯的发展趋势,https://www.fireeye.com/blog/threat-research/2018/04/cryptocurrencies-cyber-crime-blockchain-infrastructure-use.html
+1.思科发布多个产品的安全更新,https://www.us-cert.gov/ncas/current-activity/2018/04/18/Cisco-Releases-Security-Updates-Multiple-Products
+2.谷歌发布Chrome安全更新,https://chromereleases.googleblog.com/2018/04/stable-channel-update-for-desktop.html
+3.脑植入物或是不安全的,https://www.theregister.co.uk/2018/04/18/boffins_break_into_brain_implant/
+4.微软将反钓鱼技术移植到Google Chrome扩展,https://www.bleepingcomputer.com/news/security/microsoft-ports-anti-phishing-technology-to-google-chrome-extension/
+5.Stresspaint恶意软件窃取Facebook凭据和会话Cookie,https://www.bleepingcomputer.com/news/security/stresspaint-malware-steals-facebook-credentials-and-session-cookies/
+6.RedHat：RHSA-2018-1137 glusterfs安全更新,http://www.linuxsecurity.com/content/view/211629?rdf
+7.2018 DASP Top 10发布,https://www.dasp.co/
+8.英特尔宣布推出新的威胁检测技术,https://securityaffairs.co/wordpress/71481/security/intel-threat-detection-technology.html
+1.俄罗斯Grizzly Steppe组织对路由器发起攻击,https://nakedsecurity.sophos.com/2018/04/18/russias-grizzly-steppe-gunning-for-vulnerable-routers/
+2.数百万的应用程序正在泄露敏感用户数据,https://www.hackread.com/millions-of-apps-are-exposing-unencrypted-user-data/
+3.恶意软件通过Minecraft感染五万用户，擦除其硬盘,https://www.hackread.com/50000-minecraft-users-infected-with-hard-drive-wiping-malware/
+1.Windows利用技巧：利用任意文件写入本地特权提升,https://googleprojectzero.blogspot.com/2018/04/windows-exploitation-tricks-exploiting.html
+2.绕过安卓 Anti-Emulation,http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-II/
+2018-04-20
+Cisco Talos披露了foxit pdf阅读器中多个漏洞(CVE-2017-14458,CVE-2018-3842,CVE-2018-3843,CVE-2018-3850,CVE-2018-3853),http://t.cn/RmDbVdb
+CVE-2018-10194:ghostscript中的栈溢出可能导致RCE,https://bugs.ghostscript.com/show_bug.cgi?id=699255
+CVE-2018-1292,CVE-2018-1291,CVE-2018-1290,CVE-2018-1289:Apache Fineract中的多个SQL注入漏洞,http://t.cn/RmDehbY
+Steam新型盗号木马及产业链分析报告,https://www.anquanke.com/post/id/105540
+黑客入侵加密企业所有服务器,嚣张留言勒索9.5比特币,http://t.cn/Rmd41Et
+在垃圾邮件中与Adwind捆绑的XTRAT和DUNIHI后门,https://blog.trendmicro.com/trendlabs-security-intelligence/xtrat-and-dunihi-backdoors-bundled-with-adwind-in-spam-mails/
+Cisco Talos更新了自动生成反病毒签名的工具BASS,https://blog.talosintelligence.com/2018/04/updates-for-bass.html
+RSAC2018|360左英男:安全是当务之急，马上行动！,http://mp.weixin.qq.com/s/WGYDTB1dt7OBTGniduMJNA
+RSA2018|瞧一瞧有意思的新产品,https://www.anquanke.com/post/id/105399
+RSA2018|360CERT:从RSAC2018看事件响应的崛起,https://www.anquanke.com/post/id/105522
+RSA2018|隐私泄漏——网络暴力背后的刽子手,https://www.anquanke.com/post/id/105534
+RSA2018|360张龙:安全运营从IT扩展到业务,http://mp.weixin.qq.com/s/cST6Qm6UfNX_IAb0gt52Ng
+RSA2018|全球高质量安全产品了解一下,https://www.anquanke.com/post/id/105379
+RSA2018|360吴云坤:政策、资本和生态是安全产业发展三大要素,http://mp.weixin.qq.com/s/FHbKXYFLWQfDkJJypgPNLA
+RSAC2018|360张聪:喧嚣过后,终端安全回归本源,http://t.cn/RmDehIS
+RSA2018|从资本走向看网络安全行业趋势,http://mp.weixin.qq.com/s/Zi-VPcqYK7GctQ3yz8Fnhw
+虚构Telegram发行ICO的骗局,https://securelist.com/tens-of-thousands-per-gram/85241/
+通过Windows用户模式回调实施的内核攻击,https://paper.seebug.org/575/
+ThinkPHP框架SQL注入技术分析,http://www.freebuf.com/articles/web/169098.html
+穿越云雾:国内公有云VPC隔离性初探,http://www.freebuf.com/articles/network/169013.html
+CVE-2018-0171 Cisco Smart Install远程代码执行漏洞分析,https://www.anquanke.com/post/id/105473
+对俄罗斯黑客行为的看法,https://blog.malwarebytes.com/cybercrime/2018/04/perspectives-on-russian-hacking/
+Drupalgeddon 2(CVE-2018-7600)的POC更新了对Drupal v7.x的支持,https://github.com/dreadlocked/Drupalgeddon2
+iOS应用逆向工程资料汇总,https://everettjf.github.io/2018/01/15/ios-app-reverse-engineering-stuff/
+WebExtension安全:第一部分,http://leucosite.com/WebExtension-Security/
+Oracle WebLogic反序列化漏洞(CVE-2018-2628)复现环境,https://github.com/brianwrf/CVE-2018-2628
+介绍Windows平台上的新的安全技术:Windows Defender System Guard的运行时认证,https://cloudblogs.microsoft.com/microsoftsecure/2018/04/19/introducing-windows-defender-system-guard-runtime-attestation/
+2018-04-21
+CVE-2018-6960：VMware Horizon DaaS身份验证漏洞 该漏洞可能允许攻击者绕过双因素身份验证,https://www.vmware.com/security/advisories/VMSA-2018-0010.html
+CVE-2018-10173:Digital Guardian Management Console中包含远程代码执行漏洞,https://packetstormsecurity.com/files/147244/Digital-Guardian-Management-Console-7.1.2.0015-Shell-Upload.html
+大众汽车的车载娱乐系统发现可泄露驾驶员隐私的漏洞,https://www.computest.nl/en/pressrelease-en/volkswagen-group-models-vulnerable-to-hackers/
+iOS Trustjacking - 一个危险的新iOS漏洞,https://www.symantec.com/blogs/feature-stories/ios-trustjacking-dangerous-new-ios-vulnerability
+vpnMentor的VPN专家发现，许多LG NAS机型受到无需身份验证即可被利用的漏洞的影响,https://www.securityweek.com/unpatched-flaw-exposes-lg-nas-devices-remote-attacks
+全球首例利用浏览器0day漏洞的Office文档攻击预警,https://cert.360.cn/warning/detail?id=885dfa40cce798f845226d94d4f1324f
+XLoader Android间谍软件和银行木马通过DNS欺骗进行分发,https://blog.trendmicro.com/trendlabs-security-intelligence/xloader-android-spyware-and-banking-trojan-distributed-via-dns-spoofing/
+RSA会议应用程序泄漏用户数据,https://www.cyberscoop.com/2018-rsa-conference-app-leaks-user-data/
+Facebook恶意软件泄露了数千个帐户,https://www.hackread.com/facebook-malware-hacks-thousands-of-accounts/
+LinkedIn漏洞允许用户数据收集,https://www.securityweek.com/linkedin-vulnerability-allowed-user-data-harvesting
+青少年侵入前中央情报局局长约翰布伦南的账户被判处两年监禁,https://motherboard.vice.com/en_us/article/pax87v/kane-gamble-crackas-with-attitude-cwa-sentence-prison
+RSA2018|物联网和旧威胁重新出现,https://threatpost.com/akamai-cso-talks-cryptominers-iot-and-the-reemergence-of-old-threats/131338/
+微软宣布推出新的Windows平台安全技术,https://www.securityweek.com/microsoft-announces-new-windows-platform-security-technology
+Google的Project Zero公开了未打补丁的Windows 10绕过安全特性的方法的细节和POC,https://www.zdnet.com/article/googles-project-zero-reveals-windows-10-lockdown-bypass/
+向后兼容的量子证书认证,https://blogs.cisco.com/security/towards-backward-compatible-post-quantum-certificate-authentication
+SMBrute - 一款用于暴力破解SMB协议用户名密码的工具,https://www.kitploit.com/2018/04/smbrute-smb-protocol-bruteforce.html
+CVE-2017-5641：DrayTek Vigor ACS 2 Java反序列化RCE 完全披露,http://seclists.org/fulldisclosure/2018/Apr/40?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29
+Vigor ACS中的漏洞允许未经身份验证的用户使产品执行任意代码,https://blogs.securiteam.com/index.php/archives/3681
+2018-04-22
+黑客伪造算力盗取多种数字货币(含简单POC),http://blogs.360.cn/blog/黑客伪造算力盗取多种数字货币/
+CVE-2018-0229：Cisco ASA软件、FTD软件和AnyConnect安全移动客户端的SAML身份验证系统存在漏洞,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asaanyconnect
+CVE-2018-0242：Cisco 自适应安全设备WebVPN跨站点脚本执行漏洞 ,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asawvpn
+CVE-2018-1172：Squid Proxy Cache 拒绝服务漏洞,https://mailclark.ai/email/original/10248660/593541/IxJ__nTBHEwEMoCKWGWRKEDYyXc?from_name=Amos Jeffries
+IBM安全公告：多个Java漏洞影响IBM Control Center,https://www.ibm.com/blogs/psirt/ibm-security-bulletin-multiple-java-vulnerabilities-impact-ibm-control-center/
+CVE-2018-0273：Cisco StarOS IPsec管理器拒绝服务漏洞,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-starosasr
+RedHunt Linux Distribution (VM),https://github.com/redhuntlabs/RedHunt-OS/
+恶意软件Mirai与Hide ‘N Seek Bot,https://www.fortinet.com/blog/threat-research/searching-for-the-reuse-of-mirai-code--hide--n-seek-bot.html
+PBot：一款基于Python的广告软件,https://blog.malwarebytes.com/threat-analysis/2018/04/pbot-python-based-adware/
+吃鸡辅助远控木马分析,https://www.anquanke.com/post/id/105670
+国产病毒国外作恶 ，界面LOGO“撞衫”国内上市公司产品,http://www.freebuf.com/articles/paper/168737.html
+“寄生兽”的极地行动——最新APT组织“寄生兽”木马分析报告,https://mp.weixin.qq.com/s/iwh-YIyhp7Yb8silyKdgrA
+4800万名用户的资料被泄露在公开可访问的 AWS 服务器上,https://www.anquanke.com/post/id/105781
+Sun Trust Bank前员工偷窃并泄漏多达150万的个人信息,https://www.scmagazine.com/ex-employee-sun-trust-helps-compromise-15-million-bank-clients/article/760195/
+习近平：自主创新推进网络强国建设,https://www.secrss.com/articles/2179
+RSA会议“数字日内瓦公约”出炉，微软、思科、Facebook已经签署,https://mp.weixin.qq.com/s/Mche0F8oVQvw6zXI4lEmng
+新华社：区块链如何带来个人数据保护“革命”,http://www.xinhuanet.com/tech/2018-04/18/c_1122704084.htm
+美国陆军利用AI技术实现穿墙透视，可识别人脸,https://thenextweb.com/artificial-intelligence/2018/04/18/the-us-army-is-developing-ai-that-can-recognize-faces-in-the-dark-and-through-walls/
+大规模SMB爆破引发的十年之思,http://www.freebuf.com/articles/system/168608.html
+浅谈分布式渗透测试框架的落地实践,https://mp.weixin.qq.com/s/rtraSlj821wybBjgHkzGeg
+尽管拒绝使用Adobe Flash，但Flash漏洞仍将继续引起关注,https://securingtomorrow.mcafee.com/mcafee-labs/despite-decline-use-adobe-flash-vulnerabilities-will-continue-cause-concern/
+CVE-2017-8890 深度分析	,https://bbs.pediy.com/thread-226057.htm
+利用 NT!_MDL突破SSDT的只读访问限制 PART I,https://bbs.pediy.com/thread-225998.htm
+利用 NT!_MDL突破KiServiceTable 的只读访问限制 PART II,https://bbs.pediy.com/thread-226043.htm
+2018-04-23
+1.TerraMaster TOS 身份未验证漏洞可导致远程命令执行,https://blogs.securiteam.com/index.php/archives/3602
+2.福昕阅读器器 8.3.1.21155版本存在DLL劫持漏洞,https://cxsecurity.com/issue/WLB-2018040177
+3.Chrome V8 JIT NodeProperties::InferReceiverMaps Type类型混淆PoC,https://cxsecurity.com/issue/WLB-2018040181
+4.Microsoft Skype URL命令注入远程代码执行漏洞（CVE-2018-1000006）,https://www.zerodayinitiative.com/advisories/ZDI-18-308/
+1.BEC 智能合约无限转币漏洞分析及预警 ,https://mp.weixin.qq.com/s/KLTSlOUVT27e0d1z-blJ7g
+2.利用Java反序列化漏洞在Windows上的挖矿实验,http://www.freebuf.com/articles/system/168067.html
+3.Hacker101——免费的网络安全课程,https://www.hacker101.com/
+4.Twitter禁止卡巴斯基通过其平台宣传其产品,https://securityaffairs.co/wordpress/71610/intelligence/twitter-bans-kaspersky.html
+5.浅谈软件供应链攻击与内网防御,http://www.freebuf.com/articles/network/168983.html
+6.Chrome应用商店下架五款恶意广告拦截器，已有逾200万用户下载,https://www.secrss.com/articles/2199
+7.事件响应的方法和案例研究,https://www.peerlyst.com/posts/incident-response-methodology-and-case-study-ankit-mishra
+8.Firefox 隐私浏览模式CVE-2017-7843漏洞是如何被发现的？,https://medium.com/@konarkmodi/breaking-bad-to-make-good-firefox-cve-2017-7843-219034357496
+1.一些移除恶意软件和恢复数据的软件,https://www.peerlyst.com/posts/these-programs-will-save-your-ass-when-windows-users-need-you-to-remove-malware-kimberly-crawley?utm_source=twitter
+2.永恒漏洞系列检查工具,https://www.kitploit.com/2018/04/eternal-check-ip-vulnerability-check-to.html
+3.Grouper——查找AD组策略漏洞的PowerShell脚本,https://github.com/l0ss/Grouper
+1.恶意软件Satan增加了永恒之蓝漏洞攻击模块,https://bartblaze.blogspot.ca/2018/04/satan-ransomware-adds-eternalblue.html
+2.来自CCleaner APT调查的最新发现显示，攻击者通过TeamViewer进入Piriform网络,https://blog.avast.com/update-ccleaner-attackers-entered-via-teamviewer
+3.恶意软件SquirtDanger窃取用户密码并截取用户屏幕,https://www.hackread.com/squirtdanger-malware-steals-passwords-take-screenshots/
+4.一款名为RansSIRIA的新型勒索软件，加密受害者文件，却声称会将赎金捐给叙利亚难民,https://securityaffairs.co/wordpress/71626/malware/ranssiria-ransomware.html
+5.趋势科技的安全人员在一次垃圾邮件攻击中发现了与Adwind RAT捆绑在一起的XTRAT和DUNIHI后门,https://securityaffairs.co/wordpress/71644/malware/adwind-rat-spam-campaigns.html
+1.Https payload与C2重定向 ,https://mp.weixin.qq.com/s/F4TdMGjiFYlvlXctDu-GMw
+2.ESI注入：利用缓存服务形成的SSRF和其它客户端形式渗透 ,http://www.freebuf.com/articles/web/168363.html
+3.CVE-2015-2546的分析与利用,https://xiaodaozhi.com/exploit/132.html
+4.通过逆向工程调试恶意软件中使用的Winddows服务,https://secrary.com/Random/WindowsServiceDebugging/
+5.入侵汽车教程-Part 1,https://console-cowboys.blogspot.ca/2018/04/hacking-all-cars-part-1.html
+2018-04-24
+PHPLiteAdmin 至1.9.5版本就存在认证绕过漏洞,https://mailclark.ai/email/original/10382885/593541/xByEyiL8cehMzqBpVLc5JcybXJY?from_name=Karsten König
+TerraMaster TOS 远程代码执行漏洞,https://blogs.securiteam.com/index.php/archives/3602
+Jupyter Notebook没有正确的过滤输入文件导致代码执行漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57560
+CVE-2017-10140：Postfix 提权漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57509
+Zabbix对捕获数据包检查不足可以被中间人攻击，导致任意代码执行,https://tools.cisco.com/security/center/viewAlert.x?alertId=57556
+CVE-2018-1106：PackageKit 的多个本地权限漏洞,https://mailclark.ai/email/original/10393067/593541/lVjyusDRYbZWf0d8BO3ONQ38weU?from_name=Matthias Gerstner
+CVE-2018-1110: Knot Resolver 2.2.0版本之前未对输入进行验证导致软件崩溃,https://mailclark.ai/email/original/10390703/593541/00Tz63MUkO73SKGNZXs-3PrsdEg?from_name=Petr Špaček
+CVE-2018-9846：roundcubemail任意代码执行漏洞,http://www.linuxsecurity.com/content/view/211737?rdf
+红帽企业版 Linux 6 安全更新：修复了一个任意代码执行漏洞,https://access.redhat.com/errata/RHSA-2018:1199
+Orangeworm组织通过感染X-Ray 和 MRI机器来获取病人数据,https://www.bleepingcomputer.com/news/security/orangeworm-hackers-infect-x-ray-and-mri-machines-in-their-quest-for-patient-data/
+趋势科技发现新的加密货币蠕虫，使用AutoHotKey的新变种,https://blog.trendmicro.com/trendlabs-security-intelligence/monero-mining-retadup-worm-goes-polymorphic-gets-an-autohotkey-variant/
+卡巴斯基针对Energetic Bear/Crouching Yeti APT组织攻击分析报告,https://securelist.com/energetic-bear-crouching-yeti/85345/
+Cloudflare推出全新抗D防护服务，覆盖IPv4所有端口65,535,http://t.cn/Ru4s8hg
+“4.29首都网络安全日”最新议程一览,https://www.secrss.com/articles/2209
+网信办发布《数字中国建设发展报告（2017年）》,https://www.secrss.com/articles/2207
+无服务器体系架构：应用安全范式转换,https://www.secrss.com/articles/2206
+2017僵尸网络盛行国家：中国排名第三,https://www.secrss.com/articles/2204
+离职员工窃取客户联系人名单，SunTrust银行150万客户信息泄露,https://www.secrss.com/articles/2202
+尼日利亚组织Gold Galleon针对航运业的网络犯罪行为披露,https://www.secrss.com/articles/2203
+研究者Nvidia Tegra 芯片中发现不可修复的漏洞，用于攻击任天堂Switch,http://www.theregister.co.uk/2018/04/23/nintendo_switch_nvidia_tegra_boot_rom_flaw/
+360谭晓生：网络安全的至暗时刻与芳华,https://mp.weixin.qq.com/s/okZMOAxnVtzMjl3FW8pv-w
+FireEye： 针对Windows内核shellcode加载的研究,https://www.fireeye.com/blog/threat-research/2018/04/loading-kernel-shellcode.html
+TDL：绕过Windows 64位驱动签名,https://github.com/hfiref0x/TDL
+使用浏览器Cache Storage和localStorage可进行埋雷式攻击,https://m.weibo.cn/status/4231994596725840?sudaref=login.sina.com.cn
+2018-04-25
+1.GNU修补程序代码执行漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57563
+2.lucene-solr中存在XXE漏洞，可被利用来从Solr服务器中读取任意本地文件,http://www.linuxsecurity.com/content/view/211761?rdf
+3.PackageKit软件包包安装身份验证绕过漏洞,https://usn.ubuntu.com/3634-1/
+4.Glusterfs快照调度程序权限提升漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57561
+5.Vecna VGo OS命令注入漏洞,https://ics-cert.us-cert.gov/advisories/ICSA-18-114-01
+6.英特尔2G调制解调器远程代码执行漏洞,https://ics-cert.us-cert.gov/advisories/ICSA-18-114-02
+7.redhat多款应用安全更新,https://access.redhat.com/errata/
+8.Apple发布多个安全更新,https://www.us-cert.gov/ncas/current-activity/2018/04/24/Apple-Releases-Multiple-Security-Updates
+9.IBM发布多个安全公告,https://www.ibm.com/blogs/psirt/
+10.Drupal发布安全更新,https://www.drupal.org/psa-2018-003
+1.Bandios恶意软件分析报告,http://csecybsec.com/download/zlab/20180424_CSE_Bandios_malware_suite.pdf
+2.暗网中的钓鱼工具包,https://research.checkpoint.com/wp-content/uploads/2018/04/Tracking_Down_Apache_Phishing_Brochure_180424.pdf
+1.对VPN 信息泄露的安全研究,https://securityaffairs.co/wordpress/71740/hacking/safervpn-cve-2018-10308.html
+2.以太坊智能合约安全性分析的语义框架,https://arxiv.org/abs/1802.08660
+1.BeatCoin-研究人员表示特定情况下可获取加密货币钱包私钥,https://securityaffairs.co/wordpress/71728/hacking/beatcoin-cold-wallet-hack.html
+2.Firefox通过Cookie来改进CSRF保护,https://www.bleepingcomputer.com/news/security/firefox-improves-csrf-protection-with-support-for-same-site-cookies/
+3.卡巴斯基对Energetic Bear组织分析,https://securityaffairs.co/wordpress/71708/apt/energetic-bear-servers.html
+4.北京警方打掉特大售卖个人信息团伙，查获各类数据信息上亿条,https://www.secrss.com/articles/2237
+5.思科2018年度安全报告：攻防两大角度看云与物联网安全,https://www.secrss.com/articles/2233
+6.微软：2017年技术支持骗局超15.3万起，同比增长24%,https://www.secrss.com/articles/2229
+7.CIA揭秘：充满竞争而又遍布腐败的俄罗斯情报世界,https://www.secrss.com/articles/2242
+8.MikroTik短时间内修补0day漏洞,https://www.bleepingcomputer.com/news/security/mikrotik-patches-zero-day-flaw-under-attack-in-record-time/
+1.黑客劫持MyEtherWallet的DNS服务器窃取160,000美元虚拟货币,http://t.cn/RutGMwy
+2.Metamorfo：针对巴西的网络攻击,https://www.fireeye.com/blog/threat-research/2018/04/metamorfo-campaign-targeting-brazilian-users.html
+3.Orangeworm恶意软件以全球医院为目标,https://www.theregister.co.uk/2018/04/24/orangeworm_medical_malware/
+4.基于Python的恶意软件使用NSA漏洞传播Monero（XMR）挖矿程序,https://www.fortinet.com/blog/threat-research/python-based-malware-uses-nsa-exploit-to-propagate-monero--xmr--.html?utm_source=feedburner
+5.勒索软件利用Drupalgeddon2攻击袭击乌克兰能源部,https://threatpost.com/ransomware-attack-hits-ukrainian-energy-ministry-exploiting-drupalgeddon2/131373/
+2018-04-26
+TrustPort Management  远程代码执行漏洞,https://blogs.securiteam.com/index.php/archives/3685
+drupal 远程代码执行漏洞,https://www.drupal.org/sa-core-2018-004
+CVE-2018-1335：Apache Tika 的tika-server模块存在命令注入漏洞,https://mailclark.ai/email/original/10465143/593541/6gYVpkvb6-khnxfMwyBJrySH8_c?from_name=Tim Allison
+redhat 重要安全更新，包含内核安全更新和企业版JBOSS更新,https://access.redhat.com/errata/
+雅虎因2014年黑客案被美SEC罚款3500万美元,https://www.theregister.co.uk/2018/04/24/yahoo_fined_35m/
+亚特兰大预计花费至少260万美元用于勒索软件恢复,https://www.zdnet.com/article/atlanta-spent-at-least-two-million-on-ransomware-attack-recovery/
+欧洲刑警组织关闭了世界上最大的在线DDoS服务,https://www.bleepingcomputer.com/news/security/europol-shuts-down-worlds-largest-ddos-for-hire-service/
+Vision Hotel Software 存在漏洞，上百万酒店电子门锁可以被攻击,http://www.bbc.com/news/technology-43896360
+成千上万的儿童Android应用程序正在收集个人数据,https://www.hackread.com/android-apps-kids-tracking-their-activities/
+智慧城市网络安全风险和应对策略思考 ,https://www.secrss.com/articles/2265
+工信部任利华：全面推进工业信息安全建设，切实增强综合保障能力 ,https://www.secrss.com/articles/2269
+ 通过符号执行和编译优化清除虚拟化混淆代码,https://cis.temple.edu/~qzeng/papers/deobfuscation-icics2017.pdf
+一些VMware逃逸的知识,https://keenlab.tencent.com/en/2018/04/23/A-bunch-of-Red-Pills-VMware-Escapes/
+使用 Polymorph 框架搭建一个简单的代理Fuzz来Fuzz MQTT 协议,https://www.exploit-db.com/docs/english/44506-building-a-proxy-fuzzer-for-mqtt-with-polymorph-framework.pdf?rss
+ CVE-2018-2826： java漏洞细节，由于不充分的类型检查导致权限提升,https://www.zerodayinitiative.com/blog/2018/4/25/when-java-throws-you-a-lemon-make-limenade-sandbox-escape-by-type-confusion
+RSA 的安全实现研究,https://paragonie.com/blog/2018/04/protecting-rsa-based-protocols-against-adaptive-chosen-ciphertext-attacks
+Fuzzing adobe reader 研究过程,https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html
+XKungfoo 2018精彩语录：数十位安全专家共话安全，从技术到创业，我们收获了什么？（Day1）,https://mp.weixin.qq.com/s/gOx4ouFYsw-UtKV_AdeS8w
+ShofEL2 - Switch破解漏洞与Tegra X1芯片启动漏洞介绍,https://fail0verflow.com/blog/2018/shofel2/
+固件Fusée Gelée漏洞披露报告,https://github.com/reswitched/fusee-launcher/blob/master/report/fusee_gelee.md
+新的Crossrider变体在Mac上安装配置文件,https://blog.malwarebytes.com/threat-analysis/2018/04/new-crossrider-variant-installs-configuration-profiles-on-macs/
+Mcafee 对 Operation GhostSecret分析报告,https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-operation-ghostsecret-attack-seeks-to-steal-data-worldwide/
+恶意软件针对HPE iLO 4远程管理系统进行攻击，勒索2个比特币,https://www.bleepingcomputer.com/news/security/ransomware-hits-hpe-ilo-remote-management-interfaces/
+Hijacker 一款具有图形化的无线渗透工具,https://github.com/chrisk44/Hijacker
+深入分析 Java Archives ,https://www.joesecurity.org/blog/5663118979745921568
+MikroTik 0day在野利用,https://twitter.com/craiu/status/989052729480876032
+2018-04-27
+1.CVE-2018-7602：Drupal核心远程代码执行漏洞分析预警,https://cert.360.cn/warning/detail?id=1f945762faaf194050fe2f0bb14db46a
+2.IBM发布的多个漏洞通告,https://www.ibm.com/blogs/psirt/
+3.Redhat 又一次重要安全更新，包括修复APR（CVE-2017-12613）漏洞,https://access.redhat.com/errata/
+1.PWN2OWN上攻破华为Mate 9 Pro的writeup,https://labs.mwrinfosecurity.com/assets/BlogFiles/huawei-mate9pro-pwn2own-write-up-final-2018-04-26.pdf
+2.趋势科技2017至2018移动威胁情况分析,https://www.trendmicro.com/vinfo/us/security/research-and-analysis/threat-reports/roundup/2017-mobile-threat-landscape
+3.卡巴斯基2018年第一季度的DDoS攻击分析报告,https://securelist.com/ddos-report-in-q1-2018/85373/
+4.解析勒索软件发展历史及暗网六大RaaS平台,https://www.secrss.com/articles/2283
+1.Apache strusts2漏洞一年未修复，致Web服务器被批量入侵挖矿,https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247484661&idx=1&sn=f79e36eded818f8b931e4fed0f4c78c7&chksm=ec9cdd86dbeb5490a073b041bb014a2c1866a0f130bebb26b9ff850d841c653d7e2e446ce86d&mpshare=1&scene=1&srcid=0426awqQMY8YQg0aB9ThYPdk&pass_ticket=UZImZ%2FqJom2UCS6FUNY%2FuwMZynsPNQfWz1H9xmJ7KvkhfNNOBIxA8XEq3wVFmQx4#rd
+2.恶意软件Necurs通过快捷方式绕过垃圾邮件检测,https://blog.trendmicro.com/trendlabs-security-intelligence/necurs-evolves-to-evade-spam-detection-via-internet-shortcut-file/
+3.GravityRAT - 以印度为APT目标两年间的演变,https://blog.talosintelligence.com/2018/04/gravityrat-two-year-evolution-of-apt.html
+4.海莲花APT组织最新攻击样本分析,https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247484662&idx=1&sn=a9a0ea4b4c389af41b4f72bea870d0a3&chksm=ec9cdd85dbeb54939b320d12471cb79741151b3e5e01d87d7550e1ba05a93dde1c89887d0687&mpshare=1&scene=1&srcid=0427Thuv9ZEqxMEBWteJuQWT&pass_ticket=Dq2rYgcvR4IHn5iVeLlYnALEN9WcC1kOaRq1qK1HWeCuP5sQuwy8o0SOfp7lPJbe#rd
+5.STEALTHBOT：150余个小众手机品牌预置刷量木马销往中小城市,http://blogs.360.cn/360mobile/2018/04/24/analysis_of_stealthbot/
+1.齐向东：网络安全进入“查行为”的第三代体系 ,http://www.chinanews.com/business/2018/04-26/8500616.shtml
+2.最大DDoS市场webstresser.org被关闭,https://mp.weixin.qq.com/s?__biz=MzI4ODA4MTcxMA==&mid=2649551571&idx=1&sn=e131e08ff79127ce0c322dbd7f1a5a7f&chksm=f3db8092c4ac098477aad1277f90aa35af6b2470fd7d0997874f78be38b8501d7f41b0290ab0&mpshare=1&scene=1&srcid=0426FDM6uQ2W3sIG9VignHKe&pass_ticket=UZImZ%2FqJom2UCS6FUNY%2FuwMZynsPNQfWz1H9xmJ7KvkhfNNOBIxA8XEq3wVFmQx4#rd
+3.IoT Wiki 发布了关于IoT安全所面临的一些挑战,https://www.peerlyst.com/posts/the-iot-wiki-posts-about-the-challenges-of-securing-the-iot-peerlyst?utm_source=twitter
+4.WESTERN DIGITAL MY CLOUD EX2 NAS设备泄漏文件,https://threatpost.com/western-digital-my-cloud-ex2-nas-device-leaks-files/131447/
+5.深度观察：RSA 2018揭示八大安全趋势 ,https://www.secrss.com/articles/2264
+6.HITB 2018 Amsterdam相关议题报告公开,https://www.peerlyst.com/posts/hack-in-the-box-2018-amsterdam-j-geno?utm_source=twitter
+7.疑似与朝鲜相关的黑客盗取17个国家的数据,http://www.businessinsider.com/north-korea-lazarus-group-operation-ghostsecret-2018-4
+8.微软发布更多关于Spectre缺陷的微码补丁,https://www.securityweek.com/microsoft-releases-more-microcode-patches-spectre-flaw
+1.dev-console：在网页或者iframe中添加控制台的工具,https://github.com/shhnjk/dev-console.js
+2.Snallygaster：扫描HTTP服务器上私密文件的工具,https://www.kitploit.com/2018/04/snallygaster-tool-to-scan-for-secret.html
+3.Dropbox开源三个MacOS的监控工具,https://blogs.dropbox.com/tech/2018/04/4696/
+1.cloudflare对amazondns劫持事件的描述,https://blog.cloudflare.com/bgp-leaks-and-crypto-currencies/
+1.如何绕过PHP escapeshellarg/escapeshellcmd函数？,https://security.szurek.pl/exploit-bypass-php-escapeshellarg-escapeshellcmd.html
+2.接口安全浅析,https://mp.weixin.qq.com/s?__biz=MzI1NDg4MTIxMw==&mid=2247483863&idx=1&sn=eed2c7dc64c83fc6cb8888d3f5219088&chksm=ea3f3d05dd48b413ad5b6bcd7c890b9b666c24f9eaacadd8ed0be845c74c98160f7021b89f0e&mpshare=1&scene=1&srcid=0426z7Cg1j4h4N1DTAGtSaqC&pass_ticket=UZImZ%2FqJom2UCS6FUNY%2FuwMZynsPNQfWz1H9xmJ7KvkhfNNOBIxA8XEq3wVFmQx4#rd
+3.深入分析jar文件,https://www.joesecurity.org/blog/5663118979745921568
+4.CORS几种常见的错误配置，其中可导致绕过,https://blog.detectify.com/2018/04/26/cors-misconfigurations-explained/
+5.使用Active Directory中的ACL进行权限提升,https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/
+6.漏洞利用开发中的自动化堆布局,https://arxiv.org/pdf/1804.08470.pdf
+2018-04-28
+漏洞预警 | WebLogic T3协议反序列化远程代码执行补丁绕过,https://mp.weixin.qq.com/s/L0cI5OTx4cXhX9bDxGbL_A
+PHP中的多个漏洞可能允许任意代码执行,https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-php-could-allow-for-arbitrary-code-execution_2018-046/
+GitList 0.6远程执行代码漏洞,https://cxsecurity.com/issue/WLB-2018040216
+CVE-2018-8072：EDIMAX网络摄像机漏洞,https://www.nemux.org/2018/04/24/cve-2018-8072/
+SAP系统也有配置不当问题：攻击者可远程获取最高权限,https://www.securityweek.com/13-year-old-configuration-flaw-impacts-most-sap-deployments
+Windows服务器下勒索木马的防护与对抗,https://www.anquanke.com/post/id/106625
+神话传奇——通过卖号微信群传播的远控木马,https://www.anquanke.com/post/id/106767
+发现一个正在开发中的C＃勒索软件,https://www.bleepingcomputer.com/news/security/new-c-ransomware-compiles-itself-at-runtime/
+乌克兰能源部网站遭黑客攻击，被要求支付赎金解锁,https://www.secrss.com/articles/2288
+因控制面板被暴露在网上 奥地利紧急关闭滑雪缆车,https://www.anquanke.com/post/id/106822
+推动实战型人才培养 360要做网络安全“黄埔军校”,https://www.anquanke.com/post/id/106832
+新型恶意工具“Rubella Macro Builder”，已经发现了野外利用,https://securityaffairs.co/wordpress/71817/malware/rubella-macro-builder-kit.html
+Talos：4月20-27日的威胁总结,https://blog.talosintelligence.com/2018/04/threat-round-up-0420-0427.html?utm_source=feedburner
+巴西检方起诉Win10非法收集数据，微软恐面临287万美金罚款,http://www.freebuf.com/news/170044.html
+公安部督办“绝地求生”游戏外挂案告破 抓获15名犯罪嫌疑人,https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_13542247308892356173%22%7D&n_type=0&p_from=1
+你订餐地址电话可能被出卖 万条外卖信息有人叫价2000,https://mp.weixin.qq.com/s/d6vr7UJWLekfF1VWZmb8Ug
+亚马逊echo音箱可被黑客入侵变成窃听器,https://www.bleepingcomputer.com/news/security/researchers-turn-amazon-echo-into-an-eavesdropping-device/
+“SamSam”勒索软件:一种肮脏的新玩法,https://nakedsecurity.sophos.com/2018/04/27/samsam-ransomware-a-mean-old-dog-with-a-nasty-new-trick-report/
+朝鲜黑客再次失败,https://www.bleepingcomputer.com/news/security/north-korean-hackers-are-up-to-no-good-again/
+印度黑客使用KCW勒索软件对巴基斯坦的网站进行加密,https://www.bleepingcomputer.com/news/security/kcw-ransomware-encrypting-web-sites-in-pakistan/
+一种新的伪装成公司人力资源部门的网络钓鱼邮件,https://www.bleepingcomputer.com/news/security/beware-of-rules-of-conduct-office-365-phishing-emails/
+MongoDB服务器暴露加密货币用户的详细信息,http://www.freebuf.com/news/170073.html
+期待已久的Ubuntu 18.04 LTS正式发布,http://www.sohu.com/a/229627675_114760
+黑客盯上了茅台的防伪电子标签 伪造数量达几十万枚,https://www.cnbeta.com/articles/tech/720943.htm
+一次真实的Linux服务器挖矿程序排查案例，顺道干掉一个DDoS后门,http://www.freebuf.com/articles/system/169572.html
+记某次从控件漏洞挖掘到成功利用,https://mp.weixin.qq.com/s/bH5G4PqTRZfXg1c3fkdpdw
+无文件攻击实例：基于注册表的Poweliks病毒分析,https://mp.weixin.qq.com/s/Cf1g1Kg0bg4YBbj69eS3bA
+提升事件响应工作流效率的20个途径,https://www.secrss.com/articles/2291
+机器学习之垃圾信息过滤,http://www.freebuf.com/articles/network/168850.html
+2018-04-29
+CVE-2018-10504：WordPress的“Form Maker by WD”插件允许CSV注入漏洞,https://wordpress.org/plugins/form-maker/#developers
+以太币令牌（UET）的智能合约实施的transferFrom功能允许攻击者窃取资产,https://peckshield.com/2018/04/28/transferFlaw/
+CVE-XXX（quasselclient / quasselcore版本0.12.4）：堆远程代码执行和空指针DDOS,http://seclists.org/oss-sec/2018/q2/77?utm_source=dlvr.it&utm_medium=twitter
+Google Chrome V8 AwaitedPromise更新错误,https://cxsecurity.com/issue/WLB-2018040223
+荷兰警方关闭臭名昭着的'复仇色情'网站，三名男子被捕,https://www.securityweek.com/dutch-police-shut-notorious-revenge-porn-site-three-arrested
+Mozilla为Firefox添加新的CSRF保护,https://www.securityweek.com/mozilla-adding-new-csrf-protection-firefox
+微软发布更多针对英特尔CPU的Spectre更新,https://threatpost.com/microsoft-issues-more-spectre-updates-for-intel-cpus/131468/
+Drupal代码执行漏洞正在被积极利用[更新],https://arstechnica.com/information-technology/2018/04/with-drupalgeddon2-still-under-attack-drupal-fixes-a-new-critical-flaw/
+MyEtherWallet DNS黑客造成1700万美元的用户损失,https://www.darknet.org.uk/2018/04/myetherwallet-dns-hack-causes-17-million-usd-user-loss/?utm_source=feedly&utm_medium=webfeeds
+欧洲和美国警方袭击了伊斯兰国家的宣传机器,https://securityaffairs.co/wordpress/71846/terrorism/europol-hit-islamic-state.html
+IE Zero-Day“双杀”及360发现的第一个野外攻击,https://blog.360totalsecurity.com/en/ie-zero-day-double-kill-first-wild-attack-found-360/
+Zebrocy的第一阶段恶意软件破解分析,https://www.securityweek.com/researchers-dissect-tool-used-infamous-russian-hacker-group
+Windows：NTFS的DOS攻击漏洞已公布POC,https://www.bleepingcomputer.com/news/microsoft/poc-code-published-for-triggering-an-instant-bsod-on-all-recent-windows-versions/
+如何使用武器化的PDF文档来窃取Windows凭据,https://securityaffairs.co/wordpress/71856/hacking/weaponized-pdf-hack-windows.html
+Grok后门 - 带Ngrok隧道支持的后门,https://www.kitploit.com/2018/04/grok-backdoor-backdoor-with-ngrok.html
+劫机者v1.5  - 适用于Android的多合一Wi-Fi破解工具,https://github.com/chrisk44/Hijacker
+华为Mate 9 Pro Exploit,https://labs.mwrinfosecurity.com/assets/BlogFiles/huawei-mate9pro-pwn2own-write-up-final-2018-04-26.pdf
+黑客在医疗设备中感染X光机,https://www.forbes.com/sites/thomasbrewster/2018/04/23/x-ray-machines-taken-over-by-healthcare-hackers/#4f722dbf44c8
+2018-04-30
+checkpoint揭露了一个传播恶意软件挖矿的团伙,https://research.checkpoint.com/de-anonymizing-monero-mining-operation/
+研究者发布了一种堆中的新漏洞利用技术并命名为House of Roman,https://gist.github.com/romanking98/9aab2804832c0fb46615f025e8ffb0bc
+基于inline hook破解unity3d手游,https://bbs.pediy.com/thread-226261.htm
+linux内核中使用mmap带来的安全问题,https://research.checkpoint.com/mmap-vulnerabilities-linux-kernel/
+双因素认证带来的问题,https://blog.checkpoint.com/2018/04/29/problem-two-factor-authentication/
+APT团伙(APT-C-01)新利用漏洞样本分析及关联挖掘,http://www.freebuf.com/articles/network/169855.html
+记一次JVM导致数组长度变化的bug,https://zhuanlan.zhihu.com/p/36255310
+企业未修复Apache Struts 2漏洞致Web服务器被批量入侵,http://www.freebuf.com/vuls/170068.html
+攻击预警!GreenFlashSundown Exploit Kit攻击国内多家大型站点,http://www.freebuf.com/articles/web/170197.html
+海莲花APT组织使用最新MacOS后门程序发动攻击,http://www.freebuf.com/articles/network/170245.html
+深度观察:RSA 2018揭示八大安全趋势,https://mp.weixin.qq.com/s/rDDKZftTpLcnrdd-I2QmQA
+2018-05-01
+Linux AF_LLC Double Free漏洞导致任意代码执行和权限提升,https://blogs.securiteam.com/index.php/archives/3686
+通过多个NagiosXI漏洞，构造一个远程代码执行,http://blog.redactedsec.net/exploits/2018/04/26/nagios.html
+红帽企业版Linux 6 发布 java-1.7.0-openjdk 安全更新,https://access.redhat.com/errata/RHSA-2018:1270
+Ubuntu 多款应用安全更新,https://usn.ubuntu.com/
+360火线(Fireline)：一款免费静态代码分析工具,http://magic.360.cn/zh/article_zh.html
+Infer：Facebook开源的一个静态代码分析工具,https://infer.liaohuqiu.net/
+Op GhostSecret：ThaiCERT查获了在索尼影业被黑事件中Cobra APT组织使用的其中一台服务器,https://securityaffairs.co/wordpress/71937/apt/op-ghostsecret-thailand.html
+网络安全公司Kromtech的安全研究人员发现了一个MongoDB数据库，其中包含超过25,000 Bezop（BEZ）加密货币  用户的个人详细信息。,http://t.cn/Rup3Lh5
+malwarebytes 每周安全资讯（4月23日至4月29日）,https://blog.malwarebytes.com/malwarebytes-news/2018/04/week-security-april-23-april-29/
+试图使用黑客技术帮助囚犯越狱，该黑客被判七年监禁,https://www.grahamcluley.com/hacker-who-almost-sprung-a-prisoner-out-of-jail-is-himself-imprisoned-for-seven-years/
+部署大众汽车集团部分车型的车载信息娱乐（IVI）系统容易受到远程黑客攻击,https://www.bleepingcomputer.com/news/security/volkswagen-and-audi-cars-vulnerable-to-remote-hacking/
+SamSam勒索软件开始进行针对性恶意软件投放,https://securityaffairs.co/wordpress/71965/malware/samsam-ransomware-targeted-attacks.html
+Twitter 也向剑桥分析研究人员出售了数据访问,https://threatpost.com/twitter-sold-data-to-cambridge-analytica-linked-company/131525/
+NIST发布了“改进关键基础设施网络安全框架”1.1版，对版本1.1的更改包括身份验证和身份更新，自我评估网络安全风险，管理供应链中的网络安全和漏洞披露等,https://threatpost.com/nist-updates-cybersecurity-framework-to-tackle-supply-chain-threats-vulnerability-disclosure-and-more/131534/
+KRACK漏洞使医疗设备处于风险之中,https://threatpost.com/krack-vulnerability-puts-medical-devices-at-risk/131552/
+微软希望通过新的TCPS项目来保护物联网和ICS设备,https://www.bleepingcomputer.com/news/security/microsoft-wants-to-secure-iot-and-ics-devices-with-new-tcps-project/
+“4.29首都网络安全日”企业大点评,https://www.secrss.com/articles/2326
+北约2018“锁盾”演习关键词：电网、4G网络、无人机、净水厂,https://www.secrss.com/articles/2328
+Nymaim 恶意软件新的域名生成方法分析,https://johannesbader.ch/2018/04/the-new-domain-generation-algorithm-of-nymaim/
+Spartacus勒索软件分析,https://blog.malwarebytes.com/threat-analysis/2018/04/spartacus-introduction-unsophisticated-ransomware/
+Endgame公司开源的Ember数据集，其中含有杀毒软件VirusTotal 2017年检测到的110万个PE文件的sha256哈希值,https://github.com/endgameinc/ember
+滥用签名验证导致安全问题,http://www.hexacorn.com/blog/2018/04/27/i-shot-the-sigverif-exe-the-gui-based-lolbin/
+逆向恶意软件的tips,https://digital-forensics.sans.org/media/reverse-engineering-malicious-code-tips.pdf
+2018-05-02
+1.7-Zip：从未初始化内存到远程执行代码（CVE-2018-10115）,https://landave.io/2018/05/7-zip-from-uninitialized-memory-to-remote-code-execution/
+2.在Ethereum智能合约中检测到batchOverflow漏洞 ,https://media.consensys.net/detecting-batchoverflow-and-similar-flaws-in-ethereum-smart-contracts-93cf5a5aaac8
+3.WatchGuard AP100 AP102 AP200存在多个漏洞，可导致远程代码执行,http://seclists.org/fulldisclosure/2018/May/12
+1.深入研究如何探测Windows内核信息泄露,http://j00ru.vexillium.org/slides/2018/infiltrate.pdf
+2.Google Project Zero 关于分支预测攻击的研究分享,https://drive.google.com/file/d/1caH71xMYbkB3q-HCkzsMhVK1_mWjz0yw/view
+3.Vault 7中泄露的RouterOs 漏洞从分析到利用,http://blog.seekintoo.com/chimay-red.html
+4.Windows 内核利用系列教程Part8：Use After Free,https://rootkits.xyz/blog/2018/04/kernel-use-after-free/
+5.逆向工程基础Par3：linux上的ARM64,https://scriptdotsh.com/index.php/2018/04/26/ground-zero-part-3-reverse-engineering-basics-linux-on-arm64/
+6.绕过安卓反模拟，Part3,http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-III/
+7.获取Windows 哈希的指南——LM，NTLM，Net-NTLMv2,https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4?bypass=1
+8.滥用Android JIT 研究分享,https://speakerdeck.com/rotlogix/back-to-the-future-going-back-in-time-to-abuse-androids-jit
+1.《看雪论坛精华14》及《看雪精华合集2018五一版》发布 ,https://bbs.pediy.com/thread-226432.htm
+1.超过一百万台GPON家庭路由器存在远程代码执行漏洞（CVE-2018-10561和CVE-2018-10562）,https://securityaffairs.co/wordpress/71987/hacking/gpon-home-routers-hack.html
+1.FacexWorm瞄准加密货币交易平台，通过滥用Facebook Messenger进行传播,https://blog.trendmicro.com/trendlabs-security-intelligence/facexworm-targets-cryptocurrency-trading-platforms-abuses-facebook-messenger-for-propagation/
+2.揭开神秘的面纱：CCleaner APT事件调查,http://www.4hou.com/other/11221.html
+3.C#勒索软件可在运行时编译,http://www.4hou.com/typ/11257.html
+4.朝鲜反病毒软件SiliVaccine分析，疑似抄袭趋势科技引擎代码，并捆绑恶意软件,https://research.checkpoint.com/silivaccine-a-look-inside-north-koreas-anti-virus/
+1.杀毒软件之死：RSA 2018终端厂商及产品趋势解读 ,http://www.freebuf.com/articles/neopoints/170286.html
+2.中国警方逮捕了15名涉嫌开发绝地求生游戏外挂的团伙成员,http://www.bbc.com/news/technology-43949292
+3.北约网络防御中心迎来新成员：葡萄牙,https://mp.weixin.qq.com/s?__biz=MzI4ODA4MTcxMA==&mid=2649551586&idx=1&sn=d65189e03b8e2fed0b1841c1ae56f3a2&chksm=f3db80a3c4ac09b591f50b33e0c47686174043499a5e6a454de40eed64f58daa9914df50abf7&mpshare=1&scene=1&srcid=0502uB8LkPGgtbSMENxxuDlM&pass_ticket=SiWiDr5jFPwWAp5qCWC0Cx1QRrHbnOw9qnudezGIGG0J6wsCrN6OjDxgXsFsC5mJ#rd
+4.谷歌、微软联名反对315法案：豁免企业“黑客行为”责任将引发网络战,https://www.secrss.com/articles/2343
+5.推动“一带一路”工业信息安全合作的三大路径,https://www.secrss.com/articles/2370
+6.EU GDPR：金融机构需注意的GDPR要点分析 ,http://www.freebuf.com/articles/neopoints/170027.html
+1.Bad-Pdf：通过Windows机器中的PDF来窃取NTLM哈希,https://www.kitploit.com/2018/04/bad-pdf-steal-ntlm-hashes-with-bad-pdf.html
+2.RedHunt操作系统：用于仿真和捕获威胁的虚拟机,https://www.kitploit.com/2018/04/redhunt-os-virtual-machine-for.html
+3.WinPwnage：绕过UAC，提权，Dll挟持等一些Python脚本集合,https://github.com/rootm0s/WinPwnage
+4.injectify：使你可以轻松在网站上执行高级的MiTM攻击,https://github.com/samdenty99/injectify
+2018-05-03
+CVE-2018-8115：Windows主机计算服务Shim远程执行代码漏洞,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8115
+CVE-2018-9919: Tp-shop中的后门代码可能导致通过远程命令执行url参数,http://seclists.org/fulldisclosure/2018/May/11
+Windows的SaferVPN 4.2.5在其“SaferVPN.Service”服务中存在SYSTEM特权升级漏洞,https://github.com/VerSprite/research/blob/master/advisories/VS-2018-024.md
+CVE-2018-7891: Milestone XProtect .NET反序列化漏洞,https://labs.mwrinfosecurity.com/advisories/milestone-xprotect-net-deserialization-vulnerability/
+CVE-2018-8781：Linux Kernel中的特权升级漏洞,https://securityaffairs.co/wordpress/72022/hacking/cve-2018-8781-linux-flaw.html
+GravityRAT恶意软件在印度逃避检测并锁定用户,https://www.hackread.com/gravityrat-malware-evades-detection-targets-india/
+GitHub无意中在其内部日志中记录了一些明文密码,https://www.bleepingcomputer.com/news/security/github-accidentally-recorded-some-plaintext-passwords-in-its-internal-logs/
+Facebook正在调查一项员工利用其职位便利追踪女性的说法,https://motherboard.vice.com/en_us/article/kzxdny/facebook-investigating-employee-stalking-women-online
+Cisco已发布更新以解决影响多种产品的漏洞,https://www.us-cert.gov/ncas/current-activity/2018/05/02/Cisco-Releases-Security-Updates
+使用Facebook API的成千上万的恶意应用程序,https://threatpost.com/tens-of-thousands-of-malicious-apps-using-facebook-apis/131566/
+Facebook在数据丑闻中引入'清除历史'选项,https://threatpost.com/facebook-introduces-clear-history-option-amid-data-scandal/131623/
+KRACK Wi-Fi漏洞可以暴露医疗设备及患者的病历,https://www.zdnet.com/article/krack-wi-fi-vulnerability-strikes-medical-devices/
+CVE-2018-8115：微软发布了一个安全更新来解决Windows Host Compute Service Shim（hcsshim）库中的RCE漏洞,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8115
+Passhunt - 用于搜索网络设备，Web应用程序等的默认凭证的工具,https://www.kitploit.com/2018/03/passhunt-tool-for-searching-of-default.html
+在Intel 8752上绕过代码保护,https://blog.inach.is/8752/
+CVE-2018-6789的POC开发,https://medium.com/@straightblast426/my-poc-walk-through-for-cve-2018-6789-2e402e4ff588
+安全公司Tenable披露了影响施耐德电气InduSoft Web Studio和InTouch Machine Edition产品的关键远程代码执行漏洞的详细信息。,https://www.securityweek.com/schneider-electric-development-tools-affected-critical-flaw
+2018-05-04
+CVE-2018-9995:DVR(硬盘录像机)登录绕过,https://github.com/ezelf/CVE-2018-9995_dvr_credentials
+CVE-2018-10561/62:GPON光纤路由器漏洞分析预警,https://cert.360.cn/warning/detail?id=95110cde8635056292e62424b9da1842
+CVE-2018-2879:Oracle Access Manager(OAM)认证绕过,https://www.sec-consult.com/en/blog/2018/05/oracle-access-managers-identity-crisis/
+研究人员半年前向微软报告了一个本地DOS(BSOD),在微软表示不会修复后公布了POC,http://t.cn/RuE3Yay
+twitter的一个bug将用户密码以明文形式暴露，建议所有用户立即更改密码,https://securingtomorrow.mcafee.com/consumer/consumer-threat-notices/bug-alert-all-330-million-twitter-users-change-passwords/
+Kitty恶意软件利用Drupalgeddon 2.0漏洞挖矿,https://www.incapsula.com/blog/crypto-me0wing-attacks-kitty-cashes-in-on-monero.html
+使用Drupalgeddon 2.0漏洞和WebLogic漏洞挖矿的botnet,https://www.fortinet.com/blog/threat-research/yet-another-crypto-mining-botnet.html
+APT28在攻击中利用LoJack防盗软件,https://asert.arbornetworks.com/lojack-becomes-a-double-agent/
+APT组织对中东地区android用户的攻击,https://securelist.com/whos-who-in-the-zoo/85394/
+有人在伪装成cookie解析库的npm软件包中植入恶意代码,https://blog.npmjs.org/post/173526807575/reported-malicious-module-getcookies
+公安部新版《网络安全等级保护测评机构管理办法》全文,https://mp.weixin.qq.com/s/8NMje83VRYkX5qtfcJx05A
+工信部发布IPv6规模部署行动计划:2018年用户规模不少于5000万户,https://mp.weixin.qq.com/s/QAO3n5JiZMG-R6NzJuQhpw
+Windows 10 Redstone 4(v1803)中修复了CPU漏洞补丁带来的问题,https://www.bleepingcomputer.com/news/security/microsoft-working-on-a-fix-for-windows-10-meltdown-patch-bypass/
+等级保护从1.0到2.0我们应该知道的变化,https://mp.weixin.qq.com/s/hGS_YnCM6_ITeVfl4TYnAA
+微软为Hyper-V漏洞赏金计划提供了Hyper-V调试符号 ,https://blogs.technet.microsoft.com/srd/2018/05/03/hyper-v-debugging-symbols-are-publicly-available/
+澳大利亚最大的银行丢失了上千万客户的财务记录,https://www.afp.com/en/news/824/australias-biggest-bank-loses-20-million-customer-records-doc-14i2oq2
+美团点评开始调查大量用户数据泄露事件,http://tech.sina.com.cn/roll/2018-05-03/doc-ifzfkmth8249506.shtml
+WebLogic漏洞CVE-2018-2628被发现野外利用,https://isc.sans.edu/forums/diary/WebLogic Exploited in the Wild Again/23617/
+引发脸书丑闻的Cambridge Analytica关闭所有业务,http://finance.sina.com.cn/stock/usstock/c/2018-05-03/doc-ifzfkmth7909600.shtml
+如何手工执行IDA插件,https://mp.weixin.qq.com/s/uxvw22zagSqy8sPCEkEdeA
+利用机器学习检测HTTP恶意外连流量,https://mp.weixin.qq.com/s/8gsPQZ1Ri3dtAJKjaXW5OQ
+Docker环境下的事件分析和取证,https://mp.weixin.qq.com/s/h18tYd5QZoI3W7b4NCOOPw
+利用一个竞态漏洞root三星s8的方法,https://paper.seebug.org/587/
+基于Wrk和ReactOS源码分析APC机制的记录,https://mp.weixin.qq.com/s/ea2Oc-Eaj92uTngv5YPNXQ
+在私有以太坊上实现针对ERC20数字货币ProxyOverflow漏洞的攻击,https://media.weibo.cn/article?id=2309404235727385832166
+基于Rowhammer的攻击使用GPU以在android手机上远程执行代码,https://www.vusec.net/wp-content/uploads/2018/05/glitch.pdf
+实时域名信誉系统DRS的设计思路方法和使用案例,https://blogs.akamai.com/sitr/2018/05/domain-reputation-system-building-a-large-graph-to-generate-real-time-threat-intelligence.html
+2018-05-05
+CVE-2018-10547：PHP .phar文件反射型XSS漏洞,https://mp.weixin.qq.com/s/PCe0iUBqK6tMriHGGECTMg
+安卓手机unicode漏洞导致崩溃,http://blog.infobytesec.com/2018/05/remember-iphone-unicode-bug-android.html
+思科 WebEx Advanced Recording Format(ARF) 远程代码执行漏洞,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180502-war
+TP-Link EAP 控制器多个漏洞,http://seclists.org/fulldisclosure/2018/May/16
+D-LINK DIR-601路由器存在漏洞，可绕过身份验证,http://seclists.org/fulldisclosure/2018/May/17
+kaspersky 发布 ZooPark网络组织 的活动报告,https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/05/03114450/ZooPark_for_public_final_edit.pdf
+微软发布的 Windows Command Reference PDF 文档，全面覆盖了超过 250 个 Windows 控制台命令,https://download.microsoft.com/download/5/8/9/58911986-D4AD-4695-BF63-F734CD4DF8F2/ws-commands.pdf
+CVE-2017-13284 Android bluedroid 配置文件注入漏洞分析,http://sploit3r.xyz/cve-2017-13284-injection-in-configuration-file/
+Digital Interruption 手机应用安全开发手册,http://file.digitalinterruption.com/Secure Mobile Development.pdf
+Metasploit Shellcode免杀,https://blog.rapid7.com/2018/05/03/hiding-metasploit-shellcode-to-evade-windows-defender/
+FireEye：一次Logitech Harmony Hub IoT设备漏洞发现和分析过程报告,https://www.fireeye.com/blog/threat-research/2018/05/rooting-logitech-harmony-hub-improving-iot-security.html
+调试windows services,https://musings.konundrum.org/2018/05/03/debugging-windows-services.html
+使用机器学习的方法来检测IOT设备中的DDOS攻击,https://arxiv.org/pdf/1804.04159.pdf
+通过邮件分发的GandCrab v3勒索软件分析报告,https://www.fortinet.com/blog/threat-research/gandcrab-v3-accidentally-locks-systems-with-new--change-wallpape.html
+使用CVE-2017-11882漏洞进行传播的新Remcos RAT变体分析报告,https://www.fortinet.com/blog/threat-research/new-remcos-rat-variant-is-spreading-by-exploiting-cve-2017-11882.html
+在线二进制工具——用于处理二进制值的基于web的工具的集合,https://onlinebinarytools.com/
+gdpr-checklist,https://github.com/privacyradius/gdpr-checklist
+公开资源情报计划资源列表,http://osint.link/
+趋势科技本周安全资讯,https://blog.trendmicro.com/this-week-in-security-news-zippys-and-flynn/
+英特尔正在修补8个新的类似Spectre的缺陷，预计在5月和8月发布更新,https://www.securityweek.com/intel-working-patches-8-new-spectre-flaws-report
+欧洲航天局正在寻求建立一个通信卫星，使用量子密钥分配安全地发送数据,https://www.theregister.co.uk/2018/05/03/the_european_space_agency_wants_in_on_quantum_communications_satellites/
+近五十万个心脏起搏器正在进行固件更新，以解决可能危及生命的漏洞。,https://threatpost.com/abbott-addresses-life-threatening-flaw-in-a-half-million-pacemakers/131709/
+美国陆军2025-2040年网络与电子战构想,https://www.secrss.com/articles/2423
+欧洲中央银行表示已经设计了一个针对银行、证券交易所和其它金融公司的网络攻击模拟测试框架,https://www.secrss.com/articles/2422
+信息安全技术个人信息安全规范  ,https://www.tc260.org.cn/upload/2018-01-24/1516799764389090333.pdf
+2018-05-06
+CVE-2018-1313：Apache Derby外部控制输入漏洞,https://mailclark.ai/email/original/10760675/593541/pkEV5GcPgJXXXdgfLyQ0E5nbrYI?from_name=Bryan Pendleton
+CVE-2018-5519:F5 BIG-IP ssldump公用程序任意文件修改漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57701
+CVE-2018-5515:F5 BIG-IP HTTP RADIUS身份验证请求处理拒绝服务漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57702
+APT追踪 | 尼日利亚黑客组织再起花式攻击,http://www.freebuf.com/articles/network/170428.html
+新的MassMiner恶意软件针对具有各种漏洞的Web服务器,https://www.bleepingcomputer.com/news/security/new-massminer-malware-targets-web-servers-with-an-assortment-of-exploits/
+Talos:4月27日至5月4日威胁汇总,https://blog.talosintelligence.com/2018/05/threat-round-up-0427-0504.html
+XXEinjector XXE注射工具,https://www.darknet.org.uk/2018/05/xxeinjector-automatic-xxe-injection-tool-for-exploitation/?utm_source=feedly
+基于 GDI 对象的 Windows 内核漏洞利用,https://media.defcon.org/DEF CON 25/DEF CON 25 presentations/5A1F/DEFCON-25-5A1F-Demystifying-Kernel-Exploitation-By-Abusing-GDI-Objects-WP.pdf
+GPON Home Gateway 远程命令执行漏洞分析,https://mp.weixin.qq.com/s/GZKmtBFYZvxBT7x-RYpheA
+安卓某款加固分析+修复,https://bbs.pediy.com/thread-226480.htm
+通过 Windows 用户模式回调实施的内核攻击,https://paper.seebug.org/575/
+代码审计 | HDWiki v6.0最新版referer注入漏洞,http://www.freebuf.com/vuls/170337.html
+研究人员在大众和奥迪汽车中发现远程利用漏洞,https://www.csoonline.com/article/3269299/security/car-hackers-find-remotely-exploitable-vulnerabilities-in-volkswagen-and-audi-vehicles.html
+微软正致力于解决Win 10中Meltdown补丁绕过的问题,https://www.bleepingcomputer.com/news/security/microsoft-working-on-a-fix-for-windows-10-meltdown-patch-bypass/
+国际互联网协会呼吁IXP协助解决网络路由问题,https://www.secrss.com/articles/2438
+美国国家安全局：黑客可在24小时内将已知漏洞武器化,https://mp.weixin.qq.com/s/lwIAMqyr1hUF2hZhVzJqgw
+美国田纳西州地方选举官网遭受网络攻击,https://mp.weixin.qq.com/s/tBaLMHWdvAvfo5RJMQASYg
+朝鲜自研杀毒软件外泄，被发现采用十年前趋势科技的盗版引擎,https://research.checkpoint.com/silivaccine-a-look-inside-north-koreas-anti-virus/
+2018-05-07
+1.戴尔RSA Authentication Manager多个漏洞,http://seclists.org/fulldisclosure/2018/May/18
+2.Redhat安全更新，EventData构造函数中的反序列化漏洞（CVE-2018-8088）,https://access.redhat.com/errata/RHSA-2018:1323
+3.GLib基于栈缓冲区的越界读漏洞（CVE-2018-10767）,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10767
+4.GNU Wget 通过\r\n可进行cookie注入，影响1.19.5之前版本（CVE-2018-0494）,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-0494
+1.EscInSecurity 每周TrickBot分析,https://escinsecurity.blogspot.ca/2018/05/weekly-trickbot-analysis-end-of-wc-23.html
+2.以GDPR为诱饵针对Airbnb用户的网络钓鱼活动,https://securityaffairs.co/wordpress/72148/cyber-crime/gdpr-phishing.html
+3.五角大楼禁止军事基地的商店贩卖华为和中兴手机,https://securityaffairs.co/wordpress/72163/intelligence/huawei-zte-ban.html
+4.一些推荐的安全书籍,https://www.peerlyst.com/posts/resource-best-offensive-and-exploitation-books-in-security?utm_source=twitter
+5.币圈小心：虚拟数字货币钱包成盗号木马新目标,https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247484712&idx=1&sn=dfb5a0007d77d17136b6eabf7f552fdc&chksm=ec9cdc5bdbeb554d98648d906978c7169de5c88a3db411b541b42d9b4c7fb22669238c1348ac&mpshare=1&scene=1&srcid=0507UO8RTgFt91KZvIZHvgde&pass_ticket=cV9A12IYqyoiLLnIoxYD7SP0EfK2SvS5hAhaOpD%2B%2BgdVq9lsAb4XFcDLfGai0864#rd
+6.Facbook承认用户账户有后门：部分工作人员可随时登录所有账户 ,https://www.secrss.com/articles/2456
+7.俄罗斯瞄准美国2018年中期选举？,https://www.secrss.com/articles/2445
+1.对Header中的Host进行操作,https://vincentyiu.co.uk/host-header-manipulation/
+2.XSS Payload 列表,https://www.kitploit.com/2018/05/xss-payload-list-cross-site-scripting.html
+3.在AD环境中使用LDAP，Kerberos,https://speakerdeck.com/ropnop/fun-with-ldap-kerberos-and-msrpc-in-ad-environments
+4.Windows Admin Center SDK 公开预览版发布,https://cloudblogs.microsoft.com/windowsserver/2018/05/03/building-the-windows-admin-center-ecosystem-with-partners-sdk-preview-release/
+1.黑客攻击了200家公司并在暗网售卖百万用户的数据,https://www.hackread.com/man-hacked-200-firms-sold-data-of-millions-of-users-on-dark-web/
+1.Spartacus勒索软件分析,http://www.4hou.com/typ/11291.html
+2.解码Gh0st RAT变种中的网络数据,http://www.freebuf.com/articles/network/170636.html
+1.CVE-2017-15944: Metasploit PAN-OS readSessionVarsFromFile Exploit,https://github.com/rapid7/metasploit-framework/pull/9980
+2.Huntpad - 一款方便渗透人员的记事本,https://www.kitploit.com/2018/05/huntpad-bug-hunters-notepad.html
+3.SpookFlare：一款用于绕过各种安全措施的工具,https://github.com/hlldz/SpookFlare
+4.工具Visual Recon使用指南,https://blog.it-securityguard.com/visual-recon-a-beginners-guide/
+5.APTSimulator：可模拟被APT攻击的场景,https://github.com/NextronSystems/APTSimulator
+1.各大会议分享资料,http://www.alex-ionescu.com/publications/
+2.Advancing the State of UEFI Bootkits,http://www.alex-ionescu.com/publications/OffensiveCon/offensive2018.pdf
+3.The Bird that Killed ACG,http://www.alex-ionescu.com/publications/EkoParty/eko2017.pdf
+2018-05-08
+Spectre-NG：多个新 CPU 漏洞预警,https://cert.360.cn/warning/detail?id=339f98b7aa735211428189adeaea8ab8
+Apache Derby未授权访问漏洞（CVE-2018-1313）,https://tools.cisco.com/security/center/viewAlert.x?alertId=57814
+Liferay FCKeditor任意文件上传漏洞（CVE-2018-10795）,https://tools.cisco.com/security/center/viewAlert.x?alertId=57815
+redhat发布CloudForms安全更新,https://access.redhat.com/errata/RHSA-2018:1328
+MySQL mmm_agentd远程命令注入漏洞,https://www.talosintelligence.com/vulnerability_reports/TALOS-2017-0501
+联想补丁任意代码执行漏洞,https://threatpost.com/lenovo-patches-arbitrary-code-execution-flaw/131725/
+Cisco Prime File Upload servlet路径遍历和远程执行代码漏洞（CVE-2018-0258）,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180502-prime-upload
+SYNACK恶意软件确定新变种，使用多重技术,https://securelist.com/synack-targeted-ransomware-uses-the-doppelganging-technique/85431/
+CRYPTOJACKING利用Drupal漏洞，多站点中招,https://www.theregister.co.uk/2018/05/07/drupal_bug_exploits/
+黑客使用初始密码，控制日本数十台摄像头,https://www.bleepingcomputer.com/news/security/hackers-deface-canon-security-cameras-in-japan/
+日本自卫队或部署能力反击网络攻击,https://www.secrss.com/articles/2472
+ProtectWise的威胁研究和分析团队发现Winnti旗下，几个所谓中国APT组织之间的联系,https://securityaffairs.co/wordpress/72208/apt/analyzing-winnti-umbrella.html
+为什么说公共交通是网络攻击的下一个主要目标,https://www.secrss.com/articles/2469
+美国国内情报收集报告发布,https://www.theregister.co.uk/2018/05/07/2017_intelligence_community_transparency_report/
+美国防部借助Hamilton 68可预测俄罗斯虚假网络宣传,https://www.secrss.com/articles/2480
+南亚“白象”的崛起与焦躁：印度网信军民融合发展情况及经验启示,https://www.secrss.com/articles/2473
+Twitter尝试增强“定向推送”透明度,https://www.secrss.com/articles/2478
+安卓手机威胁：恶意软件伪装成防病毒软件,https://blog.malwarebytes.com/malwarebytes-news/2018/05/mobile-menace-monday-reemergence-industry-duping-fake-av/
+黑客8大数据变现套路,https://www.secrss.com/articles/2470
+如何绕过android应用程序中的模拟器检测,https://0x00sec.org/t/how-to-bypass-emulator-detection-in-android-apps/6585
+Salesmans代码执行分析：PrestaShop 1.7.2.4,https://blog.ripstech.com/2018/prestashop-remote-code-execution/
+Linux Restricted Shell Bypass,https://www.exploit-db.com/docs/english/44592-linux-restricted-shell-bypass-guide.pdf?rss
+2018-05-09
+CVE-2018-1239：戴尔EMC Unity系列操作系统命令注入漏洞,http://seclists.org/fulldisclosure/2018/May/15
+CVE-2018-10809：在2345安全卫士3.7中，驱动程序文件（2345NetFirewall.sys）允许本地用户导致拒绝服务（BSOD）或可能具有未指定的其他影响,https://github.com/anhkgg/poc/tree/master/2345 security guard/2345NetFirewall.sys-0x00222040
+CVE-2018-1087: KVM在处理MOVSS SS/POSS SS时错误处理,https://lkml.kernel.org/r/67e08b69817171da8026e0eb3af0214b06b4d74f.1525800455.git.luto@kernel.org/67e08b69817171da8026e0eb3af0214b06b4d74f.1525800455.git.luto@kernel.org
+CVE-2018-8897：MOV SS或POSS SS延迟的异常可能导致意外行为,https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2018-8897
+qemu可能会将Xen驱动为无限循环,http://seclists.org/oss-sec/2018/q2/93
+Evasive恶意软件袭击法国公司,https://www.joesecurity.org/blog/5668638927855499504
+SynAck勒索软件通过Doppelgienging技术避开了反病毒软件,https://www.zdnet.com/article/synack-ransomware-circumvents-antivirus-software-through-doppelganging-technique/
+俄罗斯黑客向美国军队的妻子发出死亡威胁,https://www.hackread.com/russian-hackers-sent-death-threats-to-us-army-wives-posing-as-isis/
+黑客继续破解Drupal来安装后门并注入加密货币恶意软件,https://securityaffairs.co/wordpress/72234/hacking/drupal-cryptocurrency-malware.html
+Twitter正在测试直接消息的端到端加密,https://securityaffairs.co/wordpress/72258/breaking-news/twitter-secret-conversation.html
+iOS 11.4在7天后禁用USB端口,https://blog.elcomsoft.com/2018/05/ios-11-4-to-disable-usb-port-after-7-days-what-it-means-for-mobile-forensics/
+微软5月安全更新：修复了包括两个严重的远程代码执行漏洞,https://threatpost.com/may-patch-tuesday-fixes-two-bugs-under-active-attack/131811/
+Adobe发布安全更新：修复包括Flash Player中代码执行漏洞,https://www.us-cert.gov/ncas/current-activity/2018/05/08/Adobe-Releases-Security-Updates-0
+联想发布安全公告：任意代码执行漏洞,https://threatpost.com/lenovo-patches-arbitrary-code-execution-flaw/131725/
+可怕的新漏洞:绕过LinkedIn双因素验证工具,https://blog.knowbe4.com/cyberheistnews-vol-8-19-heads-up-scary-new-exploit-hacks-linkedin-2-factor-auth.-see-this-kevin-mitnick-video
+HeapViewer：一个IDA Pro插件，用于检查glibc堆，专注于漏洞利用开发,https://github.com/danigargu/heap-viewer
+WordPress的开发框架v1.9.2 - 开发和使用模块的框架，它帮助WordPress的网站和系统的渗透测试,https://www.kitploit.com/2018/05/wordpress-exploit-framework-v192.html
+Zoom - 自动快速Wordpress漏洞扫描器,https://www.kitploit.com/2018/05/zoom-automatic-lightning-fast-wordpress.html
+2018-05-10
+ADV170017:office安装过程中ose.exe以管理员权限运行,同时利用其具有的dll劫持漏洞可以执行任意代码,http://t.cn/R3wgZuY
+CVE-2018-1118:linux内核中vhost_new_msg函数没有正确初始化内存导致信息泄漏,http://seclists.org/oss-sec/2018/q2/96
+CVE-2018-1046:PowerDNS的dnsreplay中的缓冲区溢出,https://doc.powerdns.com/authoritative/security-advisories/powerdns-advisory-2018-02.html
+Jenkins安全更新修复了多个漏洞,https://jenkins.io/security/advisory/2018-05-09/
+office365中名为baseStriker的0day已经被野外利用,https://www.avanan.com/resources/basestriker-vulnerability-office-365
+CVE-2018-1000155:OpenFlow协议握手过程中的多个漏洞,http://eprints.cs.univie.ac.at/5581/1/90-I DPID It My Way.pdf
+firefox 60修复多个安全漏洞,https://www.mozilla.org/en-US/security/advisories/mfsa2018-11/
+firefox ESR 52.8修复多个安全漏洞,https://www.mozilla.org/en-US/security/advisories/mfsa2018-12/
+第一个能在设备重启后继续存活的IOT Botnet,https://labs.bitdefender.com/2018/05/hide-and-seek-iot-botnet-resurfaces-with-new-tricks-persistence/
+警惕AGENTTESLA商业键盘记录器新型变种,http://www.freebuf.com/articles/system/170876.html
+史上最能穷折腾的挖矿木马520Miner,控制数千台机器挖矿却一毛钱都没挣到,http://t.cn/R3wgZEd
+伪造微软等企业签名,恶性病毒偷比特币+挖矿,http://t.cn/R3wgZmI
+Talos对销毁数据的恶意软件的总结,https://talos-intelligence-site.s3.amazonaws.com/production/document_files/files/000/033/785/original/Talos_WiperWhitepaper.pdf
+Kuik:一个简单但是烦人的adware,https://blog.malwarebytes.com/threat-analysis/2018/05/kuik-simple-yet-annoying-piece-adware/
+腾讯反病毒实验室对GandCrab勒索病毒家族的总结分析,https://mp.weixin.qq.com/s/zcBV5dwkQWkumF7Jvdmg7A
+CISCO TALOS对Gandcrab勒索病毒的分析,https://blog.talosintelligence.com/2018/05/gandcrab-compromised-sites.html
+声称会员资格被暂停的Netflix钓鱼邮件,https://blog.malwarebytes.com/threat-analysis/2018/05/netflix-phish/
+FBI发布2017年网络犯罪报告,https://pdf.ic3.gov/2017_IC3Report.pdf
+2017中国企业邮箱安全性研究报告,https://mp.weixin.qq.com/s/1My9bwN2BLbCwcqEIP-xeA
+区块链产业安全分析报告,https://bcsec.org/blockchainsecurity_v1.pdf
+2017身份违规使用报告,https://4iq.com/wp-content/uploads/2018/05/2018_IdentityBreachReport_4iQ.pdf
+央行整治APP代查征信乱象,泄漏征信信息考核直接零分,http://t.cn/R3wgZed
+notepad现在终于可以识别*nix/mac上的换行符了,https://blogs.msdn.microsoft.com/commandline/2018/05/08/extended-eol-in-notepad/
+百度软件中心版putty等多款软件存在捆绑下载,https://x.threatbook.cn/nodev4/vb4/article?threatInfoID=499
+pip中的ssh-decorator软件包存在后门盗取SSH凭据,目前已被移除,http://t.cn/R3wgZkH
+Firefox 61将阻止依赖不安全FTP协议的子资源加载,https://blog.mozilla.org/security/2018/05/07/blocking-ftp-subresource-loads-within-non-ftp-documents-in-firefox-61/
+mac上signal app中的消息即使被设置为自删除也会存储在硬盘上,https://objective-see.com/blog/blog_0x2E.html
+多个操作系统供应商为MOV SS/POP SS指令漏洞发布补丁,https://www.kb.cert.org/vuls/id/631579
+微软在Excel中添加自定义JS函数之后研究人员立刻找到了利用其挖矿的方法,https://charles.dardaman.com/js_coinhive_in_excel
+DarkHotel APT团伙新近活动的样本分析,https://mp.weixin.qq.com/s/LC_udciIifrJBt-abuEUaA
+360代码卫士帮助Linux内核发现多个安全漏洞(附技术分析),https://mp.weixin.qq.com/s/ps0PkzM6UeF74BXGSau5AA
+vmp3.0.9全保护拆分解析,https://mp.weixin.qq.com/s/WO6w_L-cYwH5KB2rilZdag
+AMD GPU的断点指令,https://mp.weixin.qq.com/s/oYR8VjsRu-j0z4nDyqaPhg
+微信小程序逆向辅助插件工具开发详解,https://mp.weixin.qq.com/s/EGd1vQJJRkFA8WpCKMYF9g
+思科RV110W路由器0day漏洞分析及利用报告,https://www.anquanke.com/post/id/108137
+win32k类型隔离中的失误导致仍然可以利用GDI object来完成任意地址读写,http://blogs.360.cn/blog/save-and-reborn-gdi-data-only-attack-from-win32k-typeisolation/
+禁用import的情况下绕过python沙箱,https://www.anquanke.com/post/id/107000
+对UAF漏洞CVE-2016-0167的分析和利用,https://www.anquanke.com/post/id/107566
+大脸猫讲逆向之iOS上PDFExpert阅读器的内购功能破解,https://www.anquanke.com/post/id/107484
+Windows内核漏洞分析:CVE-2018-0744,https://www.anquanke.com/post/id/107385
+LG手机中的远程代码执行漏洞,https://research.checkpoint.com/lg-keyboard-vulnerabilities/
+HTTPS:为什么只有一个绿色的锁是不够的,https://blog.malwarebytes.com/101/2018/05/https-why-the-green-padlock-is-not-enough/
+一种新的进程注入技术可以攻击windows CLI程序,https://blog.ensilo.com/ctrl-inject
+各种白盒加密实现和对它们的实际攻击,https://github.com/SideChannelMarvels/Deadpool
+360安全团队对浏览器0day漏洞(CVE-2018-8174)的详细分析,http://blogs.360.cn/blog/cve-2018-8174-en/
+卡巴斯基对浏览器0day漏洞(CVE-2018-8174)的详细分析,https://securelist.com/root-cause-analysis-of-cve-2018-8174/85486/
+2018-05-11
+CNNVD 关于Windows远程代码执行漏洞及Microsoft Excel远程代码执行漏洞的通报,https://mp.weixin.qq.com/s/cFoZsHpDy2JSx3NKhr4KmA
+漏洞预警 | Spring框架多个漏洞,https://mp.weixin.qq.com/s/VAfHEYyoAUFdrkfmnJuXJw
+CVE-2018-10201:Ncomputing vSpace Pro目录穿越漏洞,https://nvd.nist.gov/vuln/detail/CVE-2018-10201
+CVE-2018-10705：Aurora DAO安全漏洞,https://peckshield.com/2018/05/03/ownerAnyone/
+CVE-2018-10817：Severalnines ClusterControl跨站脚本漏洞,https://cxsecurity.com/cveshow/CVE-2018-10817
+CVE-2018-10827：LiteCart安全漏洞,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10827
+CVE-2017-18265：Prosody LuaSocket库不兼容远程拒绝服务漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57840
+CVE-2018-10380：KDE KWallet kwallet-pam未经授权的访问漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57839
+CVE-2018-7941：华为iBMC产品的认证绕过漏洞,http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20180509-01-bypass-en
+CVE-2018-7940：华为Mate 10手机中的身份验证绕过漏洞,http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20180509-01-mobile-en
+CVE-2018-7933：某些华为家庭网关产品中的路径穿越漏洞,http://www.huawei.com/en/psirt/security-advisories/huawei-sa-20180502-01-gateway-en
+SAP修复旗下产品十多个产品漏洞 ,https://www.securityweek.com/sap-patches-internet-graphics-server-flaws
+Chrome发布安全更新,https://chromereleases.googleblog.com/
+Android发布5月安全公告,https://source.android.com/security/bulletin/pixel/2018-05-01
+利用“永恒之蓝”漏洞挖矿 木马“微笑”赚百万年薪,https://weibo.com/ttarticle/p/show?id=2309404238107435210003
+通过Facebook Messenger投递恶意软件FacexWorm相关消息进行盗窃,https://securingtomorrow.mcafee.com/consumer/consumer-threat-notices/facebook-messenger-malware-facexworm/
+JPCERT/CC发布漏洞协调与披露政策,http://www.cert.org.cn/publish/main/upload/File/JPCERTCC report.pdf
+OPC UA安全分析,https://securelist.com/opc-ua-security-analysis/85424/
+512 WannaCry周年纪丨500万台电脑遭受攻击，谁来扼住勒索病毒的咽喉？,http://bbs.360.cn/thread-15428287-1-1.html
+Equifax公布数据泄漏分析报告：全美大半居民受事件影响,https://www.secrss.com/articles/2549
+威胁展望2020：AI技术会”放大”攻击功效,https://www.secrss.com/articles/2529
+谷歌宣布推出物联网平台：Android Things,https://www.securityweek.com/google-brings-android-internet-things
+比特币钱包应用程序盗窃用户种子钥匙,https://www.bleepingcomputer.com/news/security/bitcoin-wallet-app-caught-stealing-seed-keys/
+IBM禁止所有可移动存储，为所有员工提供无处不在的存储,https://www.theregister.co.uk/2018/05/10/ibm_bans_all_removable_storage_for_all_staff_everywhere/
+区块链技术国家标准将制定,http://www.jjckb.cn/2018-05/10/c_137167826.htm
+恶意挖矿脚本Coinhive大举入侵，400多家政企网站受波及,https://techcrunch.com/2018/05/08/coinhive-malware-may-troy-mursch/
+哥本哈根“共享单车”系统被黑，数据库被删,https://www.easyaq.com/news/278183498.shtml
+Google地图漏洞可让黑客将用户重定向到恶意网站,https://www.hackread.com/google-maps-flaw-redirect-malicious-sites/
+POS恶意软件“TREASUREHUNTER”源代码泄露,https://threatpost.com/pos-malware-treasurehunter-source-code-leaked/131891/
+SophosLabs发现潜伏在Google Play中的数十款恶意软件,https://nakedsecurity.sophos.com/2018/05/10/watch-out-photo-editor-apps-hiding-malware-on-google-play/
+“黑客”入侵快递公司后台盗近亿客户信息，13名嫌犯被抓,https://www.secrss.com/articles/2574
+GPON 漏洞的在野利用（一）——muhstik 僵尸网络,https://blog.netlab.360.com/gpon-exploit-in-the-wild-i-muhstik-botnet-among-others/
+使用 Bro IDS 和 Intel Critical Stack 分析网络活动,https://www.apriorit.com/dev-blog/532-analyzing-network-bro-intel-critical-stack
+在QEMU中模拟Exynos 4210 BootROM,https://fredericb.info/2018/03/emulating-exynos-4210-bootrom-in-qemu.html
+链表游戏：CVE-2017-10661之完全利用,https://www.anquanke.com/post/id/129468
+软WAF的另一种思路：基于Openresty+Naxsi的WAF实现,http://www.freebuf.com/articles/web/170781.html
+挖洞经验 | 看我如何绕过某订阅端点的验证码,http://www.freebuf.com/articles/web/170637.html
+如何滥用DCOM实现横向渗透,https://www.anquanke.com/post/id/107097
+污点分析挖掘漏洞演示,https://bbs.pediy.com/thread-226603.htm
+2018-05-12
+Apache Hadoop yarn 用户任意根命令执行漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57860
+英特尔集成性能基元加密库常量时间保护安全绕过漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57882
+Debian上 firebird2.5 安全更新,http://www.linuxsecurity.com/content/view/212031?rdf
+Fedora 26: 内核安全更新,http://www.linuxsecurity.com/content/view/212039?rdf
+360发布勒索软件威胁分析报告:美国成最大攻击源,https://www.secrss.com/articles/2589
+利用AES加密的网页仿冒网站旨在窃取用户的Apple ID,https://www.tripwire.com/state-of-security/latest-security-news/phishing-site-encrypted-with-aes-designed-to-steal-users-apple-ids/
+黑客访问英国蜂窝运营商EE的关键代码,https://www.hackread.com/hacker-accesses-critical-code-of-british-cell-operator-ee/
+黑客列车Wi-Fi可能会暴露乘客数据和控制系统,http://go.theregister.com/feed/www.theregister.co.uk/2018/05/11/train_wifi_hackable_on_some_networks/
+恶意Chrome浏览器扩展程序发现使用加密恶意软件窃取数据,https://www.hackread.com/malicious-chrome-extensions-steal-data-cryptomining-malware/
+WannaCry一年后，EternalBlue的利用率比以往任何时候都要大,https://www.bleepingcomputer.com/news/security/one-year-after-wannacry-eternalblue-exploit-is-bigger-than-ever/
+江苏徐州市纪检监察系统推行“大数据平台共享”模式,https://www.secrss.com/articles/2575
+熊猫银行木马多元化，现在活跃于其他领域,https://threatpost.com/panda-banking-trojan-diversifies-into-cryptocurrency-porn-other-targets/131911/
+GOOGLE PROJECT ZERO指出WINDOWS 10 EDGE DEFENSE'ACG'有缺陷,https://threatpost.com/google-project-zero-calls-windows-10-edge-defense-acg-flawed/131931/
+巴西5000台路由器默认未设置Telnet密码，可被轻易劫持,https://www.secrss.com/articles/2586
+工业控制协议OPC UA中存在大量漏洞，可被用于远程代码执行,https://www.secrss.com/articles/2585
+攻击者可利用Throwhamme新技术在局域网内发起Rowhammer攻击,https://securityaffairs.co/wordpress/72377/hacking/throwhammer-rowhammer-attack.html
+2018-05-13
+1.Spring Integration Zip不安全解压（CVE-2018-1261）漏洞分析 ,https://www.anquanke.com/post/id/144775
+2.CVE-2018-1000136：Electron nodeIntegration Bypass,https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2018-1000136---Electron-nodeIntegration-Bypass/
+1.一个有趣的钓鱼样本,https://isc.sans.edu/forums/diary/Nice Phishing Sample Delivering Trickbot/23641/
+1.2018年一季度移动应用安全态势报告,http://www.freebuf.com/articles/paper/170719.html
+2.Talos5月4日至11日的威胁综合报告,https://blog.talosintelligence.com/2018/05/threat-roundup-0504-0511.html
+1.Portspoof：用于伪造本地开放的端口和服务,https://www.kitploit.com/2018/05/portspoof-enhance-your-systems-security.html
+2.Pi1541：一款实时，周期精确的Commodore 1541磁盘驱动器仿真器,https://cbm-pi1541.firebaseapp.com/
+3.Whonow：用于实施DNS Rebinding 攻击的“恶意”DNS服务器,https://www.kitploit.com/2018/05/whonow-malicious-dns-server-for.html
+1.远程零点击触发JavaScript代码执行,https://twitter.com/ortegaalfredo/status/995017143002509313
+2.用Google搜索出7000个存在后门的网站,https://www.google.com/search?client=safari
+3.3GPP无线安全的发展,https://gdelugre.github.io/2018/05/10/3gpp-ota-security-evolution/
+4.俄罗斯视频监控公司iVideon数据泄露，暴露了数十万条用户记录,https://securityaffairs.co/wordpress/72424/data-breach/ivideon-data-leak.html
+5.“永恒之蓝”周年记，阻击勒索进行时 ,https://mp.weixin.qq.com/s?__biz=MzUyODQyNjA4Nw==&mid=2247489118&idx=2&sn=086bc36faa56adcfd5f627feaca0f9c7&chksm=fa712356cd06aa40318d8e3beb8531c810fd4f2fc11b26d49e40adac02be14fa994499dbf617&mpshare=1&scene=1&srcid=0512Qb0RHgy31F4Ioh2j0OSR&pass_ticket=hHYxGKy875EnkqoZo95Uke1Gmog3XD6y%2Bl025d%2FdTT4r6FWqYTs2s0v%2BEO%2FLTcpz#rd
+6.FreeBSD 11.2-BETA1发布,https://lists.freebsd.org/pipermail/freebsd-stable/2018-May/088899.html
+7.中国工业和信息化部发布区块链项目评级 - 包括比特币,http://www.scmp.com/business/commodities/article/2145767/chinas-ministry-industry-and-information-technology-publish
+1.在 Microsoft Edge 中通过攻击 JIT 服务进程 Bypass ACG,https://googleprojectzero.blogspot.com/2018/05/bypassing-mitigations-by-attacking-jit.html
+2.在MS Outlook中进行SMB哈希劫持和用户追踪,https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/may/smb-hash-hijacking-and-user-tracking-in-ms-outlook/
+3.二进制文件的映射操作可以执行任意代码,https://github.com/SafeBreach-Labs/BACE
+4.Ctrl-Inject漏洞poc公布,https://github.com/theevilbit/injection
+5.Windows漏洞利用开发教程 Part 4：SEH ,http://www.freebuf.com/articles/system/170703.html
+2018-05-14
+Doplphinsoft Panel 注入漏洞,https://cxsecurity.com/issue/WLB-2018050086
+EMC RecoverPoint 4.3 CLI命令注入漏洞,https://cxsecurity.com/issue/WLB-2018050083
+使用PDF捕获NTLM哈希,http://www.hackingarticles.in/capture-ntlm-hashes-using-pdf-bad-pdf/
+在Ring 0使用CVE-2018-8897任意执行代码,https://blog.can.ac/2018/05/11/arbitrary-code-execution-at-ring-0-using-cve-2018-8897/
+使用暗网的威胁情报白皮书,https://go.recordedfuture.com/dark-web?hsCtaTracking=cafad7e0-fe03-47cd-a938-ea6aa7ce5231|b1386db9-aebd-4901-a6d5-e33609140d27
+TheDoc：一个简单但非常实用的SQLMAP自动化工具,https://www.kitploit.com/2018/05/thedoc-simple-but-very-useful-sqlmap.html
+勒索软件攻击抹去了警察和消防部门的数据,https://www.hackread.com/ransomware-attack-wipes-out-police-fire-department-data/
+Vega Stealer恶意软件窃取Chrome和Firefox中的密码和数据,https://www.hackread.com/vega-stealer-malware-steals-passwords-from-chrome-firefox/
+在Ubuntu Snap Store上存在包含Bytecoin加密货币矿工的恶意软件包,https://securityaffairs.co/wordpress/72449/hacking/ubuntu-snap-store-miner.html
+Electron新漏洞影响多款流行应用,https://securityaffairs.co/wordpress/72459/hacking/electron-flaw.html
+重庆警方一季度破获通信网络违法犯罪案近四千起,https://www.secrss.com/articles/2624
+谷歌将强制厂商定期推送Android安全更新,https://www.secrss.com/articles/2620
+IBM禁止全球所有员工使用可移动存储设备,https://www.secrss.com/articles/2623
+影响上百万台GPON路由器的漏洞正在被至少5个僵尸网络利用,https://www.secrss.com/articles/2621
+2018-05-15
+EFAIL：PGP/GPG 和 S/MIME漏洞预警,https://cert.360.cn/warning/detail?id=5787a9978a858723ac828cedf0b80f86
+CVE-2018-1313：Apache Derby外部控制输入漏洞,http://www.systemtek.co.uk/2018/05/apache-derby-externally-controlled-input-vulnerability-cve-2018-1313/#sthash.myVu7ooJ.dpbs
+CVE-2018-11013：D-Link DIR-816 A2（CN）路由器允许未经身份验证的远程攻击者请求执行任意代码,https://0x3f97.github.io/exploit/2018/05/13/D-Link-DIR-816-A2-CN-router-stack-based-buffer-overflow/
+熊猫银行家恶意软件用于针对银行，加密货币交易所和社交媒体的多项活动,https://securityaffairs.co/wordpress/72497/malware/panda-banker-campaigns-2018.html
+深入挖掘RIG Exploit Kit提供的名为Grobios的木马,https://www.fireeye.com/blog/threat-research/2018/05/deep-dive-into-rig-exploit-kit-delivering-grobios-trojan.html
+针对土耳其反对派的德国间谍软件,http://www.sueddeutsche.de/digital/ueberwachung-deutsche-spaeh-software-gegen-tuerkische-oppositionelle-eingesetzt-1.3979824
+Facebook因数据滥用而暂停200个应用程序,https://www.securityweek.com/facebook-suspends-200-apps-over-data-misuse
+Electron框架中存在漏洞，GitHub等知名桌面应用受影响,https://www.secrss.com/articles/2662
+Nigelthorn恶意软件已经通过滥用称为Nigelify的Google Chrome扩展程序，在100个国家/地区感染了100,000多个系统,http://t.cn/R36EyF9
+ACCC调查Oracle研究显示Google用户的Android手机计划数据为间谍,https://www.dailytelegraph.com.au/technology/smartphones/accc-investigating-oracle-research-showing-google-users-android-phone-plan-data-to-spy/news-story/3ca0cdaa3cc6992d134355bd0b7fcf40
+丹麦铁路公司DSB遭DDoS攻击无法购票,https://www.hackread.com/denmarks-train-operator-hit-by-ddos-attack/
+新研究人员发现证据北韩黑客正在开发iPhone间谍软件,https://www.forbes.com/sites/thomasbrewster/2018/05/11/apple-iphone-in-north-korean-hackers-sight
+Adobe更新了Acrobat，Reader和Photoshop修复了47个漏洞,http://www.isssource.com/acrobat-reader-patches-from-adobe/
+2018年第1季度IT威胁报告,https://securelist.com/it-threat-evolution-q1-2018-statistics/85541/
+以苹果用户为目标的钓鱼攻击活动试图欺骗受害者更新他们的个人资料,https://threatpost.com/gdpr-phishing-scam-targets-apple-accounts-financial-data/131915/
+WannaCry爆发一年后，EternalBlue的威胁仍然存在,https://www.securityweek.com/one-year-after-wannacry-outbreak-eternalblue-exploit-still-threat
+使用CVE-2018-8897以内核特权执行任意代码,https://github.com/can1357/CVE-2018-8897
+Sandmap - 使用大规模Nmap引擎支持网络和系统侦测的工具,https://www.kitploit.com/2018/05/sandmap-tool-supporting-network-and.html
+re_lab：使用docker的便携式逆向工程环境,https://github.com/cboin/re_lab
+2018-05-16
+Microsoft Windows 2003 SP2远程代码执行漏洞EXP(CVE-2017-11885),https://www.exploit-db.com/exploits/44616/
+安全研究员公布Red Hat Linux DHCP客户端存在命令注入漏洞的POC(CVE-2018-1111),https://twitter.com/Barknkilic/status/996470756283486209
+signal APP中的注入漏洞细节(CVE-2018-10994),https://ivan.barreraoro.com.ar/signal-desktop-html-tag-injection/
+Cisco Talos公布了他们发现的两个Adobe漏洞中的细节(CVE-2018-4996/CVE-2018-4947),https://blog.talosintelligence.com/2018/05/multiple-acrobat-reader-vulns.html
+ESET发现APT组织利用两个0day:Adobe中的远程代码执行漏洞(CVE-2018-4990)和windows中的提权漏洞(CVE-2018-8120),https://www.welivesecurity.com/2018/05/15/tale-two-zero-days/
+盘古实验室发现ZipperDown漏洞，影响微博、陌陌、快手、网易云音乐、QQ音乐等上万ios应用,https://mp.weixin.qq.com/s/SMpBQ4mZQLVLfgK7f84OYA
+VMware NSX SD-WAN中的命令注入漏洞(CVE-2018-6961),https://www.vmware.com//security/advisories/VMSA-2018-0011.html
+Sysmon v7.03发布,https://blogs.technet.microsoft.com/sysinternals/2018/05/14/sysmon-v7-03/
+全能型俄罗斯挖矿木马，简直是木马界的十项全能,https://mp.weixin.qq.com/s/j2fE62pL5ArH3XMxz36tMA
+CNCERT发布2017年我国互联网网络安全态势报告,http://www.cert.org.cn/publish/main/upload/File/situation.pdf
+protonmail关于PGP漏洞的声明,https://protonmail.com/blog/pgp-vulnerability-efail/
+上海对全市首例利用智能路由网关设备进行流量劫持的犯罪嫌疑人依法批准逮捕,https://tech.sina.cn/digi/nb/2018-05-15/detail-ihapkuvm0295695.d.html?wm=3049_0015
+Google的.APP域名现已开放供普通用户注册使用,https://get.app/
+卡巴斯基将大部分用户的数据从俄罗斯转移到瑞士,https://www.kaspersky.com/blog/swiss-assembled-security/22378/
+美国发现泄露中情局黑客工具的主要嫌疑人,https://www.washingtonpost.com/world/national-security/us-identifies-suspect-in-major-leak-of-cia-hacking-tools/2018/05/15/5d5ef3f8-5865-11e8-8836-a4a123c359ab_story.html
+欧盟声称数据保护条例(GDPR)将于5月25日上线，引发了大量新的政策,https://blog.malwarebytes.com/security-world/privacy-security-world/2018/05/gdpr-causes-a-flood-of-new-policies/
+ObjC的符号/名称混淆的坑以及如何手动破坏符号表,http://bbs.iosre.com/t/objc/11823
+使用upnp协议的DDOS攻击,https://www.imperva.com/blog/2018/05/new-ddos-attack-method-demands-a-fresh-approach-to-amplification-assault-mitigation/
+破解某支付软件防Xposed等框架Hook功能检测机制,https://mp.weixin.qq.com/s/Je1kRksxHTTYb4l9x3bTmQ
+奇葩的Adobe Flash Player安装流程,https://mp.weixin.qq.com/s/tEPsGL2Xra12BuxXAHzCuA
+手机验证码常见漏洞总结,https://mp.weixin.qq.com/s/5iNab7q8n6pFLCzahOCF6w
+红队网络基础设施建设,https://paper.seebug.org/599/
+defcon china上的议题:几种通用的android平台路径穿越漏洞的挖掘与利用,https://pan.baidu.com/s/1jAAGvukDuWp5ijAEk1EWQw
+GPON Home Gateway远程命令执行漏洞被利用情况,https://www.anquanke.com/post/id/144673
+EFAIL:PGP/GPG和S/MIME漏洞分析,https://cert.360.cn/report/detail?id=94ceaf3488ac25a34eb300ae11fc941b
+CVE-2018-8897/CVE-2018-1087:多个操作系统对MOV SS/POP SS指令处理存在缺陷,https://cert.360.cn/warning/detail?id=4611b1a042f950768066927df8f2fe24
+Spring Integration Zip不安全解压漏洞分析(CVE-2018-1261),https://paper.seebug.org/598/
+RCE with spring-security-oauth2分析(CVE-2018-1260),https://paper.seebug.org/597/
+ZDI发现了VBScript中隐藏在一个普通视图中的一个相当危险的特性,https://www.thezdi.com/blog/2018/5/15/its-time-to-terminate-the-terminator
+2016年至今一个中国的恶意IP的分析,https://0x00sec.org/t/tyrannosaurus-reproduced-fast-and-died-young-a-malicious-host-ip-c-c-from-china-2016-to-present/6691
+2018-05-17
+从ZipperDown漏洞谈iOS App安全实践,https://cert.360.cn/report/detail?id=3d8c719e7eb718017bbc7eade5b86462
+DynoRoot：Red Hat DHCP客户端命令执行漏洞(CVE-2018-1111)预警,https://cert.360.cn/warning/detail?id=f075706d5a3c7efbb56efeead3d68a72
+Cisco发布安全更新，解决影响多种产品的漏洞,https://www.us-cert.gov/ncas/current-activity/2018/05/16/Cisco-Releases-Security-Updates
+CVE-2018-11101：Signal-desktop HTML tag注入漏洞,http://seclists.org/fulldisclosure/2018/May/46
+CVE-2018-11128：PDFParser RCE漏洞,http://seclists.org/fulldisclosure/2018/May/44
+Cisco Firepower 威胁防御软件策略绕过漏洞,https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180516-firepwr-pb
+WinstarNssmMiner来袭：损人利己，暴力挖矿,http://www.360.cn/newslist/zxzx/WinstarNssmMinerlxsrljblwk.html
+“海莲花”团伙近期利用Office漏洞发起高频攻击,https://mp.weixin.qq.com/s/ac9SEAB3T6FEzKm73N6eTg
+Bondat蠕虫锁主页挖矿勒索三连击，危害已步步升级,https://mp.weixin.qq.com/s/01tyhpxN0ktnk_SVRUzV3g
+宙斯熊猫”银行木马仍在活跃 目标扩大到加密货币和社交媒体,https://www.hackeye.net/threatintelligence/13886.aspx
+通过快捷方式更改Windows10 / x上的权限升级,http://seclists.org/fulldisclosure/2018/May/45
+警方查获了位于荷兰的十台MaxiDed服务器，并逮捕了两人,https://www.bleepingcomputer.com/news/security/police-seize-servers-of-bulletproof-provider-known-for-hosting-malware-ops/
+Facebook无法摆脱面部识别官司,https://nakedsecurity.sophos.com/2018/05/16/facebook-cant-wiggle-out-of-facial-recognition-lawsuit-judge-says/
+Signal中发现严重的XSS漏洞,https://nakedsecurity.sophos.com/2018/05/16/serious-xss-vulnerability-discovered-in-signal/
+出于安全性考虑，荷兰政府将逐步弃用卡巴斯基,https://securityaffairs.co/wordpress/72551/cyber-warfare-2/dutch-government-bans-kaspersky.html
+墨西哥央行支付清算系统遭攻击，银行被盗款项数额不明,https://www.securityweek.com/hackers-divert-funds-mexico-banks-amount-unclear-official
+西门子SIMATIC控制器再爆DoS漏洞，攻击者可远程触发,https://www.secrss.com/articles/2718
+美国Chili’s连锁餐厅遭遇支付信息破坏,https://www.hackeye.net/securityevent/13900.aspx
+GPON 漏洞的在野利用（二）——Satori 僵尸网络,https://mp.weixin.qq.com/s/h-_85w-tX0H38belMNUdtQ
+spring-data-XMLBean XXE复现分析,https://blog.spoock.com/2018/05/16/cve-2018-1259/
+内网渗透之端口转发与代理工具总结,http://www.freebuf.com/articles/web/170970.html
+Fortinet威胁报告：恶意软件利用加密货币的演变,https://www.fortinet.com/blog/threat-research/fortinet-threat-report-reveals-an-evolution-of-malware-to-exploi.html?utm_source=feedburner
+2018-05-18
+思科发布多个安全更新，包括三个严重漏洞,https://tools.cisco.com/security/center/publicationListing.x
+Nagios XI多个漏洞分析预警,https://cert.360.cn/warning/detail?id=8279ccc65d48bf9f1cf6ca88b7902cac
+ Red Hat JBoss 企业版应用平台 5.2 安全更新,https://access.redhat.com/errata/RHSA-2018:1608
+Nanopool Claymore Dual 挖矿软件存在任意代码执行漏洞,https://cxsecurity.com/issue/WLB-2018050115
+Jenkins CLI HTTP Java 反序列化漏洞POC,https://cxsecurity.com/issue/WLB-2018050112
+菲尼克斯电气公司的FL SWITCH 3xxx / 4xxx / 48xx系列 存在远程代码执行漏洞,https://ics-cert.us-cert.gov/advisories/ICSA-18-137-02
+RedDawn：恶意组织Sun Team 针对Android设备的恶意软件分析,https://securingtomorrow.mcafee.com/mcafee-labs/malware-on-google-play-targets-north-korean-defectors/
+TeleGrab：从Telegram的桌面版本收集信息的恶意软件，该恶意软件主要针对俄罗斯人,https://blog.talosintelligence.com/2018/05/telegrab.html
+StalinLocker：一款会在十分钟之后删除文件和数据的勒索软件,https://www.hackread.com/stalinlocker-ransomware-unlock-code-deletes-data/
+CloudScraper：用于枚举和搜索云资源的工具，支持 S3 Buckets, Azure Blobs, Digital Ocean,http://t.cn/R3WbzKv
+Team Foundation Server解密工具,https://blog.fox-it.com/2018/05/17/introducing-team-foundation-server-decryption-tool/
+Procps-ng审计报告,https://mailclark.ai/email/original/11147592/593541/GaAvS7cL71LtXhdRkc09a4I0cG4?from_name=Qualys Security Advisory
+黑客通过影子交易从墨西哥银行中窃取数亿比索,https://www.tripwire.com/state-of-security/featured/hackers-siphon-hundreds-of-millions-of-pesos-out-of-mexican-banks-through-shadow-transactions/
+参议员刚刚通过决议恢复网络中立性,https://motherboard.vice.com/en_us/article/kzk8zm/senators-pass-net-neutrality-resolution
+黑客攻击Securus，该公司主要从事帮助执法部门定位和追踪移动设备,https://motherboard.vice.com/en_us/article/gykgv9/securus-phone-tracking-company-hacked
+清华大学李星：IPv4向IPv6过渡技术的思考,https://www.secrss.com/articles/2688
+6亿美元！微软Azure喜提美国情报部门亿元合同,https://www.secrss.com/articles/2743
+Edge Chakra NewScObjectNoCtor 数组类型混淆漏洞分析,https://www.fortinet.com/blog/threat-research/an-analysis-of-microsoft-edge-chakra-new-scobjectnoctor-array-type-confusion.html?utm_source=feedburner
+NorthSec 2018 Prototype pollution 攻击介绍,https://github.com/HoLyVieR/prototype-pollution-nsec18
+互联网公司数据安全保护新探索,https://www.secrss.com/articles/2742
+格式字符串漏洞总结,https://github.com/r0hi7/BinExp/blob/master/Lecture6/README.md
+2018-05-19
+Dell SupportAssist 驱动本地提权漏洞,http://hatriot.github.io/blog/2018/05/17/dell-supportassist-local-privilege-escalation/
+CVE-2018-1000136：Electron nodeIntegration绕过漏洞,http://www.4hou.com/vulnerable/11686.html
+CVE-2018-8120的分析与利用,http://bigric3.blogspot.jp/2018/05/cve-2018-8120-analysis-and-exploit.html
+DrayTek路由器紧急安全更新通知,https://www.draytek.com/en/about/news/2018/notification-of-urgent-security-updates-to-draytek-routers
+第一个能在设备重启后继续存活的僵尸网络,http://www.4hou.com/web/11640.html
+黑客利用Satori僵尸网络对网上暴露的以太坊采矿池进行大规模扫描,https://securityaffairs.co/wordpress/72651/hacking/satori-botnet-mass-scanning.html
+Redis采矿蠕虫的剖析,https://isc.sans.edu/index_cached.html
+激活工具带毒感染量近60万 北京等四城市用户不被攻击 ,https://bbs.pediy.com/thread-226862.htm
+2018年第一季度网络安全威胁态势分析与工作综述,http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057724/n3057728/c6179162/content.html?from=timeline
+MEWKit关于近期亚马逊BGP劫持和钓鱼攻击的详细报告,https://cdn.riskiq.com/wp-content/uploads/2018/05/MEWKit-Cryptotheft-Newest-Weapon-RiskIQ-Research.pdf
+LocationSmart网站无需身份验证可获得几百英尺内美国任何手机的实时位置,https://www.robertxiao.ca/hacking/locationsmart/
+2018先知白帽大会 | 参会指南 ,https://mp.weixin.qq.com/s?__biz=MzI5MzY2MzM0Mw==&mid=2247484744&idx=1&sn=d7c39cf64b5ff5d7ecbac7a86c3caeef&chksm=ec6fe248db186b5e0b99166d2d396bf2c0f2ff233385192455a2461ee044d095636515fdce9e&mpshare=1&scene=1&srcid=0518zjOVpCJnIVC6ZYina3Vl&pass_ticket=tMt5JSwYSyXsQUvmtMbQ5YTlJBsEyclMG%2B1mu1gqhDX8w3RE7O3ceooAeEU4f96J#rd
+美国国土安全部发布的《网络安全战略》有哪些看点？,https://www.secrss.com/articles/2753
+浏览器攻击利用的相关资料,https://www.it-sec-catalog.info/browser_exploitation.html
+以太坊智能合约安全入门了解一下（上）,http://rickgray.me/2018/05/17/ethereum-smart-contracts-vulnerabilites-review/
+以太坊智能合约安全 Dasp Top10,https://www.dasp.co/
+一个WIN32K空指针引用问题的分析,https://xiaodaozhi.com/exploit/156.html
+Didier Stevens 关于恶意PDF的分析,https://t.co/n9JvBZj8PB
+iOS 11.3.1 Jailbreak,https://t.co/W4avou4xaA
+Drupalgeddon客户端攻击调查,https://blog.malwarebytes.com/threat-analysis/2018/05/look-drupalgeddon-client-side-attacks/
+通过URL文件进行DLL劫持,https://insert-script.blogspot.ca/2018/05/dll-hijacking-via-url-files.html
+SpEL注入漏洞系列：Part II（CVE-2018-1260）,http://gosecure.net/2018/05/17/beware-of-the-magic-spell-part-2-cve-2018-1260/
+另一种远程Rowhammer攻击的可能性研究,https://www.theregister.co.uk/2018/05/17/nethammer_second_remote_rowhammer_exploit/
+GraphQL - 安全概述和测试技巧,https://blog.doyensec.com/2018/05/17/graphql-security-overview.html
+2018-05-20
+CVE-2018-11239：智能合约中的整数溢出漏洞允许攻击者完成未经授权的数字资产增加,https://peckshield.com/2018/05/18/burnOverflow/
+CVE-2018-4944：Adobe Flash Player 29.0.0.140及更早版本可能导致任意代码执行,https://helpx.adobe.com/security/products/flash-player/apsb18-16.html
+数百个应用程序可以帮助追踪者追踪他们的受害者,https://www.nytimes.com/2018/05/19/technology/phone-apps-stalking.html
+剑桥分析公司在美国开始破产程序,http://www.bbc.com/news/technology-44167000
+Mozilla发布Thunderbird的安全更新,https://www.mozilla.org/en-US/security/advisories/mfsa2018-13/
+研究人员在地下市场发现了一个包含超过2亿行日本个人身份信息（PII）的数据集,https://www.darkreading.com/threat-intelligence/actor-advertises-japanese-pii-on-chinese-underground/d/d-id/1331847
+黑客入侵了Securus的服务器，并提供了一些包括Securus执法客户的被盗数据,https://motherboard.vice.com/en_us/article/gykgv9/securus-phone-tracking-company-hacked
+巴基斯坦活动人士正在Facebook上被定位,https://www.peerlyst.com/posts/pakistani-activists-are-being-targeted-on-facebook-kimberly-crawley
+堆查看器 - 一个IDA Pro插件，用于检查Glibc堆，专注于漏洞利用开发,https://www.kitploit.com/2018/05/heap-viewer-ida-pro-plugin-to-examine.html
+CloudFrunt - 识别错误配置的CloudFront域,https://www.darknet.org.uk/2018/05/cloudfrunt-identify-misconfigured-cloudfront-domains/?utm_source=feedly
+Mitm6  - 通过IPv6提供IPv4服务mitm6是一款利用Windows默认配置接管默认DNS服务器的测试工具,https://github.com/fox-it/mitm6/
+2018-05-21
+DrayTek路由器存在0day攻击,https://www.draytek.co.uk/support/security-advisories/kb-advisory-csrf-and-dns-dhcp-web-attacks
+超过2亿日本人的数据在黑市上销售,https://www.bleepingcomputer.com/news/security/data-of-over-200-million-japanese-sold-on-underground-hacking-forum/
+360VulcanTeam演示最新iOS 11.3.1越狱视频,http://v.youku.com/v_show/id_XMzYxMTg3OTQ5Mg==.html
+谈谈身份与访问管理(IAM)的12大趋势,https://www.secrss.com/articles/2787
+快递信息安全再现窝案:顺丰中通等与内鬼交手成常态,https://www.secrss.com/articles/2785
+Frida从入门到入门—安卓逆向菜鸟的frida食用说明,https://mp.weixin.qq.com/s/-NQxFW59ELXM5rzb7MY5Nw
+从windows 10 ssh-agent中提取SSH私钥,https://blog.ropnop.com/extracting-ssh-private-keys-from-windows-10-ssh-agent/
+兼容2.6.x/3.x/4.x内核的LKM rootkit,https://github.com/f0rb1dd3n/Reptile
+通过URL文件实现DLL劫持,https://insert-script.blogspot.co.uk/2018/05/dll-hijacking-via-url-files.html
+Frida.Android.Practice (ssl unpinning),https://sec.xiaomi.com/article/43
+卡巴斯基对挖矿和钓鱼的恶意apk家族的分析,https://securelist.com/roaming-mantis-dabbles-in-mining-and-phishing-multilingually/85607/
+2018-05-22
+CVE-2018-3639 ：CPU Meltdown-Spectre漏洞变种4 Speculative Store Bypass,https://bugs.chromium.org/p/project-zero/issues/detail?id=1528
+CVE-2018-3639：Speculative Store Bypass（SSB）技术分析,https://blogs.technet.microsoft.com/srd/2018/05/21/analysis-and-mitigation-of-speculative-store-bypass-cve-2018-3639/
+DrayTek 路由器零日漏洞，已发现在野利用将DrayTek路由器DNS设置为38.134.121.95,https://www.bleepingcomputer.com/news/security/draytek-router-zero-day-under-attack/
+CVE-2018-8010：Apache Solr configset上传而导致的XXE漏洞,https://mailclark.ai/email/original/11251971/593541/eT-RPI4Edr_yhgxAPnQ7Cc7UXGM?from_name=Uwe Schindler
+CVE-2018-1000300：使用非常长的服务器命令应答关闭FTP连接时，可导致curl堆的缓冲区溢出造成RCE,https://curl.haxx.se/docs/adv_2018-82c2.html
+Foregenix公布 戴尔EMC RecoverPoint产品 的六个漏洞，其中三个还未修复,https://www.foregenix.com/blog/foregenix-identify-multiple-dellemc-recoverpoint-zero-day-vulnerabilities
+Internet Systems Consortium推出了安全更新，以解决BIND DNS软件中的2个漏洞,https://securityaffairs.co/wordpress/72738/security/bind-dns-software-flaws.html
+Dell SupportAssist 驱动程序存在漏洞 导致SYSTEM本地特权提升,https://hatriot.github.io/blog/2018/05/17/dell-supportassist-local-privilege-escalation/
+长亭 季度漏洞观察报告2018Q1,https://s3.cn-north-1.amazonaws.com.cn/chaitin-public/《季度漏洞观察报告 2018Q1》- 长亭科技.pdf
+深圳证监局：联储证券被曝存在多项信息安全漏洞,https://www.secrss.com/articles/2824
+谷歌被控追踪440万英国iPhone用户：索赔43亿美元,https://www.secrss.com/articles/2823
+腾讯Node.js基础设施TSW正式开源,https://mp.weixin.qq.com/s/wT6cEevRRQyhXpTgOXHTgg
+阿里云RDS智能诊断系统公开,https://mp.weixin.qq.com/s/BS88uBoJ3G034FmlHNEMGg
+OWASP-Web-Checklist：OWASP Web 安全检测清单,https://github.com/0xRadi/OWASP-Web-Checklist
+BinExp: Linux二进制漏洞利用教程,https://github.com/r0hi7/BinExp
+使用Radare2和Cutter解密APT33的Dropshot恶意软件 - 第1部分,https://www.megabeets.net/decrypting-dropshot-with-radare2-and-cutter-part-1/
+在7.0.0之前使用PF_RING打破命名空间隔离,https://www.synacktiv.com/posts/systems/breaking-namespace-isolation-with-pf_ring-before-700.html
+价值$36k的 Google App Engine 远成代码执行漏洞,https://sites.google.com/site/testsitehacking/-36k-google-app-engine-rce
+绕过Chrome XSS内置防御,https://bugs.chromium.org/p/chromium/issues/detail?id=845253
+GPON漏洞的在野利用（四） - TheMoon僵尸网络疑似使用新的0day,http://blog.netlab.360.com/gpon-exploit-in-the-wild-iv-themoon-botnet-join-in-with-a-0day/
+数据库服务器的挖矿僵尸网络 DDG.Mining.Botnet 近期活动分析,http://blog.netlab.360.com/ddg-mining-botnet-jin-qi-huo-dong-fen-xi/
+Mcafee：对疑似 ZooPark 恶意组织泄漏数据的分析报告,https://securingtomorrow.mcafee.com/mcafee-labs/its-a-zoo-out-there-data-analysis-of-alleged-zoopark-dump/?utm_content=sf190021341
+2018-05-23
+CVE-2018-3639 & CVE-2018-3640：CPU SSB/RSRE 漏洞预警,https://cert.360.cn/warning/detail?id=f94c1f7ada5e367222d64e75a065e8e4
+红帽针对CPU SSB（CVE-2018-3639）漏洞发布安全更新,https://access.redhat.com/errata/RHSA-2018:1636
+Ubuntu针对CPU SSB（CVE-2018-3639）漏洞发布安全更新,https://usn.ubuntu.com/3654-1/
+针对 Adobe Double Free（CVE-2018-4990） 的利用分析,https://srcincite.io/blog/2018/05/21/adobe-me-and-a-double-free.html
+CVE-2018-11328：Joomla URI User-Info组件存在跨站脚本漏洞,https://tools.cisco.com/security/center/viewAlert.x?alertId=57937
+使用PwnAuth检测和响应滥用OAuth行为,https://www.fireeye.com/blog/threat-research/2018/05/shining-a-light-on-oauth-abuse-with-pwnauth.html
+Comcast网站因漏洞泄露Xfinity客户数据,https://www.zdnet.com/article/comcast-bug-leaks-xfinity-home-addresses-wireless-passwords/
+威胁调研：58%的僵尸网络恶意软件感染时长不到1天 ,https://www.secrss.com/articles/2844
+有关机器学习Malware分类器的那些事,http://www.4hou.com/technology/11755.html
+亚马逊向美国警方提供近乎免费的人脸识别服务,https://www.secrss.com/articles/2845
+Rust SGX SDK v1.0.0 Release | 展望wasm多语言和智能合约支持 ,https://mp.weixin.qq.com/s?__biz=MzA3NTQ3ODI0NA==&mid=2247484403&idx=1&sn=efb4acf531d5ebb196bc353671190478&chksm=9f6ea678a8192f6e8e45eba3ff4932cfd4c68a6a84cf5994d2de2c96638ff8fbb18b9a1feb21&mpshare=1&scene=1&srcid=0523ZnKGMpGk2jHEinDXTcT0&pass_ticket=C%2FQRlyE79ztdRHJCj7efctrAVznl4Z0xfD3TzuvFkV%2F8cGbxWX7dgdO3SIyaUoca#rd
+疑似和朝鲜相关的Sun Team APT组织在Google Play商店上投放了恶意软件,https://securityaffairs.co/wordpress/72774/apt/sun-team-android-malware.html
+任意代码保护与内核代码注入,https://www.countercraft.eu/blog/post/arbitrary-vs-kernel/
+THE VOICE OF ESAU：利用音频接口攻击系统,https://www.slideshare.net/TalBeery1/the-voice-of-esau-hacking-enterprises-through-voice-interfaces
+ Hacking PS4 5.0x 内核，从 ring 3 到 ring 0,http://crack.bargains/02r0.pdf
+基于 Hypervisor 的 Windows Kernel memory 保护,https://igorkorkin.blogspot.com/2018/03/hypervisor-based-active-data-protection.html
+腾讯科恩实验室最新汽车安全研究成果:宝马多款车型的安全研究综述,https://keenlab.tencent.com/zh/2018/05/22/New-CarHacking-Research-by-KeenLab-Experimental-Security-Assessment-of-BMW-Cars/
+一个针对“比特票”挖矿木马样本的分析,https://www.anquanke.com/post/id/145552
+使用XMRig的新型Mac挖矿恶意软件,https://blog.malwarebytes.com/threat-analysis/mac-threat-analysis/2018/05/new-mac-cryptominer-uses-xmrig/
+SideWinder“响尾蛇”APT组织（T-APT-04 ） 针对南亚的定向攻击威胁 ,https://mp.weixin.qq.com/s?__biz=MzI5ODk3OTM1Ng==&mid=2247484945&idx=1&sn=9f41d57c91daf030495fccc74c71258c&chksm=ec9cdf62dbeb567422b8449879bbaa768ba240f54e5c3a20f0b6f4f4f42b94351e20dbb56035&mpshare=1&scene=1&srcid=0523zgCNhpspMLEwHdbzProL&pass_ticket=C%2FQRlyE79ztdRHJCj7efctrAVznl4Z0xfD3TzuvFkV%2F8cGbxWX7dgdO3SIyaUoca#rd
+恶意软件Roaming Mantis支持多语言，并利用Android 设备进行钓鱼和挖矿,https://www.hackread.com/multilingual-malware-hits-android-for-phishing-cryptomining/
+2018-05-24
+CVE-2018-8013：Apache披露了一个反序列化漏洞,https://xmlgraphics.apache.org/security.html
+CVE-2018-10356：趋势科技电子邮件加密网关5.5中的SQL注入远程执行代码漏洞可能允许攻击者在易受攻击的安装上执行任意SQL语句,https://www.zerodayinitiative.com/advisories/ZDI-18-420/
+D-Link DIR-620路由器存在多个漏洞,https://securelist.com/backdoors-in-d-links-backyard/85530/
+新的VPNFilter恶意软件针对全球至少50万个网络设备,https://blog.talosintelligence.com/2018/05/VPNFilter.html?utm_source=feedburner
+针对全球iOS，Android和桌面用户的DNS劫持恶意软件,https://thehackernews.com/2018/05/routers-dns-hijacking.html
+50个恶意Chrome扩展 - 最近3年内至少有5900万个用户浏览器受到感染,https://www.dodgethissecurity.com/2018/05/23/50-malicious-chrome-extensions-a-minimum-of-59-million-users-browsers-infected-over-the-last-3-years/
+洛杉矶非营利组织通过不安全的S3 Bucket泄露3.2M PII文件,https://www.darkreading.com/cloud/la-county-nonprofit-exposes-32m-pii-files-via-unsecured-s3-bucket/d/d-id/1331875
+黑客正在GPON路由器中利用新的零日漏洞,https://thehackernews.com/2018/05/hacking-gpon-routers.html
+全球恶意软件运动提供关键基础设施，娱乐，金融，医疗保健和其他行业的数据,https://securingtomorrow.mcafee.com/mcafee-labs/global-malware-campaign-pilfers-data-from-critical-infrastructure-entertainment-finance-health-care-and-other-industries/?utm_content=sf190030401
+北韩黑客利用FACEBOOK传播ANDROID恶意软件从事恶意行为,http://www.newsweek.com/north-korean-hackers-sun-team-infecting-defectors-phones-spying-malware-says-936154?sf190022055=1
+Crypton Ransomware安装使用黑客远程桌面服务,https://www.bleepingcomputer.com/news/security/crypton-ransomware-installed-using-hacked-remote-desktop-services/
+VMware修补了其Fusion和Workstation产品，以清除DoS和特权升级漏洞,http://www.isssource.com/vmwares-fusion-workstation-patched/
+联邦调查局一再向国会和公众提供了关于加密手机带来的问题并严重夸大统计数字,https://www.washingtonpost.com/world/national-security/fbi-repeatedly-overstated-encryption-threat-figures-to-congress-public/2018/05/22/5b68ae90-5dce-11e8-a4a4-c070ef53f315_story.html?noredirect=on
+美国政府无法从其网络中获得有争议的卡巴斯基实验室软件,https://www.thedailybeast.com/exclusive-us-government-cant-get-controversial-kaspersky-lab-software-off-its-networks
+Facebook老板告诉欧洲立法者：“我很抱歉”,https://www.securityweek.com/im-sorry-facebook-boss-tells-european-lawmakers
+如何使用WPScan攻击Wordpress网站,https://www.hackmydevice.com/2018/05/how-to-hack-wordpress-site-using-wpscan.html
+MINDSHA RE：用IDA PYTHON走进WINDOWS内核,https://www.zerodayinitiative.com/blog/2018/5/21/mindshare-walking-the-windows-kernel-with-ida-python
+新的zANTI：移动渗透和安全分析工具包,https://blog.zimperium.com/zanti-cyber-threat-detection/
+2018-05-25
+CVE-2018-1130:linux内核dccp_write_xmit函数中存在空指针解引用,http://seclists.org/oss-sec/2018/q2/138
+最新安全狗绕过姿势20180524,https://mp.weixin.qq.com/s/4SuVB-h4I1ecAS0n1GbZ6g
+WindowsXp系统调用课堂学习笔记,https://mp.weixin.qq.com/s/UUEDI_t5S-g3F7JInUm_Dw
+盘古实验室披露ZipperDown漏洞细节,https://mp.weixin.qq.com/s/X-CWgPFUTvlj_okcVL3gYg
+DarkHotel APT团伙新近活动的样本分析,http://www.freebuf.com/articles/system/171049.html
+Windows上用QEMU安装ARM版Debian时网卡驱动的坑,https://mp.weixin.qq.com/s/4rXlZYjudMOyT06yn8EiWQ
+CVE-2018-5175:Universal CSP strict-dynamic bypass in Firefox,https://mksben.l0.cm/2018/05/cve-2018-5175-firefox-csp-strict-dynamic-bypass.html
+BitcoinGold遭遇51%攻击,https://forum.bitcoingold.org/t/double-spend-attack-on-exchanges/1362
+亚马逊Alexa录制对话并将其发送给未经许可的联系人,https://www.bleepingcomputer.com/news/technology/amazon-alexa-recorded-a-conversation-and-sent-it-to-a-contact-without-permission/
+FBI宣布VPNFilter和APT28有关并且已经控制了僵尸网络,https://www.bleepingcomputer.com/news/security/fbi-takes-control-of-apt28s-vpnfilter-botnet/
+基于区块链域名的僵尸网络病毒分析,http://www.freebuf.com/articles/blockchain-articles/172559.html
+恶意程序详细分析:不仅仅是利比亚天蝎,http://www.freebuf.com/articles/security-management/172247.html
+恶意edge和chrome扩展程序用来传递后门,https://blog.trendmicro.com/trendlabs-security-intelligence/malicious-edge-and-chrome-extension-used-to-deliver-backdoor/
+卡巴斯基对VPNFilter和C2通信机制的详细分析,https://securelist.com/vpnfilter-exif-to-c2-mechanism-analysed/85721/
+2018-05-26
+施耐德电气发布 SoMachine Basic 安全更新，修复一个XXE漏洞,https://threatpost.com/schneider-electric-patches-xxe-vulnerability-in-plcs/132220/
+Ubuntu 安全更新：Thunderbird 存在多个漏洞可能导致任意代码执行,https://usn.ubuntu.com/3660-1/
+在APPLE MAIL中，PGP 消息仍然会受到 EFAIL 漏洞影响,https://theintercept.com/2018/05/25/in-apple-mail-theres-no-protecting-pgp-encrypted-messages/
+TalkTalk路由器存在漏洞，导致Wi-Fi密码泄露,https://securityaffairs.co/wordpress/72805/laws-and-regulations/talktalk-super-routers-flaws.html
+procps-ng 本地提权漏洞预警,https://mp.weixin.qq.com/s/kGVtJLGb6ojXtW8bHdi2DA
+UEditor SSRF漏洞(JSP版本)分析与复现 ,https://mp.weixin.qq.com/s/OPbyYQNWiN2dy_BHhqd9eg
+xdg-utils中的open_envvar函数未过滤BROWSER环境变量，可能导致远程命令执行,http://www.linuxsecurity.com/content/view/212386?rdf
+ESET研究人员发现了一种银行恶意软件，它采用了一种新技术来绕过专门的浏览器保护措施,https://www.welivesecurity.com/2018/05/25/backswap-malware-empty-bank-accounts/
+emotet 恶意软件分析（part 1）,https://blog.malwarebytes.com/threat-analysis/2018/05/malware-analysis-decoding-emotet-part-1/
+光大银行信用卡漏洞：额度可提15万 瞬间被撸走25亿,https://www.secrss.com/articles/2917
+黑客再次攻击Verge加密货币网络，几小时获利1053万,https://www.secrss.com/articles/2909
+LifeBridge 被攻击，可能已导致500,000患者的个人信息泄露,http://t.cn/R12ZxND
+欧盟首个数据保护条例GDPR（General Data Protection Regulation）今日生效，中文翻译版,https://www.secrss.com/articles/2894
+首届中国工业信息安全大会召开，发布成果《工业信息安全概论》,https://www.secrss.com/articles/2915
+MOSEC2018 移动安全技术峰会,http://u7100280.viewer.maka.im/pcviewer/IH8GD13R
+Electron 自定义协议命令注入补丁使用 host-rules 参数再次绕过分析,https://blog.doyensec.com/2018/05/24/electron-win-protocol-handler-bug-bypass.html
+超过一亿个物联网设备可能会受到Z-Shave（Z-Wave 协议降级）攻击,https://securityaffairs.co/wordpress/72898/hacking/z-shave-z-wave-attack.html
+虚拟化学习： 使用二进制translation的VMWare和完全虚拟化,https://saferwall.com/blog/virtualization-internals-part-2-vmware-and-virtualization-using-binary-translation
+二进制 exp 开发,https://medium.com/@danielabloom/binary-exploitation-eli5-part-3-d1872eef71b3
+2018-05-27
+施耐德SoMachine Basic产品中的CVE-2018-7783漏洞可被利用来读取目标系统上的任意文件,https://securityaffairs.co/wordpress/72910/hacking/somachine-basic-flaw.html
+Joomla!发现核心 XSS 漏洞，附验证过程,https://mp.weixin.qq.com/s?__biz=MzI4ODA4MTcxMA==&mid=2649551636&idx=1&sn=98028fc30120a67380489284870220ae&chksm=f3db8155c4ac08435410563ab7b8b07cf4be046ed6863e12fda27eca4e83882dfa28fbcfbca1&mpshare=1&scene=1&srcid=05276ycpEs0mUiAQ3ViybFuV&pass_ticket=PtFWa9HcpkAeUdqGuCVdY23z6lizrslIpLVZkbmqYa2kPvrH%2FhiOXq86%2BukQATgd#rd
+Terminal Server Multi RDP 2.1.0 20180527版本发布,https://github.com/gentilkiwi/mimikatz/releases
+  HTTPoxyScan - HTTPoxy Exploit Scanner,https://www.kitploit.com/2018/05/httpoxyscan-httpoxy-exploit-scanner.html
+Salt-Scanner：基于Salt Open和Vulners Audit API的Linux漏洞扫描器,https://www.kitploit.com/2018/05/salt-scanner-linux-vulnerability.html
+反序列化漏洞paper,https://www.exploit-db.com/docs/english/44756-deserialization-vulnerability.pdf?rss
+360 | 数字货币钱包安全白皮书 ,https://www.anquanke.com/post/id/146233
+在GDPR生效第一天Facebook和谷歌就面临88亿美元的诉讼打击,https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458289622&idx=2&sn=45a7724f0f8d6e6937fff04e485109b5&chksm=b181b55c86f63c4a5ece11e6e20f1d515adb7d79e7e2c4de786605e02e5d556b51ffac9e91fb&mpshare=1&scene=1&srcid=0527tDKtlSstp94K0q4s19wv&pass_ticket=PtFWa9HcpkAeUdqGuCVdY23z6lizrslIpLVZkbmqYa2kPvrH%2FhiOXq86%2BukQATgd#rd
+关于暗网的一些分析,https://mp.weixin.qq.com/s?__biz=MzA3MTEwNDE1NA==&mid=2649431978&idx=1&sn=29a191aba9f73da0080993c2dea537c5&chksm=872d1c5fb05a9549ec9a6f498ac07992e7075678d2a1da3f95b4ccd4436bf796f5ef88cf6922&mpshare=1&scene=1&srcid=0527LRuHtQD2Yhr99vt3OG5g&pass_ticket=PtFWa9HcpkAeUdqGuCVdY23z6lizrslIpLVZkbmqYa2kPvrH%2FhiOXq86%2BukQATgd#rd
+openSUSE Conference 2018 - 关于TLS 1.3的介绍,https://www.youtube.com/watch?v=Ye37HbopzwQ
+Oracle打算去除高风险的Java 序列化,https://www.infoworld.com/article/3275924/java/oracle-plans-to-dump-risky-java-serialization.html
+德国安全研究人员设计了一种名为SEVered的方法来攻破AMD的安全加密虚拟化,https://securityaffairs.co/wordpress/72929/hacking/amd-secure-encrypted-virtualization-hack.html
+微软将在Office 365中屏蔽Flash,http://www.freebuf.com/news/172725.html
+关于Radare2的一些文章和学习资料,https://github.com/dukebarman/awesome-radare2
+xposed art-runtime移植细节 ,https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458289622&idx=1&sn=451eeb549d1d3d1ee137fcd58baa9e04&chksm=b181b55c86f63c4ac54d821df206c1834f35bef986d6ede8b947af0b20cdd6be4f99b4141723&mpshare=1&scene=1&srcid=0527LkoA5GBxNxAoZprMRqhX&pass_ticket=PtFWa9HcpkAeUdqGuCVdY23z6lizrslIpLVZkbmqYa2kPvrH%2FhiOXq86%2BukQATgd#rd
+以太坊智能合约安全入门了解一下（下）,https://paper.seebug.org/607/
+WMAMiner挖矿蠕虫分析,http://www.freebuf.com/articles/system/172307.html
+数百款Android设备预装了恶意软件Cosiloon,https://www.hackread.com/hundreds-of-android-devices-shipped-with-pre-installed-malware/
+对恶意勒索软件Samsam多个变种的深入分析 ,https://www.anquanke.com/post/id/145920
+2018-05-28
+Windscribe 1.81代码执行漏洞,https://cxsecurity.com/issue/WLB-2018050243
+BackSwap恶意软件可找到创新的方式来清空银行帐户,https://www.welivesecurity.com/2018/05/25/backswap-malware-empty-bank-accounts/
+RedDawn间谍活动显示移动APT攻击正在崛起,https://threatpost.com/reddawn-espionage-campaign-shows-mobile-apts-on-the-rise/132081/?sf190022806=1
+可口可乐的数据泄露已经影响了约8000名员工,https://securityaffairs.co/wordpress/72941/data-breach/coca-cola-data-breach.html
+T-Mobile网站中的一个错误允许任何人看到任何客户的账户信息,https://securityaffairs.co/wordpress/72935/data-breach/t-mobile-site-bug.html
+黑客利用反政府信息来破坏伊朗机场的屏幕,https://www.hackread.com/hackers-deface-airport-screens-in-iran/
+GRU工作人员与2014年乌克兰客机击落有关,https://arstechnica.com/tech-policy/2018/05/russian-unit-gru-officer-linked-to-2014-shoot-down-of-airliner-over-ukraine/
+基于Web的Web开发以及普遍存在的跨源信息泄漏问题,https://www.arturjanc.com/cross-origin-infoleaks.pdf
+思科5月18-25日威胁综合报告,https://blog.talosintelligence.com/2018/05/threat-roundup-0518-0525.html
+PS4 5.05内核漏洞利用已经发布,https://github.com/Cryptogenic/PS4-5.05-Kernel-Exploit
+SEVered：颠覆AMD的虚拟机加密,https://arxiv.org/pdf/1805.09604.pdf
+iOSRestrictionBruteForce v2.1.0 - 使用Python破解iOS限制密码,https://www.kitploit.com/2018/05/iosrestrictionbruteforce-v210-crack-ios.html
+英特尔引擎固件分析工具,https://github.com/platomav/MEAnalyzer
+2018-05-29
+VPNFilter Stage 1分析,https://mp.weixin.qq.com/s/YZv82xvAK4lxj7Sh5I7Vsw
+Android辅助类病毒研究报告,http://www.freebuf.com/articles/terminal/172767.html
+快速进击的挖矿僵尸网络:单日攻击破10万次,http://www.freebuf.com/articles/paper/172797.html
+对IOTA的curl hash函数的密码学分析,https://github.com/colavitam/curl-collisions/raw/master/paper.pdf
+以太坊智能合约安全入门上下篇完整版,http://rickgray.me/files/Ethereum_Smart_Contract_Vulnerabilities_Review.pdf
+360信息安全部发布数字货币钱包安全白皮书,https://www.anquanke.com/post/id/146233
+CVE-2018-4990 Acrobat Reader堆内存越界访问释放漏洞分析,https://mp.weixin.qq.com/s/Fbx41pkdhocGVyZSkkN_Xw
+哥伦比亚大学的三名研究人员创建了一种名为FontCode的技术在字符中嵌入隐藏的消息,http://www.cs.columbia.edu/cg/fontcode/fontcode.pdf
+EKFiddle:基于Fiddler研究恶意流量的框架,https://github.com/malwareinfosec/EKFiddle
+SRCHunter一款基于Python的开源扫描器,https://mp.weixin.qq.com/s/EUigTvLZCJXbpfhpw5z6Zw
+Oracle计划去掉Java中的序列化功能,https://www.bleepingcomputer.com/news/security/oracle-plans-to-drop-java-serialization-support-the-source-of-most-security-bugs/
+python可能会允许安全工具查看运行时的行为,https://www.bleepingcomputer.com/news/security/python-may-let-security-tools-see-what-operations-the-runtime-is-performing/
+2018-05-30
+360公司Vulcan（伏尔甘）团队披露区块链平台EOS严重漏洞,https://mp.weixin.qq.com/s/UeXrbT5BFe9WKd63wDiQhg
+CVE-2018-1418 ：IBM QRadar未经身份验证的远程代码执行漏洞,https://blogs.securiteam.com/index.php/archives/3689
+CVE-2018-10092：Dolibarr管理员面板验证了远程执行代码（RCE）漏洞,http://seclists.org/fulldisclosure/2018/May/53
+未受保护的WiFi访问和Vgate iCar2 OBD2 Dongle中未加密的数据传输漏洞,http://seclists.org/fulldisclosure/2018/May/66
+CVE-2018-11027：Ruckus（博科）ICX7450-48反射式跨站脚本漏洞,http://seclists.org/fulldisclosure/2018/May/65
+foilChat注册漏洞,http://seclists.org/fulldisclosure/2018/May/67
+JDA连接多个严重漏洞,http://seclists.org/fulldisclosure/2018/May/64
+针对信息窃取恶意软件AZORult的分析,https://www.anquanke.com/post/id/146377
+一起涉及多个DDoS僵尸网络样本的攻击事件追踪,http://www.freebuf.com/articles/terminal/172840.html
+MalHide新恶意软件样本分析,https://securityaffairs.co/wordpress/72977/malware/malhide-malware-analysis.html
+SideWinder“响尾蛇”APT组织（T-APT-04）：针对南亚的定向攻击威胁,http://www.freebuf.com/articles/paper/172628.html
+黑客是如何利用你的浏览器进行挖矿的？,http://www.freebuf.com/articles/web/172560.html
+两家加拿大银行遭黑客攻击，大量用户数据被盗,https://www.hackread.com/hackers-demand-1m-ransom-from-2-canadian-banks/
+加密货币初创公司Taylor遭攻击，被盗135万美元,https://www.zdnet.com/article/all-of-cryptocurrency-trading-app-taylors-funds-have-been-stolen/
+软银广受欢迎的机器人Pepper存在大量的安全漏洞,https://www.theregister.co.uk/2018/05/29/softbank_pepper_robot_multiple_basic_security_flaws/
+窃贼利用黑科技23秒解锁奔驰汽车,https://www.hackread.com/watch-thieves-steal-keyless-mercedes-within-23-seconds/
+以2018世界杯为主题进行网络钓鱼诈骗,https://securelist.com/2018-fraud-world-cup/85878/
+巴布亚新几内亚国家正计划对Facebook进行为期一个月的全国禁令,https://www.grahamcluley.com/papua-new-guinea-to-ban-facebook-for-a-month/
+苹果承认交出大量用户数据 涉及敏感隐私,http://finance.sina.com.cn/stock/usstock/c/2018-05-29/doc-ihcffhsu7494581.shtml
+可穿戴设备的网络物理风险,https://securelist.com/trojan-watch/85376/
+CVE-2018-4910：在Adobe Acrobat中分析RCE以及几乎修复它的补丁程序,https://www.zerodayinitiative.com/blog/2018/5/29/malicious-intent-using-adobe-acrobats-ocg-setintent
+驱动调试——挫败内核模式保护机制（part I）,https://mp.weixin.qq.com/s/sILEqt6V6zkdCEI_xRvXEA
+花式追踪你的宠物,https://www.anquanke.com/post/id/145879
+Firefox中通用内容安全策略的Strict-Dynamic限制绕过漏洞分析,https://www.anquanke.com/post/id/146180
+2018-05-31
+MachForm PHP在线表单生成程序多个漏洞 ,https://mailclark.ai/email/original/11593370/593541/chUxRV5sVEndwFQamnBSpItdagA?from_name=Amine Taouirsa
+CVE-2018-11235 ：Git 任意代码执行漏洞,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-11235
+Steam 客户端远程代码执行漏洞,https://www.contextis.com/blog/frag-grenade-a-remote-code-execution-vulnerability-in-the-steam-client
+ Microsoft Windows JScript 存在 UAF 漏洞导致远程代码执行漏洞,https://www.zerodayinitiative.com/advisories/ZDI-18-534/
+VPNFilter-新型IoT Botnet深度解析,https://cert.360.cn/report/detail?id=945a1c98a0b2500c9e1654df9edf08eb
+趋势科技：针对 巴西银行 的木马分析,https://threatpost.com/brazilian-banking-trojan-communicates-via-microsoft-sql-server/132325/
+MyKings僵尸网络的新动向：利用NSIS脚本挖门罗币,https://mp.weixin.qq.com/s/bgOLZIAcVw5ElN0Szc5Xyg
+“隐蜂”来袭：金山毒霸截获全球首例Bootkit级挖矿僵尸网络（上篇）,http://www.freebuf.com/articles/network/173400.html
+RIPS将安全分析整合到Jenkins中，新的版本支持管道功能,https://blog.ripstech.com/2018/jenkins-ci-plugin/
+2018年第一季度中国银行业网络风险报告,https://www.secrss.com/articles/3009
+2018年IT安全现状报告,https://www.cio.com/article/3274588/security/the-state-of-it-security-2018.html
+黑客向两家泄露信息的加拿大银行索要一百万美元赎金,https://www.hackread.com/hackers-demand-1m-ransom-from-2-canadian-banks/
+APT组织Hidden Cobra 使用两款恶意软件 Joanap 和 Brambul 可能影响到多个国家,https://www.us-cert.gov/ncas/alerts/TA18-149A
+EOS节点再爆配置错误问题：神秘黑客正在扫描泄露私钥,https://www.secrss.com/articles/3004
+攻击雅虎并盗取5亿账户的黑客被判刑5年,https://arstechnica.com/tech-policy/2018/05/yahoo-hacker-whose-work-compromised-500m-accounts-sentenced-to-5-years/
+英国国家网络安全中心NCSC的运作实践检视,https://www.secrss.com/articles/3022
+谷歌新推出了 bot 识别机制 reCAPTCHA v3 Beta,https://www.google.com/recaptcha/intro/v3beta.html
+为了应对 Spectre / Meltdown 漏洞危害，重新思考 Chrome 渲染器进程的威胁模型和防御,https://chromium.googlesource.com/chromium/src/ /master/docs/security/side-channel-threat-model.md
+通过声音损害硬盘驱动器和操作系统的可用性和完整性的研究报告,https://spqr.eecs.umich.edu/papers/bolton-blue-note-IEEESSP-2018.pdf
+符号执行技术综述,https://arxiv.org/pdf/1610.00502.pdf
+关于 AWS Lambda 的逆向工程研究,https://www.denialof.services/lambda/
+CVE-2017-17557： Foxit Reader 和 PhantomPDF 整数溢出导致远程代码执行漏洞分析,http://blog.0patch.com/2018/05/0patching-foxit-reader-buffer-oops.html
+2018-06-01
+安全人员发现Windows的JScript组件存在0day漏洞，可造成RCE,https://securityaffairs.co/wordpress/73076/hacking/jscript-component-0day.html
+Rails 5.1.4 YAML unsafe deserialization RCE payload ,https://gist.github.com/niklasb/df9dba3097df536820888aeb4de3284f
+Prowler：分布式网络漏洞扫描器,https://www.kitploit.com/2018/05/prowler-distributed-network.html
+Mutt：命令行接发电子邮件的工具,https://medium.com/@stessyco/gmail-from-the-command-line-with-mutt-mac-os-x-92d047bcd74f
+Sharesniffer：用于爬取网络上的共享文件,https://www.kitploit.com/2018/05/sharesniffer-network-share-sniffer-and.html
+卡巴斯基对于暗网的分析报告,https://go.kaspersky.com/rs/802-IJN-240/images/Dark Web 10172017.pdf?aliId=508168687
+《网络安全法》正式实施一周年观察报告,https://www.secrss.com/specials/969ea95e60e6ef04
+Google 发布Chrome 67，增加了对凭证管理 API WebAuthn 的支持,https://www.bleepingcomputer.com/news/software/google-chrome-67-released-for-windows-mac-and-linux/
+Git 爆任意代码执行漏洞，所有使用者都受影响,https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458289716&idx=2&sn=33e0c1e6051643d43dfec10cb5828641&chksm=b181b6be86f63fa834bc35137a5a2d9d8d3aa325eb5dc8ef08fbff26a6e7d69f5a8f3d8e9db8&mpshare=1&scene=1&srcid=0601zHLMS4hbwmwOidOupGjs&pass_ticket=vhLs0vikMOy75gmJDGQFJa%2BmqnHWH0P6QvOKyFqhHdxVVShQ25BukBwNvaG7p3ku#rd
+“双杀”漏洞攻击代码被加入了RIG漏洞利用包中,https://www.synacktiv.com/posts/pentest/practical-dma-attack-on-windows-10.html
+新兴5G技术可以兼容SIM卡，相关联的物联网设备可能存在风险,https://blog.trendmicro.com/trendlabs-security-intelligence/emerging-5g-technology-could-compromise-sim-card-dependent-iot-devices/
+SS7路由协议被用于跟踪客户位置和通信,https://arstechnica.com/information-technology/2018/05/nefarious-actors-may-have-abused-routing-protocol-to-spy-on-us-phone-users/
+iOS jailbreak internals (1): Remount rootfs after iOS 11.3,https://www.weibo.com/ttarticle/p/show?id=2309404245794218721506
+利用 CSS3 特性对浏览器进行侧信道攻击,https://www.evonide.com/side-channel-attacking-browsers-through-css3-features/
+通过fuzz来挖掘Zalgoscript存在的漏洞,https://portswigger.net/blog/unearthing-zalgoscript-with-visual-fuzzing
+如何渗透测试以太坊dApps ,https://www.anquanke.com/post/id/146602
+对WINDOWS 10的实际DMA攻击,https://www.synacktiv.com/posts/pentest/practical-dma-attack-on-windows-10.html
+在Linux中使用环境变量进行提权,http://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/
+通过HTTP参数污染绕过谷歌的验证码,https://www.securityweek.com/http-parameter-pollution-leads-recaptcha-bypass
+java反序列化漏洞解析,https://nytrosecurity.com/2018/05/30/understanding-java-deserialization/
+在内网中获得域管理账户的五种方法,https://medium.com/@adam.toscher/top-five-ways-i-got-domain-admin-on-your-internal-network-before-lunch-2018-edition-82259ab73aaa
+Windows 系统调用表，从Windows NT开始搜集,https://github.com/j00ru/windows-syscalls
+XorDDoS家族最新变种来袭 ,http://www.freebuf.com/articles/system/172987.html
+Glupteba恶意代理木马利用“永恒之蓝”漏洞传播，感染量激增,http://www.freebuf.com/articles/system/172929.html
+“双杀”国内首现在野攻击：黑产老炮掀起挂马盗号风暴,https://lx.api.qihu.com/pc/richMedia/displaySecondMsg.do?lx-oauth=true
+2018-06-02
+Quest DR Series磁盘备份多个漏洞,https://www.coresecurity.com/advisories/quest-dr-series-disk-backup-multiple-vulnerabilities
+APT28：ASERT团队发布了一个Absolute LoJack笔记本的报告被APT28修改,https://www.lastline.com/labsblog/apt28-rollercoaster-the-lowdown-on-hijacked-lojack/
+Valve Steam客户端修补了十年前的远程代码执行漏洞,https://www.zdnet.com/article/remote-code-execution-vulnerability-patched-in-valve-steam-client/
+与朝鲜挂钩的安达利亚APT集团在最近的袭击中利用了ActiveX 0Day,https://securityaffairs.co/wordpress/73089/malware/activex-zero-day-andariel.html
+新的研究显示75％的'开放'Redis服务器受到感染,https://www.imperva.com/blog/2018/06/new-research-shows-75-of-open-redis-servers-infected/
+Ticketfly网站遭到入侵，黑客也窃取了客户的数据,https://securityaffairs.co/wordpress/73105/data-breach/ticketfly-data-breach.html
+EFF和23个公民自由组织要求对国家安全局国内电话记录监视的透明度,https://www.eff.org/deeplinks/2018/05/eff-and-x-civil-liberties-organizations-demand-transparency-nsa-domestic-phone
+泄露的电子邮件显示谷歌预期利润丰厚的军用无人机AI工作量将呈指数增长,https://theintercept.com/2018/05/31/google-leaked-emails-drone-ai-pentagon-lucrative/
+德国国家情报局的外国情报机构可以监视世界上最大的互联网交换机,https://securityaffairs.co/wordpress/73097/intelligence/bnd-intelligence-surveillance.html
+Sonic＆Ultra信号可以使Windows，Linux硬盘崩溃,https://www.hackread.com/sonic-ultra-signals-attack-crash-windows-linux-hard-drives/
+通过BlueTooth的交互式Shell,https://www.tarlogic.com/en/blog/interactive-shell-via-bluetooth/
+2018-06-03
+360安全监测与响应中心发现施耐德旗下产品存在两个严重的远程代码执行漏洞,https://mp.weixin.qq.com/s/JZtZ5x2NTfXsIASiikZ8Dg
+RAMMap v1.51发布，兼容最新win10,https://blogs.technet.microsoft.com/sysinternals/2018/06/01/rammap-v1-51/
+EOS向360发布3万美金致谢,http://www.freebuf.com/news/173733.html
+谷歌配置错误导致众多组织数据泄露,https://mp.weixin.qq.com/s/H8OeIBP7HpCuY1dNzpGNww
+AsiaSecWest即将开幕 完整大会议程首次曝光,https://mp.weixin.qq.com/s/uA4bdYjJmlGqZd8Ml6pNRA
+一个简单的逻辑bug的故事,https://saelo.github.io/presentations/warcon18_dont_trust_the_pid.pdf
+CVE-2018-8120在Windows 7 x64环境下的漏洞利用分析,https://mp.weixin.qq.com/s/feZNATWLVhQKGaHWpzeXew
+Hadoop Yarn REST API未授权漏洞利用挖矿分析,http://www.freebuf.com/vuls/173638.html
+[No data中国进出口企业遭遇大规模“商贸信”攻击 企业机密被窃取,https://mp.weixin.qq.com/s/QNEbkLgFCNWA31hzC15pbQ
+2018-06-04
+CVE-2018-11481:多款TP-LINK产品远程代码执行安全漏洞,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-11481
+CVE-2018-11625：ImageMagick 堆缓冲区溢出漏洞,https://cve.mitre.org/cgi-bin/cvename.cgi?name=2018-11625
+CVE-2018-11598：Espruino jsparse.c拒绝服务漏洞,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-11598
+CVE-2018-1370:IBM Security Guardium Big Data Intelligence关键资源权限分配漏洞,http://www-01.ibm.com/support/docview.wss?uid=swg22016132
+Windows 10 内核漏洞利用防护及其绕过方法,https://www.blackhat.com/docs/us-17/wednesday/us-17-Schenk-Taking-Windows-10-Kernel-Exploitation-To-The-Next-Level–Leveraging-Write-What-Where-Vulnerabilities-In-Creators-Update-wp.pdf
+如何通过HTTP参数污染绕过RECAPTCHA,https://mp.weixin.qq.com/s/auWS4fV1Qb8kLzy1OLGJ5g
+浅谈最近流行的三起区块链51%算力攻击,http://www.freebuf.com/articles/blockchain-articles/173022.html
+MEWKit：Cryptotheft的最新武器,https://paper.seebug.org/608/
+微软或收购代码托管平台GitHub:价格或高达50亿美元,http://tech.sina.com.cn/it/2018-06-02/doc-ihcikcew5092708.shtml
+十大无线黑客工具,http://www.hackmydevice.com/2018/06/hi-in-this-tutorial-i-will-be-going-to.html
+光大惊现提额大漏洞，获利者是中介，一小时狂赚40万！,https://mp.weixin.qq.com/s/o6vEviZStqHHBZkMmYdoiA
+在线票务网站Ticketfly因遭受攻击全面下线,https://mp.weixin.qq.com/s/QVERknCq2JZZnx-W0xMjgg
+健身应用程序 PumpUp 泄露健康数据以及私人消息,https://www.zdnet.com/article/fitness-app-pumpup-leaked-health-data-private-messages/
+二手手机泄露隐私：网上1毛钱一条卖机主信息,http://finance.ifeng.com/a/20180529/16327244_0.shtml
+对近期Iron组织的恶意软件分析,https://www.intezer.com/iron-cybercrime-group-under-the-scope-2/
+一种新型的廉价恶意软件——“夜贼”,https://www.anquanke.com/post/id/146738
+DDG.Mining.Botnet 近期活动分析,https://mp.weixin.qq.com/s/L2I0FzA1ZULWmeod4uDsEg
+预警：Linux.BackDoor.Xnote.1最新变种来袭,https://mp.weixin.qq.com/s/JMzzplyczPjZWUofdXngAQ
+2018-06-05
+多个 Jenkins 插件漏洞,https://mailclark.ai/email/original/11748138/593541/GBrtJTfcIsbEwp4iJgVWswXvlt0?from_name=Daniel Beck
+横河电机 STARDOM 控制器高危漏洞预警,https://mp.weixin.qq.com/s/Wxr8Mk6WxTVBe6iHMgjN5w
+Backdoorme：强大的自动后门程序,https://github.com/Kkevsterrr/backdoorme
+PowerShell Empire Web：使用 Web 界面操作的PowerShell Empire,https://github.com/interference-security/empire-web
+watchdog：一款全面的安全扫描和漏洞管理工具,https://github.com/flipkart-incubator/watchdog
+WinPwnage：Windows 各种攻击工具与技术的整合,https://github.com/rootm0s/WinPwnage
+netdata：一个分布式监测实时性能和系统状态的系统,https://github.com/firehol/netdata
+尼日利亚黑客团伙SWEED攻击手法揭秘,http://www.freebuf.com/articles/system/173236.html
+一家印度制造公司遭受间谍攻击,https://www.deccanchronicle.com/nation/crime/020618/cyber-attack-peenya-based-export-firm-loses-crucial-data.html
+错误配置 Amazon AWS S3 Buckets导致本田 Honda Connect 手机应用泄露了超过五万名用户隐私,https://kromtech.com/blog/security-center/honda-leaked-personal-information-from-its-honda-connect-app
+微软宣布75亿美元微软股票收购 Github,https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/
+10位安全专家谈企业对GDPR的那些误解 ,https://www.secrss.com/articles/3123
+美将利用“五眼联盟”信息共享计划抵御俄罗斯黑客攻击 ,https://www.secrss.com/articles/3120
+基于 socket 的生命周期重用 shellcode,https://www.shelliscoming.com/2018/06/windows-reuse-shellcode-based-on.html
+macOS 内核扩展漏洞挖掘指导流程,https://www.anquanke.com/post/id/146857
+使用 Whois 命令进行文件传输的技巧,https://twitter.com/i/web/status/1001985728342102017
+minifilter 实现文件隐藏 ,https://mp.weixin.qq.com/s/fF06v5hDYE16cxqydkGLvw
+红队常用技巧介绍,https://ringzer0team.com/d/A-Journey-Into-a-RedTeam-2018.pdf
+基于用户数据改变检测并阻止勒索软件,http://www.arkteam.net/?p=3676
+商用密码技术在电力行业中的应用研究 ,https://www.secrss.com/articles/3129
+一种特殊的基于规模的异常检测算法,https://holisticinfosec.blogspot.com/2018/06/toolsmith-133-anomaly-detection-threat.html
+DefCon China 2018 中有关人工智能和机器学习在网络攻击上的应用方式和防御措施,https://erpscan.com/press-center/blog/highlights-of-ai-village-defcon-china-2018/
+2018-06-06
+Zip路径穿越漏洞,https://snyk.io/research/zip-slip-vulnerability?from=groupmessage
+CVE-2018-8008：Apache Storm任意文件写漏洞,http://seclists.org/oss-sec/2018/q2/159?utm_source=dlvr.it
+反病毒软件F-Secure解析RAR文件时存在漏洞，导致RCE,https://landave.io/2018/06/f-secure-anti-virus-remote-code-execution-via-solid-rar-unpacking/
+一些RPO漏洞存在于旧版Internet Explorer,https://blog.innerht.ml/internet-explorer-has-a-url-problem/
+XSStrike：一款高级XSS漏洞挖掘和利用工具,https://github.com/UltimateHackers/XSStrike
+RouterSploit：嵌入式设备的攻击框架,https://github.com/threat9/routersploit
+CSS键盘记录器：利用Chrome扩展和Express服务来进行键盘记录,https://www.kitploit.com/2018/06/css-keylogger-chrome-extension-and.html
+通过Joe Sandbox Linux沙箱对VPNFilter的分析报告,https://www.joesecurity.org/blog/3324819353816320524
+勒索软件Sigrun作者为俄罗斯受害者免费解密，其它国家需支付$2500,https://securityaffairs.co/wordpress/73201/malware/sigrun-ransomware.html
+一款经典银行木马的分析报告,http://www.blackstormsecurity.com/docs/FOAATTB.pdf
+Iron cybercrime组织正在使用HackingTeam开发的RCS作为后门,https://securityaffairs.co/wordpress/73211/malware/iron-cybercrime-group-hackingteam.html
+MyHeritage数据泄露 - 9230万用户凭据曝光,https://securityaffairs.co/wordpress/73229/data-breach/myheritage-data-breach.html
+AsiaSecWest国际安全技术峰会-亚洲站议程,https://www.asiasecwest.com/?from=singlemessage
+美国境外网络安全报告：在网络空间的结盟和御敌,https://www.secrss.com/articles/3137
+Overscripted Web: 关于JavaScript 执行的数据分析挑战,https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/
+如何追踪被盗比特币的一些讨论,https://www.lightbluetouchpaper.org/2018/03/26/tracing-stolen-bitcoin/
+处理器安全Part 2：Intel SGX 安全性分析和MIT Sanctum架构,https://people.csail.mit.edu/devadas/pubs/part_2.pdf
+RuhrSec 2018: "The Story of Meltdown and Spectre" by Dr. Daniel Gruss & Jann Horn,https://www.youtube.com/watch?v=xP4YATpTGmA
+通过SkyLined发现的一些软件漏洞集合,https://github.com/SkyLined/Bugs/
+工控漏洞挖掘方法之固件逆向分析,https://mp.weixin.qq.com/s/OS4ESfOACW9lhjxzt7B9xw
+Iot安全的相关资料搜集,https://github.com/V33RU/IoTSecurity101/blob/master/README.md
+由于 Cloudflare 错误的将 1.1.1.1 的正常 DNS 请求当作 DDOS 攻击而导致 DNS 解析异常,https://nakedsecurity.sophos.com/2018/06/04/cloudflare-mistakes-own-1-1-1-1-dns-for-ddos-attack/
+漫谈如何攻破一款浏览器,http://blog.ret2.io/2018/06/05/pwn2own-2018-exploit-development/
